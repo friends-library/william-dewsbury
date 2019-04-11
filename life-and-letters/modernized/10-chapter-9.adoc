@@ -1,7 +1,13 @@
 == Chapter 9
 
-Epistles--laborers increase--State of the prisons--Sufferings of Friends--The Cause:
-Faithfulness to their calling--Evidences that it was not of man--Sewel`'s testimony.
+[.chapter-synopsis]
+* Epistles
+* laborers increase
+* State of the prisons
+* Sufferings of Friends
+* The Cause: Faithfulness to their calling
+* Evidences that it was not of man
+* Sewel`'s testimony.
 
 The following short epistles are introduced to the reader,
 in expectation that they will prove both interesting and profitable.
@@ -23,6 +29,10 @@ utterance to feelings under apprehension of duty,
 when silence would have been more consistent with a sound judgment,
 and more profitable to the body.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 All saints and children of the most high God:
 
 Abide in the calling whereunto you are called:
@@ -72,8 +82,15 @@ that you may receive the crown of eternal glory,
 which is laid up for you in the Lord Jesus Christ, and there you will fare well,
 and I shall remain with you forever in the Lord.`"
 
+[.signed-section-signature]
 W+++.+++ D.
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 Meet often together in the name and fear of the living God.
@@ -102,8 +119,15 @@ to walk faithfully with him and one with another.
 And the blessing of the Lord be with you all forever.
 Amen!
 
+[.signed-section-signature]
 William Dewsbury
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dear Friends,
 
 This is the word of the Lord to you all,
@@ -140,7 +164,10 @@ to order you in his pure wisdom, to the praise and glory of his great name.
 Written from the Spirit of the Lord, to be sent abroad amongst Friends,
 to be read at their meetings
 
+[.signed-section-signature]
 William Dewsbury
+
+--
 
 It was no slight proof of the reality of that power,
 which attended these witnesses for a true, entire, and glorious reform,

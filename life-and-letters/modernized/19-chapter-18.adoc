@@ -1,7 +1,9 @@
 == Chapter 18
 
-1688+++.+++ William Dewsbury visits London--Attends
-Grace Church street meeting--Sermon--Prayer.
+[.chapter-synopsis]
+* 1688+++.+++ William Dewsbury visits London
+* Attends Gracechurch street meeting
+* Sermon and Prayer.
 
 Notwithstanding William Dewsbury`'s age, declining state of health, and great infirmities,
 feeling himself a little strengthened,
@@ -18,8 +20,11 @@ the only one of his which has been preserved.
 It is given in Sewel`'s History, 8vo. vol.
 ii. p. 456.
 
+[.centered]
+=== You Must Be Born Again
+
 My Friends, Except you be regenerated and born again,
-you cannot inherit the kingdom of God.`'
+you cannot inherit the kingdom of God.
 This is the word of the Lord God to all people this day.
 This lies not in airy profession, and in vain imagination,
 and whatsoever else it is that you deck yourselves withal:
@@ -412,9 +417,10 @@ that he may lift them up and be all in all to them,
 in whose blessed presence they shall have joy,
 and rivers of pleasures at his right hand forevermore!
 
-The following is the prayer, which he offered up after the preceding testimony.
+[.offset]
++++[+++The following is the prayer, which he offered up after the preceding testimony.+++]+++
 
-Blessed and glorious God! your presence and power is with your people everywhere,
+Blessed and glorious God! Your presence and power is with your people everywhere,
 and you are stretching forth your almighty arm, for the salvation of your chosen ones.
 You are influencing their souls with your grace and Spirit in their solemn assemblies.
 We desire to extol and magnify your great and excellent

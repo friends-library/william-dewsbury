@@ -1,9 +1,10 @@
 == Chapter 12
 
-1660+++.+++ Epistles--William Dewsbury little known in his domestic
-character---He is apprehended at an inn in Warwick,
-for giving thanks after supper, and imprisoned,
-but shortly after liberated--Arrives in London, and is imprisoned in Newgate.
+[.chapter-synopsis]
+* 1660+++.+++ Epistles
+* William Dewsbury little known in his domestic character
+* He is apprehended at an inn in Warwick, for giving thanks after supper, and imprisoned, but shortly after liberated
+* Arrives in London, and is imprisoned in Newgate.
 
 It is thought, that as the four following epistles illustrate in a beautiful manner,
 the care William Dewsbury exercised over the flock,
@@ -29,6 +30,10 @@ The first in order,
 which bears chiefly on the subject of exercising spiritual gifts in the church,
 is dated the 10th of the twelfth month, 1660.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends and brethren, called and chosen of God, to wait upon him in his light:
 
 Every one in particular, feel the power and life of God,
@@ -52,9 +57,18 @@ that praises may arise in and amongst you all, to the glory of God;
 that in him you may be a well-spring of life one to another, in the love of God,
 in which the Lord God keep you all.
 
+[.signed-section-signature]
 W+++.+++ D.
 
-Dear faithful Friends in God, who have known the day when nothing has been dear to you,
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+Dear faithful Friends in God,
+
+Who have known the day when nothing has been dear to you,
 not life itself, that you might enjoy the light of the countenance of God,
 which he has now manifested in the everlasting covenant in Christ;
 and which now constrains to stand over, and above all flattering tongues,
@@ -96,13 +110,23 @@ And be tenderly affectioned one to another in the love of God;
 and in unity in him who is blessed forever!
 Farewell.
 
+[.signed-section-closing]
 Your brother,
 
-William Dewsbury From the Tower in York, 25th of First month, 1661
+[.signed-section-signature]
+William Dewsbury
+
+[.signed-section-context-close]
+From the Tower in York, 25th of First month, 1661
+
+--
 
 The third epistle above referred to,
 is thus superscribed:--"`Let this go abroad
-amongst all the afflicted and wounded in spirit:`
+amongst all the afflicted and wounded in spirit:`"
+
+[.embedded-content-document.epistle]
+--
 
 Dear child, which cries over all the world, and beyond all the pleasure, pomp,
 and vanity therein, for the enjoyment of the light and countenance of God;--fear you not,
@@ -168,9 +192,17 @@ and establish your heart in his counsel, steadfastly to wait for his power to le
 in the cross, out of all unbelief,
 and cause you to lie down at rest in obedience to his will:
 where you shall drink the cup of the salvation of God.
+
+[.signed-section-closing]
 Farewell!
 
-W+++.+++ D. York Castle, the 23d of Third month, 1661
+[.signed-section-signature]
+W+++.+++ D.
+
+[.signed-section-context-close]
+York Castle, the 23rd of Third month, 1661
+
+--
 
 It would be gratifying to our natural feelings,
 to be able to contemplate the character of such a man as William Dewsbury,
@@ -206,6 +238,7 @@ they that wept as though they wept not, they that rejoiced as though they rejoic
 they that bought, as though they possessed not:--they used this world,
 as not abusing it.
 
+[.offset]
 +++[+++A document has come to hand, since the above lines were penned,
 which affords in a few words a striking illustration of
 the above remarks as regards William Dewsbury.

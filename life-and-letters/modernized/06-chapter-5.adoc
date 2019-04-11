@@ -1,7 +1,11 @@
 == Chapter 5
 
-1652-3. William Dewsbury`'s first journey--Suffers abuse with other Friends--
-Is almost killed at Sedberg--Occurrences there--Epistle on Church Discipline.
+[.chapter-synopsis]
+* 1652-3. William Dewsbury`'s first journey
+* Suffers abuse with other Friends
+* Is almost killed at Sedberg
+* Occurrences there
+* Epistle on Church Discipline.
 
 It is uncertain whether William Dewsbury had settled
 with his family at Wakefield as early as the year 1652,
@@ -123,6 +127,9 @@ The prefatory address will show the high authority under which
 William Dewsbury believed himself to be moving on this occasion.
 It is as follows:
 
+[.embedded-content-document.address]
+--
+
 This is the word of the living God to his church
 that he has called and chosen out of the world,
 to place his name in, to order and guide in his pure wisdom to his praise and glory,
@@ -209,7 +216,10 @@ Then will you have unity together in that which is begotten of God, who reigns o
 blessed forever.
 Wisdom is justified of her children.
 
-W+++.+++ D.
+[.signed-section-signature]
+William Dewsbury
+
+--
 
 The other epistle to which allusion has been made, is dated 1653,
 and was printed in London in 1654, as a tract, with three epistles of other Friends;
@@ -217,6 +227,10 @@ and appears to have been one of the first pieces circulated in the metropolis.
 No reader will doubt its discovering strong symptoms of the need of
 oversight and care among those to whom it was addressed.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 I suffer with the imprisoned Seed unto which I was sent to preach the everlasting Gospel,
@@ -282,4 +296,10 @@ The Lord God Almighty enlighten your understandings, and bless you,
 and guide you in wisdom, to watch over one another in love,
 that the God of love may be exalted in all of you.
 
-William Dewsbury12th month, 1653
+[.signed-section-signature]
+William Dewsbury
+
+[.signed-section-context-close]
+12th month, 1653
+
+--

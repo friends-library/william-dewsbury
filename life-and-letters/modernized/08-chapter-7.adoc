@@ -1,10 +1,14 @@
 == Chapter 7
 
-1655+++.+++ Letter of William Dewsbury--Court Sessions--His trial, with other Friends,
-before Judges Hale and Wyndham--They refuse to enter into bonds,
-and are continued in prison--Observations on the trial,
-with remarks on the times--Apprehensions entertained respecting Friends--
-Anecdote respecting George Fox and Colonel Hacker--Two letters of Dewsbury`'s.
+[.chapter-synopsis]
+* 1655+++.+++ Letter of William Dewsbury
+* Court Sessions
+* His trial, with other Friends, before Judges Hale and Wyndham
+* They refuse to enter into bonds, and are continued in prison
+* Observations on the trial, with remarks on the times
+* Apprehensions entertained respecting Friends
+* Anecdote respecting George Fox and Colonel Hacker
+* Two letters of Dewsbury`'s.
 
 The following letter, under the hand of William Dewsbury,
 contains a brief but somewhat detailed account
@@ -13,6 +17,10 @@ and will put the reader in possession of information connected
 with the transactions of the preceding chapter,
 which would otherwise be lacking, and could not be supplied from any other source.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 Be not troubled at the Lord`'s disposing of us,
@@ -51,7 +59,10 @@ He takes the wise in their own craft, and overturns them in their own devices,
 to their shame and contempt; but to the glory of his name, who alone is worthy,
 God over all, blessed forever!
 
+[.signed-section-signature]
 W+++.+++ D.
+
+--
 
 William Dewsbury, together with Joseph Storr, whose name was included in the court order,
 for no other crime than that of being present at the examination of his friend,
@@ -70,57 +81,77 @@ before Judges Matthew Hale and Hugh Wyndham,
 who were then associated in the same commission.
 The following examination thereupon took place.
 
-Judge Hale.--Are you Dewsbury?
+[.discourse-part]
+__Judge Hale.__--Are you Dewsbury?
 
-William Dewsbury.--Yes, I am so called.
+[.discourse-part]
+__William Dewsbury.__--Yes, I am so called.
 
-Judge.--Where do you live?
+[.discourse-part]
+__Judge Hale.__--Where do you live?
 
-W+++.+++ D.--I have a wife and three children at Wakefield in Yorkshire.
+[.discourse-part]
+__William Dewsbury.__--I have a wife and three children at Wakefield in Yorkshire.
 
-Judge.--What came you into this country to do,
+[.discourse-part]
+__Judge Hale.__--What came you into this country to do,
 that you did not stay in your own country with your wife and children?
 
-W+++.+++ D.--I stayed in that country with my wife and children,
+[.discourse-part]
+__William Dewsbury.__--I stayed in that country with my wife and children,
 until the Father revealed his Son in me,
 and called me forth from my wife and children to declare his word of eternal life,
 which he has manifested to my soul in the great work of regeneration,
 in the new covenant of life in Christ Jesus.
 I am sent to preach the everlasting Gospel to those that dwell upon the earth.
 
-Judge.--I fear it is a delusion, and your own fancies, and not the truth.
+[.discourse-part]
+__Judge Hale.__--I fear it is a delusion, and your own fancies, and not the truth.
 
-W+++.+++ D.--Time will make it manifest.
+[.discourse-part]
+__William Dewsbury.__--Time will make it manifest.
 
-Judge.--You draw people together, and act against ministry and magistracy.
+[.discourse-part]
+__Judge Hale.__--You draw people together, and act against ministry and magistracy.
 
-W+++.+++ D.--As you stand in the presence of God, take heed of hearkening to false accusations.
+[.discourse-part]
+__William Dewsbury.__--As you stand in the presence of God,
+take heed of hearkening to false accusations.
 Ministry and magistracy, which are of God, I own:
 but those who are called ministers of Christ, and walk contrary to Scripture, I disown.
 
-Judge.--But who are they that walk contrary to Scripture?
+[.discourse-part]
+__Judge Hale.__--But who are they that walk contrary to Scripture?
 
-W+++.+++ D.--They that abide not in the doctrine of Christ,
+[.discourse-part]
+__William Dewsbury.__--They that abide not in the doctrine of Christ,
 "`but have the chief place in the assemblies; stand praying in the synagogues,
 love greetings in the market-places, and are called of men,
 masters,`"--which practices Christ cried woe against; and they that walk in them,
 walk contrary to Scripture.
 
-Judge.--These are small things to speak of.
+[.discourse-part]
+__Judge Hale.__--These are small things to speak of.
 
-W+++.+++ D.--There is nothing small which the Lord commands.
+[.discourse-part]
+__William Dewsbury.__--There is nothing small which the Lord commands.
 
-Judge.--You say well.
+[.discourse-part]
+__Judge Hale.__--You say well.
 (To the court.) What have you against these men?
 
-W+++.+++ D.--That is what we would have manifested, what law we have transgressed.
+[.discourse-part]
+__William Dewsbury.__--That is what we would have manifested, what law we have transgressed.
 
-Judge.--Produce what you have against them, and I shall proceed according to law.
+[.discourse-part]
+__Judge Hale.__--Produce what you have against them, and I shall proceed according to law.
 
-Cleric of the Peace.--Here are papers which Dewsbury and Storr had,
+[.discourse-part]
+__Cleric of the Peace.__--Here are papers which Dewsbury and Storr had,
 which are against the lord Protector.
 
-W+++.+++ D.--The papers they took from me, which they say are against the lord Protector,
+[.discourse-part]
+__William Dewsbury.__--The papers they took from me, which they say are against the lord Protector,
 I was moved to write.
 I sent one to him privately with care, in the fourth month in last year,
 and the other has with care been privately delivered to him;
@@ -133,21 +164,27 @@ and my money taken from me, and after a little time he gave it to me again.
 Then they took those papers from me, which I had privately on me in a letter case,
 which here they publish publicly as an evidence against me.
 
-Judge.--Read the paper.
+[.discourse-part]
+__Judge Hale.__--Read the paper.
 (When part of it was read.) Give over, that paper is not to be published.
 
-W+++.+++ D.--It is not my mind they should be published.
+[.discourse-part]
+__William Dewsbury.__--It is not my mind they should be published.
 
-Judge.--How dare you write to him in such high language, as from the Spirit of the Lord?
+[.discourse-part]
+__Judge Hale.__--How dare you write to him in such high language, as from the Spirit of the Lord?
 
-W+++.+++ D.--They in whom the Spirit of the Lord is, write from the Spirit,
+[.discourse-part]
+__William Dewsbury.__--They in whom the Spirit of the Lord is, write from the Spirit,
 and he that has not the Spirit of Christ is none of his.
 
-Judge.--But I fear it is not from the Spirit, for many pretend the Spirit,
+[.discourse-part]
+__Judge Hale.__--But I fear it is not from the Spirit, for many pretend the Spirit,
 and the divine light, and revelations;
 but how shall we know they are the truth according to the Scriptures?
 
-W+++.+++ D.--The Scriptures cannot be known but by the pure divine light of Christ,
+[.discourse-part]
+__William Dewsbury.__--The Scriptures cannot be known but by the pure divine light of Christ,
 which enlightens every one that comes into the world;
 of which pure light Christ has given to every one a measure, to try the spirits in them,
 whether they be of God or not.
@@ -161,17 +198,22 @@ The prophet Amos, had the spirit of the Lord,
 and from the spirit declared the word of the Lord to the king of Israel,
 but the people could not bear his words.
 
-Judge.--You say well, if you do as you say; but this, it may be, will be expected,
+[.discourse-part]
+__Judge Hale.__--You say well, if you do as you say; but this, it may be, will be expected,
 and I think it will be fair, to give bail for your appearance at the next court sessions.
 
-W+++.+++ D.--First make manifest what law we have transgressed, before bail be required.
+[.discourse-part]
+__William Dewsbury.__--First make manifest what law we have transgressed, before bail be required.
 
+[.discourse-part]
 +++[+++After this the prisoners were set aside, and the judge proceeded to other business;
 but in the evening, when the court was ready to break up,
 the jailer asked the judge what he should do with those Yorkshiremen?]
 
-Judge.--Bring them before the court.
+[.discourse-part]
+__Judge Hale.__--Bring them before the court.
 
+[.offset]
 +++[+++Which was done.
 Then some in the court said,
 "`Take off their hats;`" and two of their hats were taken off;
@@ -180,175 +222,229 @@ but as they were about to take off William Dewsbury`'s, the judge said,
 which was done at his command.
 He then spoke to William Dewsbury.]
 
-Judge.--Now I see what you are, and your disguise and form of fair words is seen,
+[.discourse-part]
+__Judge Hale.__--Now I see what you are, and your disguise and form of fair words is seen,
 and you are not the man you pretend to be.
 
-W+++.+++ D.--Disguises and formality I deny; but the power of God I own and witness,
+[.discourse-part]
+__William Dewsbury.__--Disguises and formality I deny; but the power of God I own and witness,
 in which I stand, and am subject to it, and to the ordinance of man for conscience sake.
 
-Judge.--Now you are commanded: Take off your hat.
+[.discourse-part]
+__Judge Hale.__--Now you are commanded: Take off your hat.
 
-W+++.+++ D.--Honor is not in pulling off the hat, but in obeying the just commands of God;
+[.discourse-part]
+__William Dewsbury.__--Honor is not in pulling off the hat,
+but in obeying the just commands of God;
 and my hat offends not any.
 They who are offended at it, may take it off: I shall not resist them.
 But there is no Scripture that expresses any honor to be in putting off the hat.
 
-Judge.--What! must we do nothing but what is expressed in Scripture, for our apparel,
+[.discourse-part]
+__Judge Hale.__--What! must we do nothing but what is expressed in Scripture, for our apparel,
 what we shall put on?
 
-W+++.+++ D.--Yes, the Scripture says, Let your adorning be with modest apparel.
+[.discourse-part]
+__William Dewsbury.__--Yes, the Scripture says, Let your adorning be with modest apparel.
 
-Judge.--Are you judge, that you stand covered and will not uncover, as other prisoners do?
+[.discourse-part]
+__Judge Hale.__--Are you judge, that you stand covered and will not uncover, as other prisoners do?
 
-W+++.+++ B.--What I do, God is my witness, I do it not in contempt to any,
+[.discourse-part]
+__William Dewsbury.__--What I do, God is my witness, I do it not in contempt to any,
 but in obedience to the power of God for conscience sake.
 
-Judge.
-If you will not stand as prisoners, I will not do anything concerning you;
+[.discourse-part]
+__Judge Hale.__--If you will not stand as prisoners, I will not do anything concerning you;
 but here I found you, and here I shall leave you.
 
-W+++.+++ D.--We have been above ten weeks in the low jail,
+[.discourse-part]
+__William Dewsbury.__--We have been above ten weeks in the low jail,
 and no breach of any law found against us: we stand subject to the power of God,
 whatever he allows you to do with us.
 
+[.offset]
 Thus far as relates to the present examination of William Dewsbury.
 
 On the 12th of the same month, the Judges Wyndham and Hale being together upon the bench,
-they called for the prisoners.
+they called for the prisoners
 Dewsbury, Storr, and Williamson.
 
-Judge Wyndham.--Take off their hats.
+[.discourse-part]
+__Judge Wyndham.__--Take off their hats.
 
-Judge Hale.--Read the evidence against them.
+[.discourse-part]
+__Judge Hale.__--Read the evidence against them.
 +++[+++Which having been done as before.]
-
 What say you, did you speak these words?
 
+[.offset]
 +++[+++William Dewsbury then related his encounter with the priest Andrews,
 and the circumstances which led to the disturbance in the market-place at Wellingborough;
 asserting the breach of the peace and the tumult to have been caused by his accusers,
 and not by him.
 The examination then proceeded.]
 
-Wyndham.--Dewsbury, you are well known in the north and in Yorkshire;
+[.discourse-part]
+__Judge Wyndham.__--Dewsbury, you are well known in the north and in Yorkshire;
 there I have heard of you; but where were you born?
 
-W+++.+++ D.--My natural birth was in Yorkshire.
+[.discourse-part]
+__William Dewsbury.__--My natural birth was in Yorkshire.
 
-Judge W.--Do you begin to cant?
+[.discourse-part]
+__Judge Wynhdam.__--Do you begin to cant?
 Is there any other birth?
 
-W+++.+++ D.--Yes.
+[.discourse-part]
+__William Dewsbury.__--Yes.
 "`Except you be regenerate and born again, you cannot see the kingdom of God.`"
 Which birth I witness.
 
-Judge W.--At what place in Yorkshire were you born?
+[.discourse-part]
+__Judge Wynhdam.__--At what place in Yorkshire were you born?
 
-W+++.+++ D.--At a town called Allerthorpe, nine miles from York, towards Hull.
-Judge W.--Where have you been your time?
+[.discourse-part]
+__William Dewsbury.__--At a town called Allerthorpe, nine miles from York, towards Hull.
 
-W+++.+++ D.--When I was thirteen years of age,
+[.discourse-part]
+__Judge Wynhdam.__--Where have you been your time?
+
+[.discourse-part]
+__William Dewsbury.__--When I was thirteen years of age,
 I was bound apprentice to a cloth maker in the west part of Yorkshire,
 at a town called Holdbeck, near Leeds.
 
-Judge W.--Did you serve your time?
+[.discourse-part]
+__Judge Wynhdam.__--Did you serve your time?
 
-W+++.+++ D.--I did stay till the time was nearly expired,
+[.discourse-part]
+__William Dewsbury.__--I did stay till the time was nearly expired,
 and then the wars began in this nation, and I went into the service of the parliament.
 
-Judge W.--Do you deny all Popish tenets?
+[.discourse-part]
+__Judge Wynhdam.__--Do you deny all Popish tenets?
 
-W+++.+++ D.--Popish tenets I deny;
+[.discourse-part]
+__William Dewsbury.__--Popish tenets I deny;
 and all tenets contrary to the pure doctrine of faith in the Lord Jesus Christ.
 
-Judge W.--Do you own the Scriptures to be a rule to walk by?
+[.discourse-part]
+__Judge Wynhdam.__--Do you own the Scriptures to be a rule to walk by?
 
-W+++.+++ D.--The Scriptures I own;
+[.discourse-part]
+__William Dewsbury.__--The Scriptures I own;
 and the pure light and power of Christ Jesus that gave them forth,
 to guide in a holy conduct according to the Scripture;
 and he that walks contrary to it is condemned by it.
 
-Judge W.--Couldst you not stay in your own country, and keep your opinions to yourself;
+[.discourse-part]
+__Judge Wynhdam.__--Couldst you not stay in your own country, and keep your opinions to yourself;
 but you must go abroad in the country, and in these parts, to delude the people,
 and to make a disturbance?
 
-W+++.+++ D.--Deluding I deny.
+[.discourse-part]
+__William Dewsbury.__--Deluding I deny.
 I would have you make manifest what delusion is.
 But truth I witness; and the things I have heard and seen I am sent to declare;
 which disturbs not the peace of any, but of those who walk not in the truth;
 whose peace must be disturbed and taken away..
 
-Judge W.--But if you and Fox had it in your power,
+[.discourse-part]
+__Judge Wynhdam.__--But if you and Fox had it in your power,
 you would soon have your hands imbrued in blood.
 
-W+++.+++ D.--It is not so.
+[.discourse-part]
+__William Dewsbury.__--It is not so.
 The Spirit of Truth which we witness in us is peaceable,
 and neither does violence nor sheds blood:
 and the hands of all that are guided by the Spirit of Truth,
 the light and power of Christ, are bound from offering violence, or shedding blood.
 
-J+++.+++ Storr.--Their sufferings and stonings are well known in
+[.discourse-part]
+__Joseph Storr__.--Their sufferings and stonings are well known in
 this nation--and they never lift up a hand against any.
 
-Judge W.--It is because you have not power;
+[.discourse-part]
+__Judge Wynhdam.__--It is because you have not power;
 but here is evidence against you for breaking the peace.
 Will you give bond for your appearance at the next court sessions?
 
-W+++.+++ D.--It is the liberty of the law of this nation,
+[.discourse-part]
+__William Dewsbury.__--It is the liberty of the law of this nation,
 that all who profess the faith of Christ Jesus,
 may walk in uprightness to their faith in him, without any breach of the laws.
 And I require,
 a law may be read to us that the evidence brought against us is the breach of;
 that by the law we may be convinced of transgression before any bail be required of us.
 
-Judge W.--We are judges,
+[.discourse-part]
+__Judge Wynhdam.__--We are judges,
 and we conceive and judge what is charged against you
 to be a sufficient ground to require bail of you,
 for your appearance at the court sessions.
 
-W+++.+++ D.--Though you be judges, you are judges of a law, and are to judge according to law,
+[.discourse-part]
+__William Dewsbury.__--Though you be judges, you are judges of a law,
+and are to judge according to law,
 which is your rule to judge by, and that law I would have you to read us;
 and if we have transgressed it, judge us according to it.
 
-Judge W.--You are transgressors of the law,
+[.discourse-part]
+__Judge Wynhdam.__--You are transgressors of the law,
 in that you are not subject to government and authority, refusing to pull off your hats.
 
-W+++.+++ D.--We are subject to the government and the power of God,
+[.discourse-part]
+__William Dewsbury.__--We are subject to the government and the power of God,
 and to the ordinance of man for conscience sake; but show us in Scripture,
 which is a true testimony of the power of God, in which we stand,
 that putting off the hat is required in subjection to authority;
 and read us a national law, which is the ordinance of man, that requires such a thing.
 
-Judge W.--It is the practice and custom of the nation.
+[.discourse-part]
+__Judge Wynhdam.__--It is the practice and custom of the nation.
 
-W+++.+++ D.--The customs of the heathen are vain.
+[.discourse-part]
+__William Dewsbury.__--The customs of the heathen are vain.
 
-Judge Hale.--From the evidence which has been read, we expect bond for your appearance,
+[.discourse-part]
+__Judge Hale.__--From the evidence which has been read, we expect bond for your appearance,
 as has been required, at the next court sessions.
 
-W+++.+++ D.--We have not transgressed any law: if you know of any law broken by us,
+[.discourse-part]
+__William Dewsbury.__--We have not transgressed any law: if you know of any law broken by us,
 let it be read, that we may know what bail is required for;
 and what we are to answer at the next court sessions.
 
-Judge H.--What say you, Storr?
+[.discourse-part]
+__Judge Hale.__--What say you, Storr?
 Will you enter into bond for your appearance at the next court sessions?
 
-Storr.--Where are those who have given evidence against me,
+[.discourse-part]
+__Joseph Storr.__--Where are those who have given evidence against me,
 that I may answer to the particulars of those things charged against me.
 
-Judge H.--If you will give bail for your appearance at the court sessions,
+[.discourse-part]
+__Judge Hale.__--If you will give bail for your appearance at the court sessions,
 then shall those that have informed against you appear face to face.
 
-Storr.--We are bound by a stronger tie than any outward bond.
+[.discourse-part]
+__Joseph Storr.__--We are bound by a stronger tie than any outward bond.
 
-Judge H.--What say you, Williamson?
+[.discourse-part]
+__Judge Hale.__--What say you, Williamson?
 Will you enter into bond for your appearance at the next court sessions.
 
-Williamson.--I am not of any ill behavior;
+[.discourse-part]
+__Henry Williamson.__--I am not of any ill behavior;
 but am bound to good behavior by the power of God.
 
-Judge H.--If you will not find sureties, you must lie here till the next court sessions.
+[.discourse-part]
+__Judge Hale.__--If you will not find sureties, you must lie here till the next court sessions.
 Look to them, jailer.
+
+[.small-break]
+'''
 
 They were accordingly conducted back to prison,
 and there confined eleven weeks in the nasty low jail, as before, among felons,
@@ -424,6 +520,9 @@ conducted himself so far courteously to his prisoner,
 as to allow him to visit William Dewsbury in the jail of Northampton,
 when he passed through that town.
 
+[.small-break]
+'''
+
 +++[+++The insertion, at the close of this chapter,
 of parts of two original letters from William Dewsbury,
 besides conveying further information as to him and his colleagues,
@@ -433,7 +532,7 @@ took hold of the minds of the people at large,
 but especially some classes,
 whose church system seemed endangered by the rapid
 spread of Friends and their principles through the land.
-These letters are dated from Northampton common jail, the 3d of the seventh month,
+These letters are dated from Northampton common jail, the 3rd of the seventh month,
 and 15th of the eighth month, 1655.
 
 It seems that often, when their persecutors had got Friends into prison,
@@ -473,7 +572,12 @@ that the minister "`dared not come to preach any more,
 unless some course were taken with these Quakers;`" so
 an order was given to lock them down in the dungeon,
 which was done always after, during the hour of preaching.
-Dewsbury adds, "`The dread of our God is upon them, their heart fails them;
+Dewsbury adds:
+
+[.embedded-content-document.letter]
+--
+
+"`The dread of our God is upon them, their heart fails them;
 and their torment is daily increased, to see the Lord`'s work prosper,
 which goes on in mighty power all over these parts, and all the nation over.
 Friends grow in the power of our God.
@@ -518,8 +622,15 @@ and a great thirst wherever such Friends come; the harvest is mighty,
 but the laborers are few;
 pray the Lord of the harvest to send faithful laborers into his harvest.
 
+--
+
+[.offset]
 The last of these communications, with some omissions, runs thus:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear sister,
 
 Our Father has covered the faces of his enemies in these parts with shame,
@@ -556,3 +667,5 @@ who are now laying them down willingly at the feet of Jesus:
 I am moved to lay their case before you, that you may write to them.
 Justice Crook`'s wife is a precious woman, and many other of the handmaids of the Lord,
 who is carrying his work over all, where he sends his children.--Editor]
+
+--
