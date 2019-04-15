@@ -1,16 +1,23 @@
 == Chapter 6
 
-1654+++.+++ William Dewsbury imprisoned at York--Circumstances attending
-his apprehension--Malice of the constable--Pursued to Crake,
-and there taken at midnight--His ill treatment--Endures three months`'
-imprisonment--Innocence--Imprisoned at Derby--Refuses to leave the prison
-without the magistrates`' intervention--Is thrust out accordingly--Brought
-before the mayor at Leicester--Put out of the town,
-but returns--Proceeds to Northampton--Thomas Andrews`'
-treatment of him--Is seized by the high-constable,
-but set at liberty--Francis Ellington convinced--
-William Dewsbury is taken up on a charge of blasphemy,
-and committed to the common jail.
+[.chapter-synopsis]
+* 1654+++.+++ William Dewsbury imprisoned at York
+* Circumstances attending his apprehension
+* Malice of the constable
+* Pursued to Crake, and there taken at midnight
+* His ill treatment
+* Endures three months`' imprisonment
+* Innocence
+* Imprisoned at Derby
+* Refuses to leave the prison without the magistrates`' intervention
+* Is thrust out accordingly
+* Brought before the mayor at Leicester
+* Put out of the town, but returns
+* Proceeds to Northampton
+* Thomas Andrews`' treatment of him
+* Is seized by the high-constable, but set at liberty
+* Francis Ellington convinced
+* William Dewsbury is taken up on a charge of blasphemy, and committed to the common jail.
 
 In the first month, 1654, we find this faithful man at York.
 He was cast into the prison of that city under the name of a seducer,
@@ -84,6 +91,7 @@ and in the morning, he was brought before Dickenson,
 who being unable to prove anything against him, committed him to York Castle,
 by virtue of the warrant previously issued by Judge Wyndham.
 
+[.offset]
 +++[+++In an original letter written from York Castle, the 2nd of the fifth month,
 William Dewsbury speaks largely in commemoration of the Lord`'s dealings with him,
 that he had seen much of his mighty power manifested,
@@ -125,10 +133,15 @@ was set at liberty; no doubt, in order that his accuser, the priest Bowles,
 might escape the disgrace,
 which must have resulted from an impartial examination in open court.
 
+[.offset]
 +++[+++The following letter, addressed by William Dewsbury to Margaret Fell,
 will be interesting to the reader, as conveying his own account of these circumstances.
 It is copied from the original.--Editor.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Sister,
 
 In the Lord Jesus, where my life is bound up with you,
@@ -193,15 +206,23 @@ to the threshing down of all deceit,
 that his tender plants may be watered with the streams of his love through you,
 in the Lord Jesus, where you fare well, and there I am with you, your dear brother.
 
+[.signed-section-signature]
 W+++.+++ D.
+
+--
 
 Being now "`delivered from the hands of unreasonable
 men,`" he pursued his journey as the Lord directed him,
 declaring his word in Cleveland and other parts of Yorkshire, through Nottinghamshire,
 and so to Derby.
+
+[.offset]
 +++[+++It is satisfactory to be able here to introduce part of a short letter to a Friend,
 which supplies us with some information with regard to
 his travels in the ministry at this juncture.--Editor.]
+
+[.embedded-content-document.letter]
+--
 
 God is opening a door for his truth in many great towns in Yorkshire,
 where it has been kept out; as at Halifax, Leeds, York, Beverly, Hull;
@@ -214,6 +235,8 @@ At Leicester, we met at the castle a very large people; that night,
 a large meeting at the White Hart Inn, where we lodge.
 If God will, I shall be at a general meeting at Northampton the next third day,
 and at Leicester the next first day after.
+
+--
 
 William Dewsbury had not, however, been at liberty more than a month,
 before his lot was again cast within the walls of a prison.
@@ -260,7 +283,7 @@ considered these but the words of vain men, and without regarding them,
 returned forthwith and continued in Derby until he was free in his spirit to leave it.
 
 When this time arrived, he pursued his journey to Leicester; and there,
-on the 3d of the seventh month, being the first-day of the week,
+on the 3rd of the seventh month, being the first-day of the week,
 a large number of the people were collected together to hear him,
 to whom he declared the word of the Lord.
 After his testimony was finished he proceeded to the public place of worship;
@@ -394,6 +417,7 @@ which offended him still more deeply,
 and was the ground of his shortly afterwards suffering for several
 weeks in company with other Friends in Northampton jail.
 
+[.offset]
 +++[+++By a letter in William Dewsbury`'s handwriting, addressed to George Fox about this time,
 it would seem there followed from the labors of this devoted servant "`a
 great convincement,`" and an earnest desire prevailed among many,

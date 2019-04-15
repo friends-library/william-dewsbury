@@ -1,7 +1,12 @@
 == Chapter 8
 
-1655+++.+++ Epistle--Court Sessions--Prisoners tried before Judge Atkins--
-Refuse to enter into bonds--Remanded to prison--Detained six months.
+[.chapter-synopsis]
+* 1655+++.+++ Epistle
+* Court Sessions
+* Prisoners tried before Judge Atkins
+* Refuses to enter into bonds
+* Remanded to prison
+* Detained six months.
 
 During William Dewsbury`'s confinement in Northampton jail,
 he did not spend his time in idleness; for besides several pieces,
@@ -15,6 +20,9 @@ The following extract from that which comes first in order,
 and is of a very general character, will, I trust,
 tend to edification,--bearing in mind that the point of the
 piece is leveled against a paid and lifeless ministry.
+
+[.embedded-content-document.epistle]
+--
 
 All people who desire to know the living God,
 let the time past suffice in which you have followed men who have deceived you,
@@ -96,12 +104,20 @@ to hunger and thirst after the righteousness of God in Christ Jesus,
 to prize and love him, and to judge and deny self with his light,
 and in it to wait for his power to guide you in every word and work.
 
+--
+
+[.offset]
 +++[+++The following letter of advice to an individual, of some station.
 Judge Fell, of Swarthmore, the editor ventures to interpose between these two addresses.
 It is copied from the original.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Judge Fell.
 
+[.salutation]
 Friend,
 
 That which calls for purity in you is dear to me, and with it I suffer,
@@ -146,8 +162,13 @@ to the praise and glory of the Father of lights, who is God over all, blessed fo
 In tender love to your soul I write, who am often with you in spirit,
 and am known by name,
 
+[.signed-section-signature]
 William Dewsbury.
+
+[.signed-section-context-close]
 From the common jail in Northampton, 7th of Third month, 1655
+
+--
 
 The other epistle bears evidence of having been addressed
 exclusively to the members of the newly gathered Society.
@@ -160,6 +181,10 @@ and thereby of introducing the body into suffering,
 and of bringing discredit on the cause itself.
 It is from the pen, not of a learned man, but of an experienced Christian.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends, servants and children of God,
 whom he has called and chosen out of the world:
 
@@ -286,13 +311,20 @@ and all that see you, may witness you to be the righteous seed whom the Lord has
 His power and presence keep you in the unity of the spirit and bond of peace,
 where I am with you in the unchangeable love and life.
 
-W+++.+++ D.1655
+[.signed-section-signature]
+W+++.+++ D.
 
+[.signed-section-context-close]
+1655
+
+[.postscript]
 I desire you to let this be read in your meetings, with a good understanding,
 in the fear of the Lord;
 for this is the day in which '`I will make a separation between the wise and the foolish,
 between those that fear the Lord,
 and those that fear him not,`' says the Lord God Almighty.
+
+--
 
 At the time of the court sessions, which were held the 21st of the fifth month,
 William Dewsbury was called to the bar, his name being associated with six others,
@@ -310,48 +342,64 @@ that his preaching had produced a great sensation in
 those parts of the country where he had traveled,
 the following examination took place.
 
-Judge.--What are you here for?
+[.discourse-part]
+__Judge.__--What are you here for?
 
-Prisoner.--The court order will express what I was committed for,
+[.discourse-part]
+__Prisoner.__--The court order will express what I was committed for,
 but I am denied a copy of it by the keeper of the jail.
 
-Judge.--What is your name?
+[.discourse-part]
+__Judge.__--What is your name?
 
-Prisoner.--Unknown to the world.
+[.discourse-part]
+__Prisoner.__--Unknown to the world.
 
-Judge.--Let us hear what that name is, that the world knows not.
+[.discourse-part]
+__Judge.__--Let us hear what that name is, that the world knows not.
 
-Prisoner.--It is known in the light, and not any can know it, but he that has it:
+[.discourse-part]
+__Prisoner.__--It is known in the light, and not any can know it, but he that has it:
 but the name the world knows me by, is William Dewsbury.
 
-Judge.--What countryman are you?
+[.discourse-part]
+__Judge.__--What countryman are you?
 
-Prisoner.--Of the land of Canaan.
+[.discourse-part]
+__Prisoner.__--Of the land of Canaan.
 
-Judge.--That is afar off.
+[.discourse-part]
+__Judge.__--That is afar off.
 
-Prisoner.--No, it is near.
+[.discourse-part]
+__Prisoner.__--No, it is near.
 For all that dwell in God, are in the holy city, the new Jerusalem,
 which comes down from heaven.
 There the soul is in rest, and enjoys the love of God in Christ Jesus,
 in whom the union is with the Father of light.
 
-Judge.--That is true.
+[.discourse-part]
+__Judge.__--That is true.
 But are you ashamed of your country?
 Is it any disparagement for you to be born in England?
 
-Prisoner.--No. I am free to declare that my natural birth was in Yorkshire,
+[.discourse-part]
+__Prisoner.__--No. I am free to declare that my natural birth was in Yorkshire,
 nine miles from York, towards Hull.
 
-Judge.--You pretend to be extraordinary men,
+[.discourse-part]
+__Judge.__--You pretend to be extraordinary men,
 and to have an extraordinary knowledge of God.
 
-Prisoner.--We witness the work of regeneration to be an extraordinary work,
+[.discourse-part]
+__Prisoner.__--We witness the work of regeneration to be an extraordinary work,
 wrought in us by the Spirit of God.
 
-Judge.--But the apostles wrought with their hands in their callings.
+[.discourse-part]
+__Judge.__--But the apostles wrought with their hands in their callings.
 
-Prisoner.--They had callings in the world, some were fishermen, Paul a tent-maker;
+[.discourse-part]
+__Prisoner.__--They had callings in the world, some were fishermen, Paul a tent-maker;
 but when they were called to the ministry of Christ,
 they left their callings to follow Christ,
 where he led them by his spirit to preach the word.
@@ -359,38 +407,49 @@ I had a calling in the world, as they had, and in it did abide,
 until the Father revealed his Son in me, and called me from my calling in the world,
 to preach the eternal word he had made known to me, in the great work of regeneration.
 
-Judge.--Why did you not abide in your own country, and teach people in those parts?
+[.discourse-part]
+__Judge.__--Why did you not abide in your own country, and teach people in those parts?
 
-Prisoner.--I did stay there,
+[.discourse-part]
+__Prisoner.__--I did stay there,
 until I was called from there to go where I was led by the Spirit of the Lord.
 And as many as are led by the Spirit of God, they are the sons and daughters of God,
 and they that have not the Spirit of Christ are none of his.
 
-Judge.--You say well;
+[.discourse-part]
+__Judge.__--You say well;
 for we must in charity conclude that every one
 in this place has the Spirit of God in them;
 but how do you know that you are guided by the Spirit of God?
 
-Prisoner.--They that have the Spirit of God are known by their fruits.
+[.discourse-part]
+__Prisoner.__--They that have the Spirit of God are known by their fruits.
 And he that believes in Jesus Christ and is guided by his spirit,
 has the witness in himself.
 
-Judge.--That is true; yet, notwithstanding, I see by your carriage,
+[.discourse-part]
+__Judge.__--That is true; yet, notwithstanding, I see by your carriage,
 that what my brother Hale did at the last court sessions,
 in requiring bonds for your good behavior, he might justly do;
 for you are against magistrates and ministers.
 
-Prisoner.--Make manifest wherein we are against them.
+[.discourse-part]
+__Prisoner.__--Make manifest wherein we are against them.
 
-Judge.--(To Robert Grey, Clerk of the peace,) What have you against these men?
+[.discourse-part]
+__Judge.__--(To Robert Grey, Clerk of the peace,) What have you against these men?
 
-Grey.--Here is an information, given in upon oath by Mr. Robert Beeton,
+[.discourse-part]
+__Grey.__--Here is an information, given in upon oath by Mr. Robert Beeton,
 that William Dewsbury, on the 29th of December 1654,
 did go into the church at Wellingborough,
 and stood with his hat on in the time of sermon and prayer.
 And after the minister had done, he spoke these words, "`The priests preach for hire,
 and the people love to have it so: but what will you do in the end thereof?`"
 with other railing words, which made a disturbance among the people.
+
+[.small-break]
+'''
 
 The judge was then proceeding to examine some of the other prisoners,
 having first threatened what he would do before he left
@@ -406,13 +465,15 @@ which he told the judge had given occasion to his visit to the public meeting-pl
 asserting his conduct to have been no breach of any law of this nation.
 The conversation was then resumed as follows.
 
-Judge.--But in that you are found wandering in the country, you break the law;
+[.discourse-part]
+__Judge.__--But in that you are found wandering in the country, you break the law;
 for there is an old law,
 that if any did go from their dwellings to travel in
 the country without a certificate from some justice,
 they were to be taken as wandering persons.
 
-Prisoner.--If there be any such law, read it to us.
+[.discourse-part]
+__Prisoner.__--If there be any such law, read it to us.
 And if there be such a law, you know in your conscience it is contrary to the Scriptures.
 For the apostles and ministers of Christ went to and fro in the country,
 preaching the word of eternal life,
@@ -422,10 +483,15 @@ And the law which is in force in this nation
 does allow all who profess faith in Jesus Christ,
 to have free liberty to walk in the faith which is according to the Scripture.
 
-Judge.--You have an eloquent tongue, and you are proud of it,
+[.discourse-part]
+__Judge.__--You have an eloquent tongue, and you are proud of it,
 
-Prisoner.--Pride I deny; but the truth I witness, which will judge pride,
+[.discourse-part]
+__Prisoner.__--Pride I deny; but the truth I witness, which will judge pride,
 and torment all who live in it, until it be destroyed.
+
+[.small-break]
+'''
 
 To this the judge made no answer, but proceeded to examine the other prisoners; who,
 without any accuser appearing against them, and without proof of the breach of any law,

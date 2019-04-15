@@ -1,7 +1,12 @@
-== AppendixLetters of William Dewsbury
+== Appendix
 
-=== To King Charles the Second
+[.chapter-subtitle--blurb]
+Letters of William Dewsbury
 
+[.letter-heading]
+To King Charles the Second
+
+[.salutation]
 Oh, King!
 
 Hear the word of the Lord God,
@@ -162,6 +167,9 @@ who is known by name, William Dewsbury,
 prisoner at the date hereof in the common jail at York,
 for the word of God and the testimony of Jesus Christ.
 
+[.small-break]
+'''
+
 P+++.+++ S. Before this could be sent unto you with a private and safe hand,
 I was set at liberty, with some other of my brethren, by your late proclamation,
 which we own as an act of justice.
@@ -181,10 +189,13 @@ the Light who enlightens every man that comes into the world;
 and now is the Father revealing him,
 to judge every one according to the deeds done in the body.
 
+[.signed-section-signature]
 W+++.+++ D.
 
+[.blurb]
 === A general Epistle given forth from the Spirit of the Lord, to be read in his fear in the assemblies of Friends, gathered in these northern countries, and in all countries and islands wherever the people of the Lord are scattered over the face of the earth.
 
+[.salutation]
 Dear Friends,
 
 Called in the light of the Lord to stand living witnesses for
@@ -404,10 +415,16 @@ where there is no variableness nor shadow of change.
 I remain your brother, in the word of his patience, to endure the suffering,
 according to his determination, with all that love the Lord better than their lives.
 
-W+++.+++ D. Warwick Jail, 14th of Tenth month, 1668.
+[.signed-section-signature]
+W+++.+++ D.
 
-=== William Dewsbury to Friends
+[.signed-section-context-close]
+Warwick Jail, 14th of Tenth month, 1668.
 
+[.letter-heading]
+William Dewsbury to Friends
+
+[.salutation]
 Dear Friends,
 
 In the light of Christ wait upon him,
@@ -473,10 +490,16 @@ peaceable and blessed nature:---the mouth of the Lord has spoken it,
 through your brother and companion in the kingdom of
 patience and tribulation in the Lord Jesus Christ.
 
-W+++.+++ D. Warwick jail, the 10th of the Twelfth month, 1680
+[.signed-section-signature]
+W+++.+++ D.
 
-=== A General Epistle to be Read in the Fear of God, In and Amongst the Assemblies of His People.
+[.signed-section-context-close]
+Warwick jail, the 10th of the Twelfth month, 1680
 
+[.letter-heading]
+A General Epistle to be Read in the Fear of God, In and Amongst the Assemblies of His People.
+
+[.salutation]
 My dear Friends,
 
 In the light of the Lord, all watch and pray,
@@ -605,7 +628,7 @@ which has deeply wounded my spirit, having endeavored,
 to the utmost of my power in the love of God, to prevent such proceedings;
 and so have I done in many years past, by preventing papers ready to be printed,
 from being published, that were of a tendency to quench the love of one towards another.
-And when JefFery Bullock`'s papers were published in print,
+And when Jeffery Bullock`'s papers were published in print,
 which would appear to the reader of a tendency leading to the breach of unity,
 which would cause the enemies of God to rejoice; it did so wound my spirit,
 that for many weeks those who saw me did not
@@ -656,9 +679,14 @@ who is found worthy to sit upon his throne in all our consciences, Christ Jesus,
 the true light, and hope of our glory! even so be it,
 with all that profess his blessed truth, says mv soul in the name of the Lord.
 
-W+++.+++ D. From Warwick, the 8th day of the Third month, l683
+[.signed-section-signature]
+W+++.+++ D.
 
-=== William Dewsbury to Friends in Bristol
+[.signed-section-context-close]
+From Warwick, the 8th day of the Third month, l683
+
+[.letter-heading]
+William Dewsbury to Friends in Bristol
 
 My dear, faithful, suffering brethren and sisters in Bristol, Gloucester, and elsewhere,
 for the word of God, and testimony of our Lord and Savior, Jesus Christ: Oh,
@@ -695,10 +723,16 @@ who is the God of our help,
 over all blessed forever--here is the rest of your tribulated
 brother in the kingdom and patience of Christ Jesus.
 
-W+++.+++ D. Warwick, 17th of the Fifth month, 1682
+[.signed-section-signature]
+W+++.+++ D.
 
-=== William Dewsbury to Edward Nightingale of York
+[.signed-section-context-close]
+Warwick, 17th of the Fifth month, 1682
 
+[.letter-heading]
+William Dewsbury to Edward Nightingale of York
+
+[.salutation]
 My ancient Friend!
 
 Whom the Lord, counted worthy to receive his blessed truth,
@@ -719,7 +753,7 @@ who beheld their steadfast standing,
 and entire union in bearing their faithful testimony in
 whatever they were called unto for the truth of God.
 This did not only confound God`'s enemies,
-but many were convinced and received the truth in the l6ve of it,
+but many were convinced and received the truth in the love of it,
 beholding the unity of faithful Friends, to their comfort,
 and the honor of the name of the Lord; which caused my soul,
 with the rest of the faithful laborers, to praise the name of the Lord,
@@ -784,9 +818,14 @@ wounded;--for which you must give an account.
 And before you lay down your heads in peace, you will remember me,
 who have not hid from you the counsel of the Lord.
 
-W+++.+++ D. Warwick, 21st of Eleventh month, 1684
+[.signed-section-signature]
+W+++.+++ D.
 
-=== William Dewsbury to Friends
+[.signed-section-context-close]
+Warwick, 21st of Eleventh month, 1684
+
+[.letter-heading]
+William Dewsbury to Friends
 
 Dear, precious, and beloved Friends,
 called in the light of the Lord to stand living witnesses for God,
@@ -849,11 +888,16 @@ that your dear children may be delivered from their oppressors,
 that in your power and life they may be kept by you,
 to the perfecting your glory forever!--where is the rest of your dear brother,
 
+[.signed-section-signature]
 W+++.+++ D.
 
-=== William Dewsbury to Friends in Yorkshire.
+[.letter-heading]
+William Dewsbury to Friends in Yorkshire.
 
-My dear Friends, who are convinced of the blessed truth, wait in the light,
+[.salutation]
+My dear Friends, who are convinced of the blessed truth,
+
+Wait in the light,
 that you may truly experience Christ in you, baptizing you with the Holy Ghost and fire,
 rendering vengeance upon all in you that obeys not the Gospel of our Lord Jesus Christ,
 and so you will come to witness you are of the number of the slain of the Lord,
@@ -877,4 +921,5 @@ to be the well-seasoned, savory people, in all your words and works,
 to glorify our Father which is in heaven:--even so be it with you,
 is the prayer of your ever-loving brother,
 
+[.signed-section-signature]
 William Dewsbury

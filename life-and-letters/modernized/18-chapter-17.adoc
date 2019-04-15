@@ -1,9 +1,12 @@
 == Chapter 17
 
-1680+++.+++ William Dewsbury loses his little granddaughter and attendant in prison,
-Mary Samm--Particulars of her illness and death--Address,
-suggested by the event--Reflections on his character in reference
-thereto--William Dewsbury finally discharged from prison--Epistle.
+[.chapter-synopsis]
+* 1680+++.+++ William Dewsbury loses his little granddaughter and attendant in prison, Mary Samm
+* Particulars of her illness and death
+* Address, suggested by the event
+* Reflections on his character in reference thereto
+* William Dewsbury finally discharged from prison
+* Epistle.
 
 It was during the time of his imprisonment, early in the year 1680,
 that this meek and patient servant of the Lord was visited
@@ -142,24 +145,37 @@ Then she awoke without any complaint; and in a quiet peaceable,
 frame of spirit laid down her head in peace, when the clock struck the fifth hour,
 on the 9th day of the second month, 1680.
 
+[.embedded-content-document.paper]
+--
+
 "`We whose names are underwritten,
 were eye and ear witnesses of what is before expressed, as near as could be taken,
 and it does not vary much from what she declared, as to the substance,
 though many more sweet and comfortable expressions passed from her, but for brevity sake,
 we who stood by her when she drew her last breath, are willing to publish this only.
 
-"`William Dewsbury, her grandfather.
+[.signed-section-signature]
+William Dewsbury, her grandfather.
 
-"`Mary Samm, her mother.
+[.signed-section-signature]
+Mary Samm, her mother.
 
-"`Joan Dewsbury, her aunt.
+[.signed-section-signature]
+Joan Dewsbury, her aunt.
 
-"`Hannah Whitehead, a friend.`"
+[.signed-section-signature]
+Hannah Whitehead, a friend.
 
-The preceding account had prefixed to it by William Dewsbury,
-"`An exhortation to all people, to prize their time,
-in making their calling and election sure, before they go hence and be no more.`"
-From which it will not be unprofitable to subjoin an extract, viz:
+--
+
+The preceding account had prefixed to it by William Dewsbury, the following address,
+from which it will not be unprofitable to subjoin an extract:
+
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== An exhortation to all people, to prize their time, in making their calling and election sure, before they go hence and be no more.
 
 From the deep sense of your own nothingness and your need of the help of Christ Jesus,
 the true Light and blessed Savior, to whom you cry and pray continually,
@@ -190,6 +206,8 @@ and one with another in his humble, meek, pure, and blessed nature;
 and so become his chosen jewels and citizens of Zion,
 who walk in the light of the New Jerusalem, as it is written in the Scriptures of truth,
 '`The nations of them that are saved shall walk in the light thereof.`'
+
+--
 
 It might not be difficult to draw an affecting picture of the
 forlorn condition of William Dewsbury at this time,
@@ -234,6 +252,9 @@ In the year 1686, about eighteen months before he died,
 towards the conclusion of one of his epistles to Friends,
 we find the following affecting paragraph.
 
+[.embedded-content-document.epistle]
+--
+
 My dear Friends, through the sharp persecutions that were endured in the heat of the day,
 and many long imprisonments; being nineteen years a prisoner in this town of Warwick,
 and four of them kept a close prisoner,
@@ -246,10 +267,18 @@ in the assemblies of his people,
 that peace and unity may be amongst you in the name of our Lord Jesus Christ.
 Amen.
 
-The following "`general epistle to Friends,
+--
+
+The following "`General epistle to Friends,
 from this ancient servant of Christ,`" may here be introduced.
 
-My dear Friends and brethren, who are called out of the world,
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+My dear Friends and brethren,
+
+Who are called out of the world,
 and plucked as brands out of the fire, by the heavenly power of God,
 who has convinced you of his everlasting truth, in the light of Jesus Christ:
 as you have received the truth in some measure, watch and pray,
@@ -436,8 +465,10 @@ And, until it be so with you,
 I shall remain your exercised brother in tribulation and in
 the kingdom and patience of our Lord Jesus Christ.
 
+[.signed-section-signature]
 William Dewsbury
 
+[.postscript]
 Given forth in the movings of the peaceable spirit and word of reconciliation,
 in the Lord Jesus Christ; to whom are my prayers,
 that all who are convinced may wait to be made of the number of the slain of the Lord,
@@ -449,4 +480,10 @@ and quietness among all that have their habitation therein,
 having salvation for walls and bulwarks; and such are blessed of the Lord,
 preserved by him, to the honor of his name forever, Amen.
 
-W+++.+++ D. Warwick, 4ih of Tenth month, 1686
+[.signed-section-signature]
+W+++.+++ D.
+
+[.signed-section-context-close]
+Warwick, 4ih of Tenth month, 1686
+
+--

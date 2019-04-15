@@ -1,10 +1,11 @@
 == Chapter 3
 
-1646+++.+++ William Dewsbury`'s inclination to preach--He is admonished to
-wail until 1652--Further spiritual exercises--His declaration
-respecting the law of the Spirit of Life in Christ Jesus,
-its power and efficacy in his own case--Remarks on
-William Dewsbury`'s qualification for the ministry.
+[.chapter-synopsis]
+* 1646+++.+++ William Dewsbury`'s inclination to preach
+* He is admonished to wail until 1652
+* Further spiritual exercises
+* His declaration respecting the law of the Spirit of Life in Christ Jesus, its power and efficacy in his own case
+* Remarks on William Dewsbury`'s qualification for the ministry.
 
 By this time, 1646, William Dewsbury,
 having experienced in himself the efficacy of the one saving baptism,
@@ -89,6 +90,10 @@ after he found himself united to a people whom the Lord had raised up.
 To these, his friends in Christ,
 he thus impressively addresses himself at the close of the above piece.--
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 Whose minds are turned to the effectual light that comes from Christ,
@@ -113,6 +118,8 @@ and +++[+++he will]
 crown you with eternal glory in Christ, our Judge, Lord, and King; God over all,
 blessed forever!
 Amen.
+
+--
 
 The reader will now feel himself under no difficulty in forming a judgment,
 both as to the view of Christian doctrine, and the degree of religious experience,

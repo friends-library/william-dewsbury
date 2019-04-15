@@ -1,7 +1,9 @@
 == Chapter 15
 
-Grounds on which Friends were willing to endure such sufferings--
-Statement of their principles--Additional testimony from Penington.
+[.chapter-synopsis]
+* Grounds on which Friends were willing to endure such sufferings
+* Statement of their principles
+* Additional testimony from Penington.
 
 In the last chapter we have seen,
 how the malice of the grand adversary of mankind was exercised towards those,
@@ -109,7 +111,7 @@ yes we believe it were damnable unbelief not to believe it, when so declared;
 but to resist that holy Seed, which, as minded,
 would lead and incline every one to believe it as it is offered unto them,
 though it reveals not in every one the outward and explicit knowledge of it,
-nevertheless it always assents to it ubi declaratur, where it is declared.
+nevertheless it always assents to it __ubi declaratur__, where it is declared.
 Nevertheless, as we firmly believe it was necessary that Christ should come,
 that by his death and sufferings he might offer
 up himself a sacrifice to God for our sins,
@@ -142,7 +144,7 @@ gracious sayings which proceed out of his mouth.
 The history then is profitable and comfortable with the mystery, and never without it;
 but the mystery is and may be profitable without the
 explicit and outward knowledge of the history.`"
-+++[+++Editors of F. Library.]]
+--Editors of Friends`' Library.]
 
 That, as it is this divine light which reproves the heart of all individuals for sin,
 so it would work out the salvation of all, if not resisted:
@@ -328,5 +330,5 @@ The Lord God is rough with the transgressor,
 and all along the Scripture hews and judges him; and if we come forth in the same spirit,
 we shall find the same leadings where we meet with the same thing.
 For the Lord God will never be tender there, nor can that which comes from him,
-lives in him, is led by him, be tender there, where he is not.`"
---Penington`'s Works, vol. 1. p. 91, 92.
+lives in him, is led by him, be tender there, where he is not.`"^
+footnote:[Penington`'s Works, vol. 1. p. 91, 92.]

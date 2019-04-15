@@ -1,10 +1,13 @@
-== The Life of William DewsburyChapter 1
+== Chapter 1
 
-William Dewsbury--Place of his Birth,
-Allerthorpe--Early religious impressions--Mental conflicts--Occupation,
-a Shepherd`'s boy--Apprenticed--Illness,
-occasioned by conflict of mind--Unsuccessful in his search for
-consolation through the religious experience of high Professors.
+[.chapter-synopsis]
+* Place of William Dewsbury`'s Birth, Allerthorpe
+* Early religious impressions
+* Mental conflicts
+* Occupation, a Shepherd`'s boy
+* Apprenticed
+* Illness, occasioned by conflict of mind
+* Unsuccessful in his search for consolation through the religious experience of high Professors.
 
 Among the numerous memorials which have been preserved of the lives, labors, sufferings,
 and religious experience of the early members of the Society of Friends,
@@ -26,8 +29,8 @@ prone to reflection as he was,
 and not too young to be sensible of the loss he had thus sustained,
 the impression did not pass off so quickly as is usual with children.
 For while he was lamenting with tears over the solemn and affecting event,
-he heard what appeared to him a voice, which said, "`Weep for yourself,
-for your father is well.`"
+he heard what appeared to him a voice, which said, "`__Weep for yourself,
+for your father is well__.`"
 So powerful was the effect produced on his mind by this extraordinary incident,
 that from that time forward he spent many hours,
 which in childhood are usually devoted to play, in prayer and fasting,
@@ -76,8 +79,8 @@ and caused some trouble in me.
 But I departed from the light, and followed the counsel of my own heart;
 which led me into vanity, and to live without the fear of God.
 About the time when I was eight years of age,
-the word of the Lord came to me,--'`I created you for my glory;--an account
-you must give me for all your words and actions done in the body:`' which
+the word of the Lord came to me,--'`__I created you for my glory;--an account
+you must give me for all your words and actions done in the body:__`' which
 word enlightened my heart and opened in me the book of conscience,
 wherein was written all that I had done ever since I had had any remembrance.
 When I had read my condition, how I had lived without God,
