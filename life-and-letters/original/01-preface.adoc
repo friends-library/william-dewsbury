@@ -131,10 +131,10 @@ by brackets enclosing such fresh matter.
 
 With regard to the old work,
 from which the epistles and some other papers are now reprinted,
-the title thus stood:--The Faithful Testimony of that Ancient Servant of the Lord,
+the title thus stood:--[.book-title]#The Faithful Testimony of that Ancient Servant of the Lord,
 and Minister of the Everlasting Gospel, William Dewsbury, in his Books, Epistles,
 and Writings, Collected and Printed for Future Service.
-London, 1689.
+London, 1689.#
 Like many of the works of that day, it is so indifferently got up,
 that the correct import of some passages is not very plain,
 and even admits of misinterpretation;
@@ -217,4 +217,5 @@ to occupy with the measure of grace bestowed upon him;
 earnestly desiring that hereby Christ, the giver of all grace,
 might be magnified in his body, whether by life or by death.
 
+[.signed-section-signature]
 John Barclay
