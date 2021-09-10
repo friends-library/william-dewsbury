@@ -71,7 +71,10 @@ And as one of the charges brought against him, and on which he was committed to 
 was,
 that he taught the people there was no "`original sin,`" he
 introduces himself to his reader with the following language:--
-"`I was conceived in sin and brought forth in iniquity;
+
+[quote]
+____
+I was conceived in sin and brought forth in iniquity;
 and in that state I lived, delighting in pride and pleasure, in lightness and vanity,
 as all do, who are in that nature, until I was about eight years of age.
 Even before that time, the Light in my conscience did witness against me,
@@ -96,7 +99,8 @@ I had lifted up myself against the living God, in living without his fear,
 who created me to live in obedience to Him; I, on the contrary,
 had lived in disobedience until that day.
 Whereupon, deep sorrow seized on me,
-and I knew not what to do to get acquaintance with the God of my life.`"
+and I knew not what to do to get acquaintance with the God of my life.
+____
 
 That which I am now relating occurred between the ages of eight and thirteen;
 at which early period of his life, was exemplified the Scriptural truth,
@@ -197,9 +201,11 @@ could ever cleanse the soul from sin, or restore it to a state of acceptance wit
 "`He lacked Christ,`" the chief of ten thousand, the beloved of souls,
 "`and without him he could not live.`"
 The following are his own words.
-Speaking of this serious people in the district about Leeds.
+Speaking of this serious people in the district about Leeds, he says:--
 
-"`There was,`" says he, "`as had been reported, much speaking of God, called preaching,
+[quote]
+____
+There was, as had been reported, much speaking of God, called preaching,
 and professing him in words, from the letter of the Scripture,
 what the saints had spoken forth, thus imitating the saints`' practice in a carnal wisdom,
 and seeking the kingdom of God in outward observations,
@@ -245,6 +251,7 @@ who drew me to seek the kingdom of God in observations without.
 But the word of the kingdom was in me,
 and executed the righteous judgment of God upon my adulterous heart,
 that took counsel and not at his mouth.`"
+____
 
 Under these exercises of mind, William Dewsbury`'s health gave way,
 and he became so weak as to be unable with all his efforts, conscientiously exerted,

@@ -1,7 +1,11 @@
-== Chapter VI
+== Chapter V
 
-1652-3. William Dewsbury`'s first journey--Suffers abuse with other Friends--Is
-almost killed at Sedbergh--Occurrences there--Epistle on Church Discipline.
+[.chapter-synopsis]
+* 1652-3. William Dewsbury`'s first journey
+* Suffers abuse with other Friends
+* Is almost killed at Sedbergh
+* Occurrences there
+* Epistle on Church Discipline.
 
 It is uncertain whether William Dewsbury had settled with
 his family at Wakefield as early as the year 1652,
@@ -26,7 +30,9 @@ will give but a faint idea of the cruelty, the abuse,
 and the persecution Friends at that time endured from this cause.
 He says:--
 
-After I was set at liberty, (that is,
+[quote]
+____
+After I was set at liberty (that is,
 from Carlisle jail,--a memorable instance of the triumph of truth over wickedness,
 cruelty and falsehood,) I went to Thomas Bewley`'s,
 where there came a Baptist teacher to oppose me; and he was convinced.
@@ -44,6 +50,7 @@ But the Lord`'s power was over all, and healed them again.
 At that day many Friends went to the steeple-houses,
 to declare the truth to the priests and people, and great sufferings they underwent;
 but the Lord`'s power sustained them.
+____
 
 It was in the course of this journey,
 of which no further particulars have been preserved, that he was at Sedbergh,
@@ -85,12 +92,14 @@ of religious discipline among Friends;
 and it shows some considerable analogy to that which was many years
 afterwards introduced by George Fox in a form much amplified,
 and which has continued in operation in the Society to the present day.
-In the introduction to the new edition of the Rules of Discipline
-of the Religious Society of Friends with Advices,
+In the introduction to the new edition of the [.book-title]#Rules of Discipline
+of the Religious Society of Friends with Advices,#
 I find the following statement, which bears directly on this point,
 and gives countenance to the supposition which I
 had entertained in regard to the epistle in question.--
 
+[quote]
+____
 Previously to the establishment of that regular system of discipline,
 and of that mode of representation in the meetings for conducting it, which now exists,
 there had been many general meetings held in different parts of the nation,
@@ -113,6 +122,7 @@ advices to husbands and wives, parents and children, masters and servants,
 as to the discharge of their relative duties,
 and also in regard to strict justice in trade,
 and a cheerful and faithful performance of civil offices in the commonwealth.
+____
 
 Such being the result of an examination made into the origin of our discipline,
 I conclude that those who have considered the subject,
@@ -120,12 +130,15 @@ will agree with me in attributing to the writer of the following epistle,
 the credit of having made the first suggestions on that subject.^
 footnote:[The editor has seen the original in William Dewsbury`'s handwriting:
 it was evidently sent to George Fox, and received his signature,
-after that of William Dewsbury, and is endorsed in George Fox`'s handwriting,
-William Dewsbury to Friends.]
+_after_ that of William Dewsbury, and is endorsed in George Fox`'s handwriting,
+_William Dewsbury to Friends._]
 
 The prefatory address will show the high authority under which
 William Dewsbury believed himself to be moving on this occasion.
 It is as follows:
+
+[.embedded-content-document.address]
+--
 
 This is the word of the living God to his church
 that he hath called and chosen out of the world,
@@ -216,7 +229,10 @@ Then will you have unity together in that which is begotten of God, who reigns o
 blessed forever.
 Wisdom is justified of her children.
 
+[.signed-section-signature]
 William Dewsbury
+
+--
 
 The other epistle to which allusion has been made, is dated 1653,
 and was printed in London in 1654, as a tract, with three epistles of other Friends;
@@ -224,6 +240,10 @@ and appears to have been one of the first pieces circulated in the metropolis.
 No reader will doubt its discovering strong symptoms of the need
 of oversight and care among those to whom it was addressed.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 I suffer with the imprisoned Seed unto which I was sent to preach the everlasting Gospel,
@@ -290,6 +310,10 @@ The Lord God Almighty enlighten your understandings, and bless you,
 and guide you in wisdom, to watch over one another in love,
 that the God of love may be exalted in all of you.
 
+[.signed-section-signature]
 From William Dewsbury
 
-December, 1653.
+[.signed-section-context-close]
+12th month, 1653.
+
+--

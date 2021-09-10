@@ -1,9 +1,10 @@
 == Introductory Chapter
 
-Design of the Work--The settlement of the Society of Friends,
-an especial instance of Divine power manifested to the Church--Its
-consequences seen in a reforming spirit--Discipline of the Society;
-its origin, character, and objects.
+[.chapter-synopsis]
+* Design of the Work
+* The settlement of the Society of Friends, an especial instance of Divine power manifested to the Church
+* Its consequences seen in a reforming spirit
+* Discipline of the Society; its origin, character, and objects.
 
 The object contemplated by the present volume,
 is to display the wonderful dealings of the Lord in the latter days,
@@ -213,7 +214,7 @@ in and prevailed throughout professing Christendom;
 goes on to speak of the order of that building, and the government of that house,
 which they believed themselves called upon to erect and establish
 among those who were gathered into the same fellowship.^
-footnote:[The Editor +++[+++John Barclay]
+footnote:[The Editor +++[+++John Barclay+++]+++
 is by no means clear,
 that this Introductory Chapter stands as the author would have let it go forth,
 had he been spared to complete it.
@@ -225,7 +226,7 @@ was he engaged in penning some of these clear views
 relative to the state of the militant church,
 until the increase of fever rapidly overwhelmed the mental and bodily powers,
 and hurried him away, not unprepared, as it is fully believed,
-to join the church triumphant in heaven.]--Editor.]
+to join the church triumphant in heaven.]--__Editor.__]
 
 The origin, character, and objects of the discipline or order of church government,
 established in the Society of Friends,
@@ -234,6 +235,8 @@ as for its adaptation to the nature and necessities of a Christian church,
 may be best introduced to the general reader by the following statement,
 extracted from their Rules of Discipline, recently published by the Yearly Meeting.
 
+[quote]
+____
 By the term discipline, we understand all those arrangements and regulations,
 which are instituted for the civil and religious benefit of a Christian church:
 the meetings of discipline are, of course,
@@ -337,7 +340,7 @@ exhorting and reproving any that were slothful, and encouraging them that were d
 putting a difference according to the wisdom given me of God,
 and still minding my own state and condition,
 and seeking the honour that cometh from God only.`"^
-footnote:[Memoirs.
+footnote:[__Memoirs.__
 Stephen Crisp was an able minister of the Gospel among Friends in the early times.
 There is a volume of his collected writings, to which is prefixed a journal of his life;
 from that scarce volume has been compiled, by Samuel Tuke,
@@ -374,6 +377,7 @@ and the power of every annual meeting to alter it,
 it has been found in its main particulars, adapted to those changes,
 and it remains to this day essentially the same as
 it was within forty years of the rise of the Society.
+____
 
 The statement then proceeds to notice the origin
 and establishment of General and Quarterly meetings;
@@ -387,6 +391,8 @@ to which the latter make report of their condition by representatives,
 in the same manner and with a similar relationship
 as the former do to the General or Yearly Meeting.
 
+[quote]
+____
 It appears to have been with our Society as it had been with the primitive church,
 that the care and provision for its poor members was amongst
 the earliest occasions of disciplinary arrangements.
@@ -502,3 +508,4 @@ and to let their condemnation go as far as their bad action has gone and no furt
 to defile the minds of Friends or others; and so to clear God`'s Truth and people,
 and to convert the soul to God,
 and preserve them out of further evils:--So be wise in the wisdom of God.`"
+____

@@ -1,10 +1,14 @@
 == Chapter I
 
-William Dewsbury--Place of his Birth,
-Allerthorpe--Early religious impressions--Mental conflicts--Occupation,
-a Shepherd`'s boy--Apprenticed--Illness,
-occasioned by conflict of mind--Unsuccessful in his search for
-consolation through the religious experience of high Professors.
+[.chapter-synopsis]
+* William Dewsbury
+* Place of his Birth, Allerthorpe
+* Early religious impressions
+* Mental conflicts
+* Occupation, a Shepherd`'s boy
+* Apprenticed
+* Illness, occasioned by conflict of mind
+* Unsuccessful in his search for consolation through the religious experience of high Professors.
 
 Among the numerous memorials which have been preserved of the lives, labours, sufferings,
 and religious experience of the early members of the Society of Friends,
@@ -69,6 +73,8 @@ was,
 that he taught the people there was no "`original sin,`"
 he introduces himself to his reader with the following language:--
 
+[quote]
+____
 I was conceived in sin and brought forth in iniquity; and in that state I lived,
 delighting in pride and pleasure, in lightness and vanity, as all do,
 who are in that nature, until I was about eight years of age.
@@ -95,6 +101,7 @@ who created me to live in obedience to Him; I, on the contrary,
 had lived in disobedience until that day.
 Whereupon, deep sorrow seized on me,
 and I knew not what to do to get acquaintance with the God of my life.
+____
 
 That which I am now relating occurred between the ages of eight and thirteen;
 at which early period of his life, was exemplified the Scriptural truth,
@@ -202,6 +209,8 @@ could ever cleanse the soul from sin, or restore it to a state of acceptance wit
 The following are his own words.
 Speaking of this serious people in the district about Leeds, he says:--
 
+[quote]
+____
 There was, as had been reported, much speaking of God, called preaching,
 and professing him in words, from the letter of the Scripture,
 what the saints had spoken forth,
@@ -249,6 +258,7 @@ who drew me to seek the kingdom of God in observations without.
 But the word of the kingdom was in me,
 and executed the righteous judgment of God upon my adulterous heart,
 that took counsel and not at his mouth.
+____
 
 Under these exercises of mind, William Dewsbury`'s health gave way,
 and he became so weak as to be unable with all his efforts, conscientiously exerted,

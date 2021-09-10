@@ -1,10 +1,11 @@
-== Chapter IV
+== Chapter III
 
-1646+++.+++ William Dewsbury`'s inclination to preach--He is admonished
-to wait until 1652--Further spiritual exercises--His declaration
-respecting the law of the Spirit of Life in Christ Jesus,
-its power and efficacy in his own case--Remarks on
-William Dewsbury`'s qualification for the ministry.
+[.chapter-synopsis]
+* 1646+++.+++ William Dewsbury`'s inclination to preach
+* He is admonished to wait until 1652
+* Further spiritual exercises
+* His declaration respecting the law of the Spirit of Life in Christ Jesus, its power and efficacy in his own case
+* Remarks on William Dewsbury`'s qualification for the ministry.
 
 By this time, 1646, William Dewsbury,
 having experienced in himself the efficacy of the one saving baptism,
@@ -40,6 +41,8 @@ All this, no doubt, tended more fully to prepare him for the great work and serv
 to which he was appointed.
 The following are his own words on this point of his history.
 
+[quote]
+____
 In that day and hour of temptation, I witnessed those Scriptures fulfilled in me,
 of Paul`'s condition, wherein he complained as I then did.
 I found a law in my members, warring against the law of my mind,
@@ -82,6 +85,7 @@ I came to the true knowledge of the Scriptures and
 the eternal rest which they testify of in Christ,
 by the inspiration of the spirit of Jesus, the lion of the tribe of Judah,
 who alone is found worthy to open the seals of the book.
+____
 
 The testimony,
 from which the foregoing narrative of his spiritual progress is chiefly taken,
@@ -90,7 +94,13 @@ after he found himself united to a people whom the Lord had raised up.
 To these, his friends in Christ,
 he thus impressively addresses himself at the close of the above piece:--
 
-Dear Friends, whose minds are turned to the effectual light that comes from Christ,
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+Dear Friends,
+
+Whose minds are turned to the effectual light that comes from Christ,
 all mind your own measure, and be content in what the Lord hath committed to you.
 With the light,
 judge that which would draw your minds to look forth at others`' conditions,
@@ -113,6 +123,8 @@ and +++[+++he will]
 crown you with eternal glory in Christ, our Judge, Lord, and King; God over all,
 blessed forever!
 Amen.
+
+--
 
 The reader will now feel himself under no difficulty in forming a judgment,
 both as to the view of Christian doctrine, and the degree of religious experience,
