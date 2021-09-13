@@ -238,7 +238,9 @@ they that wept as though they wept not, they that rejoiced as though they rejoic
 they that bought, as though they possessed not:--they used this world,
 as not abusing it.`"
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++A document has come to hand, since the above lines were penned,
 which affords in a few words a striking illustration of
 the above remarks as regards William Dewsbury.
@@ -247,7 +249,10 @@ he makes a request to his correspondent, Margaret Fell,
 "`a mother in Israel,`" to write to "`my tender children and family.`"
 He adds, "`In the life of my God, I have given them up,
 with my own life when he will call for it, a free sacrifice:
-in his will it is offered up, for him to do what is good in his eyes.`"--Editor]
+in his will it is offered up, for him to do what is good in his eyes.`"--__Editor.__]
+
+[.small-break]
+'''
 
 The following beautiful sentence, which closes one of his epistles about this period,
 may also be added:--"`Watch over one another with a single eye,

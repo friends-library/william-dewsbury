@@ -133,11 +133,16 @@ to be read among them, when they are met together in the fear of God.
 
 --
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++Since this volume has been in the Editor`'s hands for publication,
 he has met with a letter written by William Dewsbury, from the same place, Leith,
 only the day before the above communication was penned: it is addressed to Margaret Fell,
 and is as follows.]
+
+[.small-break]
+'''
 
 [.embedded-content-document.letter]
 --
@@ -450,7 +455,7 @@ that the whole number of Friends imprisoned at one time in York castle,
 and other prisons in the county, in the two months of which he had been writing,
 was five hundred and thirty-six, of whom five hundred and five were in the castle itself;
 where five died through the unhealthiness of the place.^
-footnote:[It is not the editor`'s purpose here to
+footnote:[It is not the Editor`'s purpose here to
 enlarge on the subject of these lamentable facts,
 or he might readily produce a mass of evidence,
 in illustration of the cruelty and wrong inflicted upon

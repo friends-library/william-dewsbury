@@ -206,11 +206,11 @@ Among these were John Crook, lately a justice of the peace, and Thomas Stubbs,
 a man of education, both persons of some account where they lived.
 On this occasion, William Dewsbury`'s detention was only temporary; he was soon dismissed.
 
-[.small-break]
+[.asterism]
 '''
 
-+++[+++Here a chasm of nearly a year intervenes in the biographical narrative,
-which the editor will not attempt with any exactness to fill up.
+__From the Editor.__--Here a chasm of nearly a year intervenes in the biographical narrative,
+which the Editor will not attempt with any exactness to fill up.
 But, by a memorandum in the author`'s handwriting, it seems,
 that had he been spared to perfect his design,
 he would in this place have introduced some notice of the part taken
@@ -243,7 +243,7 @@ That this should have been the case,
 is not to be wondered at on several accounts;--and we may also remember,
 that the primitive believers could scarcely be prevailed upon to receive Saul,
 the persecutor, among them.
-From a letter now before the editor, although without date,
+From a letter now before the Editor, although without date,
 he is induced to consider William Dewsbury as a
 principal instrument in bringing this about.
 Speaking of a journey to London,
@@ -271,7 +271,7 @@ Before giving the reader further extracts from this letter, relative to Bristol,
 it will be proper to add something as to William Dewsbury`'s
 conduct and dealing with James Nayler himself.
 A very judicious communication from the former of these Friends to the latter,
-with the reply of the latter, is now in the possession of the editor;
+with the reply of the latter, is now in the possession of the Editor;
 by which it appears,
 that William Dewsbury had watched over and yearned towards his offending brother,
 and had seen with clearness the steps by which he had fallen,
@@ -337,9 +337,9 @@ in your life, keep them in unity with all your elect,
 to serve you with faithfulness unto the end.
 Amen!`"
 James Nayler`'s reply manifests throughout,
-as clear and becoming a frame of mind as could be desired.]
+as clear and becoming a frame of mind as could be desired.
 
-[.small-break]
+[.asterism]
 '''
 
 To return to Bristol.
@@ -467,7 +467,7 @@ On the 9th of second month, 1657, William Dewsbury dates an epistle from London;
 Suffolk, and Essex on his way.
 Few particulars are entered into; but he states,
 that he found Friends in their measures preciously grown in the life,
-and that there was a great people in those parts.--Editor.]
+and that there was a great people in those parts.--__Editor.__]
 Arrived in London, he appears to have tarried something short of six weeks,
 and then moved forward into Kent; from which district,
 in an epistle dated the 22nd of third month,
@@ -499,7 +499,9 @@ so will death with all its formality be kept out from among you.
 
 --
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++Of his visit to Kent,
 the only additional vestige is gleaned from the communication to Margaret Fell,
 mentioned above, the date of which is near Sandwich, the 3rd of fourth month.
@@ -515,7 +517,10 @@ The master of the vessel, Robert Fowler,
 afterwards gave some account of the hand of Providence being with him in his voyage,
 which was called "`A Quaker`'s Sea Journal,`" and was printed.
 In it, he makes mention of the refreshment they had from the company of William Dewsbury,
-and that he recommended them to the grace of God.--Editor.]
+and that he recommended them to the grace of God.--__Editor.__]
+
+[.small-break]
+'''
 
 From Kent he traveled westward to the Land`'s End,
 preaching the word of eternal life through the southern counties.
@@ -647,7 +652,9 @@ to the glory of his name.`"
 He then passed through Gloucestershire, and so to Bristol,
 which he reached on the 18th of the month.
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++It is not likely that the termination of his services on this journey was at Bristol;
 for, by a letter from his wife to a Friend, it would seem,
 that on the 28th of eighth month, he was intending to enter Wales.
@@ -667,7 +674,10 @@ many of them owned their condemnation openly, for what they had done against the
 to their shame and his glory, who prospers his work in his own hand,
 and with his outstretched arm glorifies his name, to our comfort,
 whom he has chosen to do his will, to his glory, who is worthy:
-blessed be his name forever!`"--Editor.`']
+blessed be his name forever!`"--__Editor.__]
+
+[.small-break]
+'''
 
 The account of this journey shall be closed by the following epistle, dated Cornwall,
 1657, which is now for the first time printed.

@@ -1,7 +1,12 @@
 == Chapter VIII
 
-1655+++.+++ Epistle--Assizes--Prisoners tried before Judge Atkins--Refuse
-to enter into bonds--Remanded to prison--Detained six months.
+[.chapter-synopsis]
+* 1655+++.+++ Epistle
+* Assizes
+* Prisoners tried before Judge Atkins
+* Refuse to enter into bonds
+* Remanded to prison
+* Detained six months.
 
 During William Dewsbury`'s confinement in Northampton jail,
 he did not spend his time in idleness; for besides several pieces,
@@ -15,6 +20,9 @@ The following extract from that which comes first in order,
 and is of a very general character, will, I trust,
 tend to edification,--bearing in mind that the point of
 the piece is levelled against a paid and lifeless ministry.
+
+[.embedded-content-document.epistle]
+--
 
 All people who desire to know the living God,
 let the time past suffice in which you have followed men who have deceived you,
@@ -106,9 +114,18 @@ to hunger and thirst after the righteousness of God in Christ Jesus,
 to prize and love him, and to judge and deny self with his light,
 and in it to wait for his power to guide you in every word and work.
 
+--
+
 +++[+++The following letter of advice to an individual, of some station, Judge Fell,
-of Swarthmore, the editor ventures to interpose between these two addresses.
+of Swarthmore, the Editor ventures to interpose between these two addresses.
 It is copied from the original manuscript.]
+
+[.small-break]
+'''
+
+
+[.embedded-content-document.letter]
+--
 
 To Judge Fell
 
