@@ -1,6 +1,10 @@
 == Chapter XVIII
 
-1688+++.+++ William Dewsbury visits London--Attends Gracechurch street meeting--Sermon--Prayer.
+[.chapter-synopsis]
+* 1688+++.+++ William Dewsbury visits London
+* Attends Gracechurch street meeting
+* Sermon
+* Prayer.
 
 Notwithstanding William Dewsbury`'s age, declining state of health,
 and great infirmities, feeling himself a little strengthened,
@@ -12,11 +16,17 @@ He also entertained the hope of attending the Yearly Meeting of Friends,
 which was to be held there on the 4th of the following month.
 Soon after his arrival in the metropolis, namely, on the 6th of the third month,
 he attended a meeting for worship at Gracechurch street,
-where he preached the following powerful and impressive Sermon,
+where he preached the following powerful and impressive sermon,
 the only one of his which has been preserved.
-It is given in Sewel`'s History.
+It is given in [.book-title]#Sewel`'s History.#
 
-My Friends, "`Except you be regenerated and born again,
+[.embedded-content-document.address]
+--
+
+[.salutation]
+My Friends,
+
+Except you be regenerated and born again,
 ye cannot inherit the kingdom of God.`"
 This is the word of the Lord God to all people this day.
 This lies not in airy profession, and in vain imagination,
@@ -422,13 +432,13 @@ that he may lift them up and be all in all to them,
 in whose blessed presence they shall have joy,
 and rivers of pleasures at his right hand forevermore!
 
-[.small-break]
-'''
+--
 
+[.offset]
 +++[+++The following is the prayer, which he offered up after the preceding testimony.]
 
-[.small-break]
-'''
+[.embedded-content-document.prayer]
+--
 
 Blessed and glorious God! thy presence and power is with thy people everywhere,
 and thou art stretching forth thy almighty arm, for the salvation of thy chosen ones.
@@ -497,10 +507,12 @@ as furnishing the sole impulse and qualification for instrumental labour,
 the transition becomes very easy to recited sermons and forms of prayer.
 Indeed the Editor cannot doubt,
 but that some of those ancient and beautiful compositions,
-which form parts of the service of the Book of Common Prayer,
+which form parts of the service of the [.book-title]#Book of Common Prayer,#
 were actually brought forth under a precious degree of divine influence;
 but the old enemy has contrived, by extolling these productions,
 to lead away the minds of people from that inwardly searching exercise,
 that individual labour, in which such words might have been rightly breathed forth,
 and to settle them down in the use of a form, by way of helping their infirmities,
 to the neglect of feeling after that strength which is "`made perfect in weakness.`"]
+
+--

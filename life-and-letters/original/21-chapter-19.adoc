@@ -1,8 +1,13 @@
 == Chapter XIX
 
-1688+++.+++ William Dewsbury is taken ill in London--Addresses a letter to the
-Yearly Meeting--Returns home--His last hours--Address previous to the
-close--His death and character--Testimony of his friends respecting him.
+[.chapter-synopsis]
+* 1688+++.+++ William Dewsbury is taken ill in London
+* Addresses a letter to the Yearly Meeting
+* Returns home
+* His last hours
+* Address previous to the close
+* His death and character
+* Testimony of his friends respecting him.
 
 William Dewsbury continued in London until the 30th of the third month,
 desirous of attending the approaching Yearly Meeting;
@@ -10,7 +15,13 @@ but having been taken ill soon after the meeting at which he had been so largely
 and his disorder continuing to increase,
 he addressed the following letter to his friends and then proceeded homewards.
 
-Dear Friends and brethren; I did not know until last night,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Friends and brethren,
+
+I did not know until last night,
 but I should have been with you at the Yearly Meeting.
 But it pleased the Lord to visit me with my ancient distemper,
 which hath accompanied me many years in prison, and since I was released.
@@ -22,16 +33,24 @@ but desire the Lord to assist you with his blessed power and heavenly Life,
 to bring in the scattered ones to their everlasting comfort, and his glory forever.
 Amen!
 
+[.signed-section-closing]
 And that it may be so with you, is the prayer of your loving brother,
 
+[.signed-section-signature]
 William Dewsbury.
 
+[.signed-section-context-close]
 London, the 30th of the Third month, 1688.
+
+--
 
 Although he was favoured with strength to reach home, by short and easy journeys,
 he only lived seventeen days after the date of the above letter.
 About a week before he died, a few Friends being met in his chamber,
 rising from his bed in great weakness of body, he addressed them as follows:
+
+[.embedded-content-document.address]
+--
 
 My God hath put it into my heart to bear a testimony in his name and blessed Truth.
 I can never forget the day of his great power and blessed appearance,
@@ -77,6 +96,8 @@ and cause his Truth to flourish and spread abroad.
 For it shall have the victory, and no weapon formed against it shall prosper.
 The Lord hath determined, it shall possess the gates of its enemies;
 and the glory and the light thereof shall shine more and more until the perfect day.
+
+--
 
 He concluded with prayers to the Lord,
 and with fervent breathings and supplications for all his people everywhere,
@@ -148,6 +169,9 @@ and self, through the power of redeeming love, having become of no reputation wi
 he invariably yielded, for his success,
 the tribute of thanksgiving and praise to Him unto whom alone he felt that it did belong.
 
+[.embedded-content-document.testimony]
+--
+
 This our dear deceased brother +++[+++say his memorialists,]
 was a man religiously concerned for the honour of God,
 and had a great care upon his spirit,
@@ -209,3 +233,5 @@ footnote:[The preceding paragraphs form the greater part
 of a testimony borne to his memory soon after his death,
 to which are attached the names of six Friends, namely, George Whitehead,
 Francis Camfield, Richard Pinder, Stephen Crisp, Richard Richardson, and James Parke.]
+
+--

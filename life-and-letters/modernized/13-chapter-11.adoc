@@ -24,7 +24,11 @@ When Friends in the capacity of ministers had their
 steps first directed among the people of that nation,
 the word preached was truly glad tidings to their souls.
 We are informed by John Barclay,
-in his "`Memoirs of Friends in Scotland,`" that "`in the south of Scotland,
+in his [.book-title]#Memoirs of Friends in Scotland:--#
+
+[quote]
+____
+In the south of Scotland,
 as in the north, there were individuals,
 whose minds had been for some years weary and heavy laden,
 under a sense of their manifold shortcomings, yet who believed there was to be known,
@@ -40,7 +44,7 @@ On these occasions, they were at times made sensible of the quickening virtue, p
 and life of the holy Spirit,
 enabling some of them to speak forth the praises of the Almighty,
 and from an inward experience of his goodness,
-to extend instrumentally a hand of help to others.`"
+to extend instrumentally a hand of help to others.
 
 "`To a people thus situated,
 it appeared to be consistent with the mind of the great
@@ -64,6 +68,7 @@ that they were made willing, even in all things, to take up the daily cross,
 though in various respects as bitter as death,
 and to follow the guidance of Christ by his spirit within them,
 whithersoever he should be pleased to lead.`"
+____
 
 Thus much is known of William Dewsbury`'s labors as regards Aberdeen.
 But the epistle above referred to is dated Leith, at an earlier period, namely,
@@ -133,16 +138,10 @@ to be read among them, when they are met together in the fear of God.
 
 --
 
-[.small-break]
-'''
-
 +++[+++Since this volume has been in the Editor`'s hands for publication,
 he has met with a letter written by William Dewsbury, from the same place, Leith,
 only the day before the above communication was penned: it is addressed to Margaret Fell,
 and is as follows.]
-
-[.small-break]
-'''
 
 [.embedded-content-document.letter]
 --
@@ -308,8 +307,9 @@ But after much counseling of him in tender love, to stop that paper from going a
 but he would not be separated from that spirit that gave it forth,
 I cleared my conscience in the word of the Lord.
 And now, in my freedom in God, I declare to the children of Zion,
-what the judgment is that did arise in my heart, to this purpose:--'`John,
-if you propagate what you have written in this paper, you will wound more hearts,
+what the judgment is that did arise in my heart, to this purpose:--
+
+John, if you propagate what you have written in this paper, you will wound more hearts,
 and cause more trouble of spirit among the tender-hearted people of the Lord,
 than when the temptation entered James Nayler: who deeply suffered,
 but the Lord restored him again by true repentance.
@@ -341,7 +341,11 @@ as were numerous among Friends who were the laborers and sufferers of that day,
 which made them a match for every occasion wherein they were called to exercise it.
 In this faith, which is the saints`' victory, the same writer, in his address,
 proceeds to hand them the word of encouragement.
-"`Dear brethren, though great be the wrath that withstands the work of our God,
+
+[.embedded-content-document.address]
+--
+
+Dear brethren, though great be the wrath that withstands the work of our God,
 which wrath works openly and mysteriously, to lay burdens upon the innocent,
 and to add afflictions to the afflicted;--in the
 word of the Lord that arises in my heart,
@@ -349,7 +353,9 @@ I declare, they shall but weary themselves, and all their hopes shall fail them,
 and their expectations shall come to naught,
 who wait for evil concerning you who love the Lord better than your lives,
 and delight in waiting to feel his power at all times,
-leading and ordering you in the bonds and within the limits of his spirit.`"
+leading and ordering you in the bonds and within the limits of his spirit.
+
+--
 
 This subject must not be concluded,
 without presenting the reader with some further information,
@@ -380,7 +386,8 @@ And, though most of these, who thus returned were such as, with myself,
 had before renounced the error, and forsaken the practice; yet did we sensibly find,
 that forsaking without confessing, in case of public scandal, was not sufficient;
 but that an open acknowledgment of open offenses, as well as forsaking them,
-was necessary to obtaining complete remission.`"--Ellwood`'s Life, p. 241.
+was necessary to obtaining complete remission.`"^
+footnote:[__The Life of Thomas Ellwood__]
 
 Besides an abatement of numbers in the Society, from the cause now described,
 it will not be difficult to believe,
@@ -420,7 +427,7 @@ he was an indefatigable laborer in the cause which he
 had espoused with so much sincerity and zeal.
 
 On one occasion, about this time,
-we find from Besse`'s Collection of the Sufferings of Friends,
+we find from [.book-title]#Besse`'s Collection of the Sufferings of Friends,#
 that he was at a meeting in Warwickshire, at the house of one William Reynolds,
 which was disturbed by a constable accompanied and assisted by a rude multitude,
 armed with swords and staves, who pulled the Friends out of the house,
@@ -486,7 +493,7 @@ but with much difficulty to bring us necessary things: but sometimes it is other
 6th of twelfth month, 1660.]
 William Dewsbury was not long detained in confinement after the above date;
 for in the postscript to an address, altogether worthy of a Christian minister,
-dated the 20th, which he wrote and found means of presenting to King Charles II.,
+dated the 20th, which he wrote and found means of presenting to King Charles II,
 then newly seated on the throne; he informs the king,
 that before the document could be sent to him by a private and safe hand,
 he was set at liberty, with some others of his brethren, "`by the late proclamation,
@@ -516,7 +523,8 @@ king and council in procuring the desired relief.
 William Dewsbury`'s address to the king, will be introduced in a subsequent page;
 it is recommended to the notice of the reader,
 as a specimen of that true independence of mind,
-which Christianity in its genuine nature produces in the character of man.
+which Christianity in its genuine nature produces
+in the character of man.--+++[+++__See Appendix.__]
 
 It has already been intimated, that while under confinement at York,
 William Dewsbury wrote several epistles of encouragement to be dispersed among Friends,

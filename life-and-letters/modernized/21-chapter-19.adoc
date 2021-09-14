@@ -19,7 +19,7 @@ he addressed the following letter to his friends and then proceeded homewards.
 --
 
 [.salutation]
-Dear Friends and brethren
+Dear Friends and brethren,
 
 I did not know until last night,
 but I should have been with you at the Yearly Meeting.
@@ -170,15 +170,18 @@ he invariably yielded, for his success,
 the tribute of thanksgiving and praise to Him
 unto whom alone he felt that it did belong.
 
-"`This our dear deceased brother,`" say his memorialists,
-"`was a man religiously concerned for the honor of God,
+[.embedded-content-document.testimony]
+--
+
+This our dear deceased brother +++[+++say his memorialists,]
+was a man religiously concerned for the honor of God,
 and had a great care upon his spirit,
 that those who had believed and made profession of the truth,
 might answer it in a holy and blameless life and conduct: which, he would often say,
-'`could never be done by largeness of knowledge or strength of comprehension,
-but by a real dying to their wills and affections, by the virtue of the daily cross.`'`"
+"`could never be done by largeness of knowledge or strength of comprehension,
+but by a real dying to their wills and affections, by the virtue of the daily cross.`"
 
-"`He was one whom God raised up early in the morning of his glorious day,
+He was one whom God raised up early in the morning of his glorious day,
 and made an eminent instrument in his hand for
 the publication of his mighty day and power;
 preaching repentance in order to the remission of sins,
@@ -191,7 +194,7 @@ For the Lord our God, in whose dread and zeal he labored,
 endued him with faith and courage, and with great boldness for his name and truth;
 and he published the same in great plainness and in the simplicity thereof.
 
-"`To the tender-hearted he was exceedingly tender;
+To the tender-hearted he was exceedingly tender;
 but to the stubborn and lofty he was sharp and plain; admonishing them,
 and declaring the righteous judgment of God against that state: waiting,
 and endeavoring with much patience and long-suffering, the recovery of such,
@@ -207,14 +210,14 @@ wickedness:--as he did upon his last visit to London,
 a few days before his departure out of the body, which he then told some of us,
 was near at hand.
 
-"`He was fervent and frequent in prayer to God for the good of his church,
+He was fervent and frequent in prayer to God for the good of his church,
 and for the gathering of people to their true rest;
 wherein we have had true unity with him.
 And our souls, with many more, have been often refreshed and comforted with him.
 His many deep sufferings for the truth,
 and his faithful travels and labors are never to be forgotten.
 
-"`And although the envy of wicked and unreasonable men
+And although the envy of wicked and unreasonable men
 was very great and fierce against him,
 he feared neither their malice, threats, nor blows;
 but boldly went forth publishing the truth,
@@ -223,7 +226,13 @@ And the hand of divine Providence did often deliver him
 in a wonderful manner out of the hands of the wicked,
 for his name`'s sake.
 
-"`Finally, having faithfully served his generation, and finished his sufferings,
+Finally, having faithfully served his generation, and finished his sufferings,
 testimony and course with joy, he has now obtained the crown immortal,
 and is gone into the everlasting rest, from all his labors, and his works follow him,
-with a blessed reward in the kingdom of glory and peace.`"
+with a blessed reward in the kingdom of glory and peace.^
+footnote:[The preceding paragraphs form the greater part
+of a testimony borne to his memory soon after his death,
+to which are attached the names of six Friends, namely, George Whitehead,
+Francis Camfield, Richard Pinder, Stephen Crisp, Richard Richardson, and James Parke.]
+
+--

@@ -29,10 +29,7 @@ which were thought to be worthy of the reader`'s attention.
 [.embedded-content-document.address]
 --
 
-[.salutation]
-O England!
-
-Who lies in the fallen and lost estate, separated from the true and living God,
+O England, who lies in the fallen and lost estate, separated from the true and living God,
 by your iniquities,
 notwithstanding all your profession of his name in outward forms and observations;
 repent, repent, and turn unto the Lord God Almighty, who waits to be gracious unto you,
@@ -226,9 +223,10 @@ and even to misrepresent, the plain facts of the case,
 although explanations have been abundantly given forth,
 clearing the Society and their principles from
 the slightest implication in the whole matter.
-On this head, J. G. Bevan`'s Life of James Nayler,
+On this head, J. G. Bevan`'s [.book-title]#Life of James Nayler,#
 with a refutation of some of the more modern misrepresentations of Friends,
 may be consulted with advantage.
+
 "`James Nayler,`" says a judicious writer, in a note appended to G. Fox`'s Journal,
 "`was a monument of human frailty.
 His gift in the ministry was eminent, his experience in divine things truly great.
@@ -248,24 +246,31 @@ he is induced to consider William Dewsbury as a
 principal instrument in bringing this about.
 Speaking of a journey to London,
 and of the dealings of the Lord with him in the course of it,
-he says,--"`who has restored many captives, and brought in many that were turned aside,
-in much brokenness of heart, in the sense of his mercy in their recovery.`"
-"`I was led of the Lord,`" he continues, "`into London, according to his will,
+he says:--
+
+[.embedded-content-document.letter]
+--
+
++++[+++The Lord] hath restored many captives, and brought in many that were turned aside,
+in much brokenness of heart, in the sense of his mercy in their recovery.
+I was led of the Lord into London, according to his will,
 in the service he had determined at that time in that place.
 I was much filled with comfort, to behold his appearance among his people,
 who did mightily refresh his babes with his own presence.
-The Lord laid it upon me, that dear G. F. and J. N. might meet together:
+The Lord laid it upon me, that dear George Fox and James Nayler might meet together:
 my travail was great in spirit, until the Lord answered; which, in the day he determined,
 was done: mighty was his majesty among his people, in the day he healed up the breach,
 which had been so long to the sadness of the hearts of many.
 The Lord clothed my dear brethren, George Fox, Edward Burrough, and Francis Howgil,
 with precious wisdom; his healing spirit did abound within them,
 with the rest of the Lord`'s people there that day, according to their measure:
-and the Lord was with J. N., and ordered him by his spirit,
+and the Lord was with James Nayler, and ordered him by his spirit,
 so that the measure of the Lord`'s Spirit in all,
 reached to embrace it with gladness of heart.
 Then I was set free to pass from London, through Surrey, and so to Bristol,
-to be there the first-day after, being the 5th day of the twelfth month.`"
+to be there the first-day after, being the 5th day of the twelfth month.
+
+--
 
 Before giving the reader further extracts from this letter, relative to Bristol,
 it will be proper to add something as to William Dewsbury`'s
@@ -292,7 +297,12 @@ the saddening the hearts of the Lord`'s upright children,
 and causing his holy name to be blasphemed.
 He speaks of having been moved to come to London in the Lord`'s service;
 and that when there,
-he had sent for those who had so run out:--"`in tender love to their souls,
+he had sent for those who had so run out:--
+
+[.embedded-content-document.letter]
+--
+
+In tender love to their souls,
 I ministered to them, to clear their understandings where they were to return,
 that God might heal them; on which, some of them, with others in Essex and Norfolk,
 were bowed down while they were with me; and I am clear of their blood,
@@ -312,6 +322,7 @@ they shall certainly wither and perish; the mouth of the Lord has spoken it,
 whose spirit will not always strive with man.
 And if you allow them in their deceit, as you have, and do not reprove them,
 their blood will lie heavy upon you, and you will not be clear.
+
 Dear James, I beseech you, in tender love in the Lord Jesus, wait singly in his counsel,
 to give you an understanding to discern the working of this deceitful spirit.
 Notwithstanding all feignedness, that ground is to set up a master in the earth,
@@ -330,12 +341,24 @@ serve one another, build up one another; that among all,
 there may not be any master but Christ, our head.`"
 He adds, "`many wait to hear of your being raised up in the light and life,
 to judge down and reign over this spirit,
-that has and does seek to make disorder and strife among brethren.`"
-This affecting address closes with these pious exlamations in prayer:--"`God
-Almighty! restore to a pure understanding all those that have been veiled;
+that has and does seek to make disorder and strife among brethren.
+
+--
+
+[.offset]
+This affecting address closes with these pious exlamations in prayer:--
+
+[.embedded-content-document.letter]
+--
+
+God Almighty! restore to a pure understanding all those that have been veiled;
 in your life, keep them in unity with all your elect,
 to serve you with faithfulness unto the end.
-Amen!`"
+Amen!
+
+--
+
+[.offset]
 James Nayler`'s reply manifests throughout,
 as clear and becoming a frame of mind as could be desired.
 
@@ -455,7 +478,7 @@ W+++.+++ D.
 [.postscript]
 ====
 
-Remember me to Robert Widders and John Audland; as freedom is,
+P+++.+++ S.--Remember me to Robert Widders and John Audland; as freedom is,
 you may let them know how it is with the Lord`'s people at Bristol and hereaway.
 
 ====
@@ -498,9 +521,6 @@ Neither add to, nor diminish;
 so will death with all its formality be kept out from among you.
 
 --
-
-[.small-break]
-'''
 
 +++[+++Of his visit to Kent,
 the only additional vestige is gleaned from the communication to Margaret Fell,
@@ -663,7 +683,11 @@ may be referred to this period;
 by an extract from it we may see how great his
 exercises and labors in this district must have been,
 and that they were "`not in vain in the Lord,`" his Guide, Counsellor, and Helper.
-"`Our God,`" says he, "`in mercy is answering the prayers of his people,
+
+[.embedded-content-document.letter]
+--
+
+Our God in mercy is answering the prayers of his people,
 in bringing back again them that have been driven away in the hour of temptation,
 and now is seeking the lost, and restoring the scattered of the house of Israel.
 Many in Wales and elsewhere return,
@@ -674,10 +698,9 @@ many of them owned their condemnation openly, for what they had done against the
 to their shame and his glory, who prospers his work in his own hand,
 and with his outstretched arm glorifies his name, to our comfort,
 whom he has chosen to do his will, to his glory, who is worthy:
-blessed be his name forever!`"--__Editor.__]
+blessed be his name forever!--__Editor.__]
 
-[.small-break]
-'''
+--
 
 The account of this journey shall be closed by the following epistle, dated Cornwall,
 1657, which is now for the first time printed.
