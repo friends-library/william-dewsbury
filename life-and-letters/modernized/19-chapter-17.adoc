@@ -25,6 +25,8 @@ Mary Samm, who dwelt with her grandfather`' William Dewsbury, at the Sergeant`'s
 in Warwick jail,
 where he was and is prisoner for the testimony of the Lord Jesus Christ.`"
 
+[quote]
+____
 On the 1st day of the second month, 1680,
 it pleased the Lord to afflict her with a violent fever,
 that brought her very low in a little time.
@@ -91,6 +93,7 @@ But while there is life, there is hope;
 but I do believe it is better for me to die than live.`"
 Thus she continued speaking of the goodness of the Lord from day to day,
 which caused many tears to flow from the eyes of those who heard her.
+
 Her grandfather coming to her, asked her how she did;
 she replied to him and to her mother,--"`I have had no rest this night nor to day.
 I did not know but I should have died this night, and very hardly I got through it:
@@ -110,6 +113,7 @@ Dear Mary, you shall have all attendance that is convenient; as,
 to set you up in your bed and to lay you down again; but to take you up,
 we are not willing.`"
 She replied, "`Well, grandfather, what you see best for me I am willing to have so.`"
+
 When her mother and aunt set her up in her bed,
 she said it did refresh her and gave her some ease,
 and as they were ordering what was to be done about her bed, she said,
@@ -119,7 +123,6 @@ She answered, "`Yes, yes, I am upon my death bed; I shall die today,
 and I am very willing to die, because I know it is better for me to die than live.`"
 Her aunt replied, "`I do believe it is better for you to die than live.`"
 She said, "`Yes, it is well for me to die.`"
-
 Her mother then said to her, "`Mary,
 are you well satisfied in leaving me and your sisters,
 and coming to Warwick to your grandfather?`"
@@ -145,9 +148,6 @@ Then she awoke without any complaint; and in a quiet peaceable,
 frame of spirit laid down her head in peace, when the clock struck the fifth hour,
 on the 9th day of the second month, 1680.
 
-[.embedded-content-document.paper]
---
-
 We whose names are underwritten,
 were eye and ear witnesses of what is before expressed, as near as could be taken,
 and it does not vary much from what she declared, as to the substance,
@@ -165,8 +165,7 @@ Joan Dewsbury, her aunt.
 
 [.signed-section-signature]
 Hannah Whitehead, a friend.
-
---
+____
 
 The preceding account had prefixed to it by William Dewsbury, the following address,
 from which it will not be unprofitable to subjoin an extract:
@@ -190,6 +189,7 @@ So, you that were afar off in your rebellious nature, of which you are now asham
 through true repentance and obedience to the light, are made nigh by the blood of Christ;
 which gives you full assurance of your eternal salvation,
 and purges your consciences from dead works to serve the living God.
+
 And whoever you are,
 who come to witness this blessed work of regeneration wrought in your hearts,
 as before written, being created to a lively hope in Christ Jesus,
@@ -199,7 +199,8 @@ Thus, all who are worshippers of the Father, come to worship him in spirit and i
 for the Father seeks such to worship him.
 And these are they whom he perfects forever through the sanctification of his spirit.
 So is this Scripture fulfilled in you, '`He that does truth comes to the light,
-that his deeds may be made manifest that they are wrought in God.`' John 3:21.
+that his deeds may be made manifest that they are wrought in God.`'^
+footnote:[John 3:21.]
 And these are his children who walk in the light,
 and have their fellowship with the Father of light in Christ Jesus, their blessed Savior,
 and one with another in his humble, meek, pure, and blessed nature;
@@ -269,6 +270,7 @@ Amen.
 
 --
 
+[.offset]
 The following "`General epistle to Friends,
 from this ancient servant of Christ,`" may here be introduced.
 

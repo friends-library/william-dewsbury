@@ -1,9 +1,10 @@
 == Chapter XIV
 
-1663+++.+++ William Dewsbury released from York--imprisoned for
-near eight years in Warwick jail--Persecutions of Friends;
-the banishment of many--William Dewsbury`'s consolatory
-and animating addresses to the sufferers.
+[.chapter-synopsis]
+* 1663+++.+++ William Dewsbury released from York
+* Imprisoned for near eight years in Warwick jail
+* Persecutions of Friends; the banishment of many
+* William Dewsbury`'s consolatory and animating addresses to the sufferers.
 
 William Dewsbury was set at liberty from his confinement
 at York early in the following year,
@@ -29,6 +30,8 @@ William Crouch, a Friend, who lived through that terrible period,
 for it was so on more accounts than the one in question, writing of the year 1664-5,
 gives us the following information.
 
+[quote]
+____
 Now the enemies and adversaries of the church, were in deep counsels and consultations,
 utterly to root the Quakers out of England, by banishing them into foreign plantations:
 and a law being made,
@@ -44,6 +47,7 @@ by those severe strokes of his hand upon the nation, in the years 1665 and 1666.
 footnote:[The plague which broke out in London,
 and the great fire which followed in the next year--signal tokens
 of the divine displeasure with the wickedness of that city.]
+____
 
 It appears from the same author,
 that the first proceedings under this act took place at the assizes at Hertford,
@@ -52,7 +56,7 @@ where Orlando Bridgman presided as judge.
 He passed sentence of banishment against eight Friends, who were then brought to trial.
 Seven of these, namely, Nicholas Lucas, Henry Feast, Henry Marshall, Francis Pryor,
 John Blindell, Jeremiah Hearn, and Samuel Trahern, were brought up to London,
-and on the 14th of the month called September, put on board the Ann,
+and on the 14th of the month called September, put on board the __Ann,__
 a packet for Jamaica, Thomas May commander.
 But two months afterwards they were set on shore, for the following among other reasons,
 given under the commander`'s own hand, and duly witnessed.
@@ -65,7 +69,7 @@ This was certified and given to the sufferers,
 to show that they had not made their escape from the ship.
 
 After this, three other Friends, namely, Cannawell Briton, Bartholomew Croker,
-and Lewis Rogers, were put on board the ship Mary Fortune, bound for Barbados,
+and Lewis Rogers, were put on board the ship __Mary Fortune,__ bound for Barbados,
 John Lloyd, master: who also repented, and on that account refusing to carry them,
 set them on shore,
 giving them a certificate containing the following among other reasons for his doing so.
@@ -104,7 +108,7 @@ and the government agents, after much search and many refusals,
 having engaged with a man of infamous character to carry
 them to Jamaica--the prisoners were put on board,
 some of them being ill of the plague at that time.
-The ship, called the Black Eagle, the master`'s name Fudge,
+The ship, called the __Black Eagle,__ the master`'s name Fudge,
 was seven weeks before it got to the Downs, within which time twenty-seven Friends, died,
 many of whom were buried in the marshes below Gravesend.
 Fudge, who had run himself largely into debt in fitting out his ship,
@@ -113,7 +117,7 @@ was arrested and cast into prison, and Peter Love was made master in his room.
 In the Downs, they were detained many weeks by contrary winds,
 as also between that and Plymouth.
 After considerable detention, clearing away from that harbour,
-the Black Eagle was captured by a Dutch privateer; they then encountered a storm,
+the __Black Eagle__ was captured by a Dutch privateer; they then encountered a storm,
 which separated the vessels, and carried one of them to the coast of Norway,
 but at length it succeeded in arriving at Holland, where all the Friends met.
 The Dutch,
@@ -125,11 +129,10 @@ footnote:[George Fox has left us the following more circumstantial account of
 the same extraordinary instance of persecution:--
 {footnote-paragraph-split}
 "`There
-were great imprisonments in this +++[+++1666]
-and the former years, while I was prisoner at Lancaster and Scarborough.
+were great imprisonments in this +++[+++1666+++]+++ and the former years, while I
+was prisoner at Lancaster and Scarborough.
 At London, many Friends were crowded into Newgate and other prisons,
-where the sickness +++[+++the pestilence]
-was, and many Friends died in prison.
+where the sickness +++[+++the pestilence+++]+++ was, and many Friends died in prison.
 Many also were banished, and several sent on ship-board by the king`'s order.
 Some masters of ships would not carry them, but set them on shore again:
 yet some were sent to Barbados, Jamaica, and Nevis; and the Lord blessed them there.
@@ -155,16 +158,18 @@ And the vessel was but a little while gone out of sight of Plymouth,
 when she was taken by a Dutch man-of-war, and carried into Holland.
 When they came into Holland,
 the States there sent the banished Friends back to England
-with a letter of passport and a certificate +++[+++to show]
-that they had not made an escape, but were sent back by them.
+with a letter of passport and a certificate +++[+++to show+++]+++ that they had not
+made an escape, but were sent back by them.
 But, in time, the Lord`'s power wrought over this storm,
 and many of our persecutors were confounded and put to shame.`"]
 
 The two epistles immediately following, are those referred to in a preceding paragraph.
 
-For my dear, honourable brethren,
-who are or may be sentenced to be transported to the isles beyond the sea,
-for the testimony of the name of the Lord Jesus.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== For my dear, honourable brethren, who are or may be sentenced to be transported to the isles beyond the sea, for the testimony of the name of the Lord Jesus.
 
 My dear Friends, in the suffering of the Lamb, who liveth and reigneth forever and ever,
 and shall overcome all his enemies in the day determined,
@@ -201,14 +206,19 @@ My life in the suffering spirit go with you, in the name of the Lord!
 My dear companions in bonds salute you in the love of the Lord.
 Farewell!
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 Warwick common jail, 10th of the Eighth month, 1664.
 
-For those,
-from whom the Lord hath suffered or shall suffer their dear and
-tender husbands to be separated beyond the seas or elsewhere,
-for the testimony of the Lord Jesus Christ.
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== For those, from whom the Lord hath suffered or shall suffer their dear and tender husbands to be separated beyond the seas or elsewhere, for the testimony of the Lord Jesus Christ.
 
 Dear handmaids, whom the Lord hath counted worthy to part with your dear,
 and tender husbands, for his name--assuredly,
@@ -234,9 +244,13 @@ for whom the soul of your brother breathes daily to the Lord,
 to strengthen you and your dear husbands and all that love the Lord Jesus Christ;
 in whom, fare you well!
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 Warwick common jail, 10th of Eighth month, 1664.
+
+--
 
 The following epistle belongs to this period;
 and it is subjoined for the information and satisfaction of those,
@@ -244,10 +258,13 @@ who have faith to receive it as an evidence, in addition to those which have pre
 that the flock of Christ is not left alone and comfortless in the day of trouble,
 affliction, and distress.
 
-To all faithful and suffering members in all holes, prisons, and jails,
-for the word of God and testimony of Jesus Christ; with the rest of the faithful,
-wherever scattered.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== To all faithful and suffering members in all holes, prisons, and jails, for the word of God and testimony of Jesus Christ; with the rest of the faithful, wherever scattered.
+
+[.salutation]
 Dear brethren and sisters!
 
 Hear the word of the Lord:--thus saith the Lord,
@@ -342,4 +359,7 @@ and suffering people of God,
 in whom I remain your brother and companion in tribulation and +++[+++the]
 kingdom of patience in the Lord Jesus Christ.
 
+[.signed-section-signature]
 William Dewsbury
+
+--

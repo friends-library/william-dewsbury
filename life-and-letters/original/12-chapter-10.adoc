@@ -1,15 +1,33 @@
 == Chapter X
 
-1655+++.+++ Address to the nation--William Dewsbury often a prisoner--Discharged from Northampton
-jail--Warning to his persecutors and those in authority--Travels to London--Kent--Land`'s
-End--George Fox`'s labours in Cornwall--Humphrey Lower--William Dewsbury holds a meeting
-at his house--Foresees a storm--Soldiers arrest him at Torrington--Brought before the
-mayor--His treatment--Delivered out of their hands--Writes to the mayor--Proceeds into
-Somersetshire--Bristol--Wales--Epistle to Friends about Plymouth.
+[.chapter-synopsis]
+* 1655+++.+++ Address to the nation
+* William Dewsbury often a prisoner
+* Discharged from Northampton jail
+* Warning to his persecutors and those in authority
+* Travels to London
+* Kent
+* Land`'s End
+* George Fox`'s labours in Cornwall
+* Humphrey Lower
+* William Dewsbury holds a meeting at his house
+* Foresees a storm
+* Soldiers arrest him at Torrington
+* Brought before the mayor
+* His treatment
+* Delivered out of their hands
+* Writes to the mayor
+* Proceeds into Somersetshire
+* Bristol
+* Wales
+* Epistle to Friends about Plymouth.
 
 In William Dewsbury`'s collected works, under the dale of 1655,
 we have an address to the people of England, containing the following paragraphs,
 which were thought to be worthy of the reader`'s attention.
+
+[.embedded-content-document.address]
+--
 
 O England, who liest in the fallen and lost estate,
 separated from the true and living God, by thine iniquities,
@@ -100,6 +118,8 @@ who walk not after the flesh but after the spirit.`"
 And the body is dead in regard of sin, but the spirit is alive unto righteousness.
 And this you must witness, or else all your religion is vain, and your souls will perish.
 
+--
+
 So very large a portion of William Dewsbury`'s time was spent within the walls of prisons,
 that the materials from which a narrative of his life is to be composed,
 are necessarily very scanty,
@@ -116,6 +136,9 @@ he sent the following animated and solemn warning to such as were in authority,
 and involved in the guilt of those persecutions under which Friends were then suffering.
 It possesses the peculiar characteristics of the writer`'s mind,
 as strongly as anything which is the product of his pen.
+
+[.embedded-content-document.address]
+--
 
 To all you rulers and judges of the earth,
 who combine against the Lord and against his anointed, and lay your plots in the deep,
@@ -164,6 +187,8 @@ will know, that what is declared to you from the righteous Seed,
 is to you the word of the Lord God.
 "`He that hath an ear to hear let him hear.`"
 
+--
+
 It was in the twelfth month, 1655, that he obtained his liberty;
 and it is reasonable to conclude that no long time would elapse,
 before he proceeded to Wakefield to join his wife and children,
@@ -186,8 +211,8 @@ On this occasion, William Dewsbury`'s detention was only temporary; he was soon 
 [.asterism]
 '''
 
-From the Editor.--Here a chasm of nearly a year intervenes in the biographical narrative,
-which the editor will not attempt with any exactness to fill up.
+__From the Editor.__--Here a chasm of nearly a year intervenes in the biographical narrative,
+which the Editor will not attempt with any exactness to fill up.
 But, by a memorandum in the author`'s handwriting, it seems,
 that had he been spared to perfect his design,
 he would in this place have introduced some notice of the part
@@ -203,7 +228,7 @@ and even to misrepresent, the plain facts of the case,
 although explanations have been abundantly given forth,
 clearing the Society and their principles from the
 slightest implication in the whole matter.
-On this head, Joseph G. Bevan`'s Life of James Nayler,
+On this head, Joseph G. Bevan`'s [.book-title]#Life of James Nayler,#
 with a refutation of some of the more modern misrepresentations of Friends,
 may be consulted with advantage.
 
@@ -221,11 +246,14 @@ That this should have been the case,
 is not to be wondered at on several accounts;--and we may also remember,
 that the primitive believers could scarcely be prevailed upon to receive Saul,
 the persecutor, among them.
-From a letter now before the editor, although without date,
+From a letter now before the Editor, although without date,
 he is induced to consider William Dewsbury as a principal
 instrument in bringing this about.
 Speaking of a journey to London,
 and of the dealings of the Lord with him in the course of it, he says:--
+
+[.embedded-content-document.letter]
+--
 
 +++[+++The Lord]
 hath restored many captives, and brought in many that were turned aside,
@@ -247,11 +275,13 @@ reached to embrace it with gladness of heart.
 Then I was set free to pass from London, through Surrey, and so to Bristol,
 to be there the first-day after, being the 5th day of the twelfth month.
 
+--
+
 Before giving the reader further extracts from this letter, relative to Bristol,
 it will be proper to add something as to William Dewsbury`'s
 conduct and dealing with James Nayler himself.
 A very judicious communication from the former of these Friends to the latter,
-with the reply of the latter, is now in the possession of the editor;
+with the reply of the latter, is now in the possession of the Editor;
 by which it appears,
 that William Dewsbury had watched over and yearned towards his offending brother,
 and had seen with clearness the steps by which he had fallen,
@@ -271,6 +301,9 @@ the saddening the hearts of the Lord`'s upright children,
 and causing his holy name to be blasphemed.
 He speaks of having been moved to come to London in the Lord`'s service;
 and that when there, he had sent for those who had so run out:--
+
+[.embedded-content-document.letter]
+--
 
 In tender love to their souls, I ministered to them,
 to clear their understandings where they were to return, that God might heal them;
@@ -293,7 +326,7 @@ whose spirit will not always strive with man.
 And if thou suffer them in their deceit, as thou hast, and do not reprove them,
 their blood will lie heavy upon thee, and thou wilt not be clear.
 
-Dear James 1 beseech thee, in tender love in the Lord Jesus, wait singly in his counsel,
+Dear James I beseech thee, in tender love in the Lord Jesus, wait singly in his counsel,
 to give thee an understanding to discern the working of this deceitful spirit.
 Notwithstanding all feignedness, that ground is to set up a master in the earth,
 and so make strife amongst brethren.
@@ -312,13 +345,22 @@ Many wait to hear of thy being raised up in the light and life,
 to judge down and reign over this spirit,
 that hath and doth seek to make disorder and strife amongst brethren.
 
+--
+
+[.offset]
 This affecting address closes with these pious ejaculations in prayer:--
+
+[.embedded-content-document.letter]
+--
 
 God Almighty! restore to a pure understanding all those that have been veiled;
 in thy life, keep them in unity with all thy elect,
 to serve thee with faithfulness unto the end.
 Amen!
 
+--
+
+[.offset]
 James Nayler`'s reply manifests throughout,
 as clear and becoming a frame of mind as could be desired.
 
@@ -332,6 +374,9 @@ This, it is presumed,
 was at furthest only two years previous to William Dewsbury`'s coming there;
 and his letter in a lively manner conveys a picture of those times,
 and of the preservation and strength vouchsafed to the Lord`'s faithful little ones.
+
+[.embedded-content-document.letter]
+--
 
 The sixth and seventh days before we came there, the apprentices, with the rude people,
 were running with naked swords in their hands up and down the streets,
@@ -432,22 +477,33 @@ God Almighty be with thee, thy family, with all the faithful;
 and the Lord with his heavenly presence comfort the hearts of all that love him,
 and wait in uprightness of heart to do his will.
 
+[.signed-section-signature]
 William Dewsbury
+
+[.postscript]
+====
 
 P+++.+++ S.--Remember me to Robert Widders and John Audland; as freedom is,
 thou may let them know how it is with the Lord`'s people at Bristol and hereaway.
+
+====
+
+--
 
 On the 9th of second month, 1657, William Dewsbury dates an epistle from London;
 +++[+++but before this, a letter to Margaret Fell conveys, that he had been through Norfolk,
 Suffolk, and Essex on his way.
 Few particulars are entered into; but he states,
 that he found Friends in their measures preciously grown in the life,
-and that there was a great people in those parts.--Editor.]
+and that there was a great people in those parts.--__Editor.__]
 Arrived in London, he appears to have tarried something short of six weeks,
 and then moved forward into Kent; from which district,
 in an epistle dated the 22nd of third month,
 he gives the following hints on spiritual obedience,
 and the exercise of gifts in order to the ministry.
+
+[.embedded-content-document.epistle]
+--
 
 I lay it upon you, wait for the Lord to seal unto you his mind,
 that in his movings you may answer his will in word and works.
@@ -469,6 +525,8 @@ wait for an understanding in the life to lead you.
 Neither add to, nor diminish;
 so will death with all its formality be kept out from amongst you.
 
+--
+
 +++[+++Of his visit to Kent,
 the only additional vestige is gleaned from the communication to Margaret Fell,
 mentioned above, the date of which is near Sandwich, the 3rd of fourth month.
@@ -484,7 +542,10 @@ The master of the vessel, Robert Fowler,
 afterwards gave some account of the hand of Providence being with him in his voyage,
 which was called A Quaker`'s Sea Journal, and was printed.
 In it, he makes mention of the refreshment they had from the company of William Dewsbury,
-and that he recommended them to the grace of God.--Editor.]
+and that he recommended them to the grace of God.--__Editor.__]
+
+[.small-break]
+'''
 
 From Kent he travelled westward to the Land`'s End,
 preaching the word of eternal life through the southern counties.
@@ -616,6 +677,9 @@ to the glory of his name.`"
 He then passed through Gloucestershire, and so to Bristol,
 which he reached on the 18th of the month.
 
+[.small-break]
+'''
+
 +++[+++It is not likely that the termination of his services on this journey was at Bristol;
 for, by a letter from his wife to a Friend, it would seem,
 that on the 28th of eighth month, he was intending to enter Wales.
@@ -624,6 +688,9 @@ may be referred to this period;
 by an extract from it we may see how great his exercises
 and labours in this district must have been,
 and that they were "`not in vain in the Lord,`" his Guide, Counsellor, and Helper.
+
+[.embedded-content-document.letter]
+--
 
 Our God in mercy is answering the prayers of his people,
 in bringing back again them that have been driven away in the hour of temptation,
@@ -636,10 +703,15 @@ many of them owned their condemnation openly, for what they had done against the
 to their shame and his glory, who prospers his work in his own hand,
 and with his outstretched arm glorifies his name, to our comfort,
 whom he hath chosen to do his will, to his glory, who is worthy:
-blessed be his name forever!--Editor.]
+blessed be his name forever!--__Editor.__]
+
+--
 
 The account of this journey shall be closed by the following epistle, dated Cornwall,
 1657, which is now for the first time printed.
+
+[.embedded-content-document.epistle]
+--
 
 Brethren and sisters in the immortal Seed,
 whom the Lord hath placed in and about Plymouth.
@@ -654,6 +726,14 @@ to the finishing of your course with joy, to the praise of his name.
 Even so be it with you, in the power of the Lord God!
 Amen.
 
+[.signed-section-signature]
 William Dewsbury
 
+[.postscript]
+====
+
 P+++.+++ S.--When the church of the living God is met together, this to be read in his fear.
+
+====
+
+--

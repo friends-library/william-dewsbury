@@ -1,12 +1,18 @@
 == Chapter XI
 
-1658+++.+++ William Dewsbury in Scotland--Epistle--Trials from false brethren--John
-Perrott`'s case--William Dewsbury`'s labours with these--Restoration
-of many--Self-renunciation required of Friends--William Dewsbury,
-at a meeting in Warwickshire--Disturbance and violent
-treatment of Friends--He is imprisoned in York Castle,
-with five hundred more,
-where five die--He is released--Writes Epistles of encouragement to Friends.
+[.chapter-synopsis]
+* 1658+++.+++ William Dewsbury in Scotland
+* Epistle
+* Trials from false brethren
+* John Perrott`'s case
+* William Dewsbury`'s labours with these
+* Restoration of many
+* Self-renunciation required of Friends
+* William Dewsbury, at a meeting in Warwickshire
+* Disturbance and violent treatment of Friends
+* He is imprisoned in York Castle, with five hundred more, where five die
+* He is released
+* Writes Epistles of encouragement to Friends.
 
 By the date of William Dewsbury`'s next epistle, we trace him to Scotland,
 From the few scattered notices which are preserved of his labours in that nation,
@@ -15,8 +21,11 @@ in whose hearts the work of preparation had been going on for several years.
 When Friends in the capacity of ministers had their
 steps first directed among the people of that nation,
 the word preached was truly glad tidings to their souls.
-We are informed of the following by John Barclay, in his Memoirs of Friends in Scotland:--
+We are informed of the following by John Barclay,
+in his [.book-title]#Memoirs of Friends in Scotland:--#
 
+[quote]
+____
 In the south of Scotland, as in the north, there were individuals,
 whose minds had been for some years weary and heavy laden,
 under a sense of their manifold shortcomings, yet who believed there was to be known,
@@ -57,6 +66,7 @@ that they were made willing, even in all things, to take up the daily cross,
 though in various respects as bitter as death,
 and to follow the guidance of Christ by his spirit within them,
 whithersoever he should be pleased to lead.
+____
 
 Thus much is known of William Dewsbury`'s labours as regards Aberdeen.
 But the epistle above referred to is dated Leith, at an earlier period, namely,
@@ -67,6 +77,10 @@ On this account, and because of its intrinsic worth,
 I have concluded to lay it before the reader.
 It is as follows.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 In the name of the Lord Jesus Christ walk,
@@ -110,15 +124,29 @@ and from the savoury spirit of life, in Christ.
 In him, the blessing of the Lord rest on you all forevermore;
 there to farewell with me in the everlasting love of the Father in Christ, Amen.
 
+[.signed-section-signature]
 William Dewsbury.
+
+[.postscript]
+====
 
 P+++.+++ S.--Let copies of this be carefully written and sent to the churches,
 to be read amongst them, when they are met together in the fear of God.
+
+====
+
+--
 
 +++[+++Since this volume has been in the Editor`'s hands for publication,
 he has met with a letter written by William Dewsbury, from the same place, Leith,
 only the day before the above communication was penned: it is addressed to Margaret Fell,
 and is as follows.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To Margaret Fell
 
 In the everlasting power and life in Christ, the light and righteousness,
 over all God blessed forever!--in his power, which keeps the faithful, dear sister,
@@ -161,9 +189,13 @@ The everlasting God keep all in his power and wisdom, every one in their places,
 to his praise and glory.
 Amen!
 
+[.signed-section-closing]
 Farewell! thy dear brother,
 
+[.signed-section-signature]
 William Dewsbury
+
+--
 
 From the date of another of his epistles,
 we learn that William Dewsbury was in London in the eleventh month, 1659.
@@ -232,6 +264,9 @@ In an epistle addressed by William Dewsbury, "`to all the faithful in Christ,`" 
 bearing the date of 1663, he thus describes the progress of this error,
 as it took possession of the minds of those who were the leaders in its propagation.
 
+[.embedded-content-document.epistle]
+--
+
 In that which tries and weighs your own spirits, in coolness and singleness of heart,
 try and taste what spirit they are of who come among you at this day;
 wherein many come forth with us as to the owning of truth in their judgments,
@@ -253,10 +288,15 @@ took their flight as on the sabbath day, upon the mountains of high imagination,
 and did sacrifice on the high places.--And having gone from the light,
 they neither regarded the glory of God nor the good of his people.
 
+--
+
 Such as these became a source of much trouble and concern to their brethren;
 and after having succeeded in unsettling the minds of many, fell off from the body,
 drawing away their adherents after them.
 Further on, in the same epistle, the author writes as follows:--
+
+[.embedded-content-document.epistle]
+--
 
 Oh! how did my bowels yearn for the preservation of John Perrott, in doing what I could,
 to draw and separate him from that spirit which gave forth the
@@ -268,7 +308,7 @@ so I cleared my conscience in the word of the Lord.
 And now, in my freedom in God, I declare to the children of Zion,
 what the judgment is that did arise in my heart, to this purpose:--
 
-"`John, if thou propagate what thou hast written in this paper,
+John, if thou propagate what thou hast written in this paper,
 thou wilt wound more hearts,
 and cause more trouble of spirit among the tender-hearted people of the Lord,
 than when the temptation entered James Nayler: who deeply suffered,
@@ -287,7 +327,9 @@ in true self-denial to be lead in the footsteps,
 where the flocks of Christ`'s companions delight to walk, serving one another in love,
 and every one with the spirit of love and meekness,
 seeking to restore another out of what any have done,
-through the violence of temptation or weakness.`"
+through the violence of temptation or weakness.
+
+--
 
 Such was the amiable, and discriminating line of conduct which William Dewsbury pursued,
 in the wisdom that was given him to rule in the church of God,
@@ -300,6 +342,9 @@ which made them a match for every occasion wherein they were called to exercise 
 In this faith, which is the saints`' victory, the same writer, in his address,
 proceeds to hand them the word of encouragement.
 
+[.embedded-content-document.address]
+--
+
 Dear brethren, though great be the wrath that withstands the work of our God,
 which wrath worketh openly and mysteriously, to lay burdens upon the innocent,
 and to add afflictions to the afflicted;--in the
@@ -309,6 +354,8 @@ and their expectations shall come to naught,
 who wait for evil concerning you who love the Lord better than your lives,
 and delight in waiting to feel his power at all times,
 leading and ordering you in the bonds and within the limits of his spirit.
+
+--
 
 This subject must not be concluded,
 without presenting the reader with some further information,
@@ -339,7 +386,7 @@ had before renounced the error, and forsaken the practice; yet did we sensibly f
 that forsaking without confessing, in case of public scandal, was not sufficient;
 but that an open acknowledgment of open offences, as well as forsaking them,
 was necessary to obtaining complete remission.`"^
-footnote:[The Life of Thomas Ellwood]
+footnote:[__The Life of Thomas Ellwood__]
 
 Besides an abatement of numbers in the Society, from the cause now described,
 it will not be difficult to believe,
@@ -380,7 +427,7 @@ he was an indefatigable labourer in the cause which
 he had espoused with so much sincerity and zeal.
 
 On one occasion, about this time,
-we find from Besse`'s Collection of the Sufferings of Friends,
+we find from [.book-title]#Besse`'s Collection of the Sufferings of Friends,#
 that he was at a meeting in Warwickshire, at the house of one William Reynolds,
 which was disturbed by a constable accompanied and assisted by a rude multitude,
 armed with swords and staves, who pulled the Friends out of the house,
@@ -414,7 +461,7 @@ that the whole number of Friends imprisoned at one time in York castle,
 and other prisons in the county, in the two months of which he had been writing,
 was five hundred and thirty-six, of whom five hundred and five were in the castle itself;
 where five died through the unhealthiness of the place.^
-footnote:[It is not the editor`'s purpose here to
+footnote:[It is not the Editor`'s purpose here to
 enlarge on the subject of these lamentable facts,
 or he might readily produce a mass of evidence,
 in illustration of the cruelty and wrong inflicted
@@ -478,7 +525,8 @@ the king and council in procuring the desired relief.
 William Dewsbury`'s address to the king, will be introduced in a subsequent page;
 it is recommended to the notice of the reader,
 as a specimen of that true independence of mind,
-which Christianity in its genuine nature produces in the character of man.--+++[+++See Appendix.]
+which Christianity in its genuine nature produces
+in the character of man.--+++[+++__See Appendix.__]
 
 It has already been intimated, that while under confinement at York,
 William Dewsbury wrote several epistles of encouragement to be dispersed among Friends,
@@ -487,7 +535,13 @@ to the testimonies which had been given them to bear,
 notwithstanding the trials and sufferings to which they were subjected.
 Among these, the following will serve as a specimen of his mind at this juncture.
 
-Dear brethren and sisters in the church of the first-born,--Grace, mercy,
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+Dear brethren and sisters in the church of the first-born,
+
+Grace, mercy,
 and peace be multiplied in and amongst you,
 to whom God revealed what he determined and is now manifesting,
 that every one in the life of God might stand single,
@@ -547,11 +601,16 @@ the righteous seed,
 when the faces of thine enemies shall be covered with shame,--the
 mouth of the Lord of hosts hath spoken it.
 
+[.signed-section-closing]
 Let this be sent abroad among Friends with understanding in the fear of God.
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 York Tower, 19th of the Twelfth month, 1660.
+
+--
 
 Thus was this dedicated servant of Christ, himself a prisoner for his testimony,
 enabled "`in the spirit of power and of love and

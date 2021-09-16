@@ -3,7 +3,7 @@
 [.chapter-synopsis]
 * 1660+++.+++ Epistles
 * William Dewsbury little known in his domestic character
-* He is apprehended at an inn in Warwick, for giving thanks after supper, and imprisoned, but shortly after liberated
+* He is apprehended at an inn in Warwick for giving thanks after supper, and imprisoned, but shortly after liberated
 * Arrives in London, and is imprisoned in Newgate.
 
 It is thought, that as the four following epistles illustrate in a beautiful manner,
@@ -45,7 +45,14 @@ whosoever you are, from the least to the highest growth.
 Dear Friends, wait to be kept in the bond of the spirit,
 obedient to its motions:--to cease and stay when it moves not,
 as well as to begin any exercise when it moves.
-Dear and tender babes, as well as you strong men, retain the pure in every particular,
+Dear and tender babes, as well as you strong men, retain the pure^
+footnote:["`The wisdom which is from above is first pure.`"
+The meaning of the writer doubtless is,
+"`preserve a pure conscience by obedience to that
+in the soul which leads into purity of life,
+which is not of man, but from above;
+for disobedience causes straitness:`" this is what the writer cautions the church against.]
+in every particular,
 and let not anything straiten you when God moves.
 And, you faithful babe, though you stammer forth a few words in the dread of the Lord,
 they are accepted.
@@ -238,7 +245,9 @@ they that wept as though they wept not, they that rejoiced as though they rejoic
 they that bought, as though they possessed not:--they used this world,
 as not abusing it.`"
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++A document has come to hand, since the above lines were penned,
 which affords in a few words a striking illustration of
 the above remarks as regards William Dewsbury.
@@ -247,10 +256,19 @@ he makes a request to his correspondent, Margaret Fell,
 "`a mother in Israel,`" to write to "`my tender children and family.`"
 He adds, "`In the life of my God, I have given them up,
 with my own life when he will call for it, a free sacrifice:
-in his will it is offered up, for him to do what is good in his eyes.`"--Editor]
+in his will it is offered up, for him to do what is good in his eyes.`"--__Editor.__]
 
+[.small-break]
+'''
+
+[.offset]
 The following beautiful sentence, which closes one of his epistles about this period,
-may also be added:--"`Watch over one another with a single eye,
+may also be added:--
+
+[.embedded-content-document.epistle]
+--
+
+Watch over one another with a single eye,
 building up one another in the holy faith,
 opening your hearts in the free Spirit of God to them that are in need,
 that you may bear the image of your heavenly Father, who relieves the hungry,
@@ -258,7 +276,11 @@ and eases the burden, and makes glad by refreshing his, in the time of need;
 giving liberally and upbraiding not.
 Even so be it with you, in the name of the Lord,
 says your brother and companion in the Lord Jesus Christ.
-Farewell!`"
+
+[.signed-section-closing]
+Farewell!
+
+--
 
 In such instances of devotedness as that of
 William Dewsbury and many of the early Friends,

@@ -1,7 +1,13 @@
 == Chapter IX
 
-Epistles--Labourers increase--State of the prisons--Sufferings of Friends--The cause--Faithfulness
-to their calling--Evidences that it was not of man--Sewel`'s testimony.
+[.chapter-synopsis]
+* Epistles
+* Labourers increase
+* State of the prisons
+* Sufferings of Friends
+* The cause: Faithfulness to their calling
+* Evidences that it was not of man
+* Sewel`'s testimony.
 
 The following short epistles are introduced to the reader,
 in expectation that they will prove both interesting and profitable.
@@ -23,8 +29,13 @@ to feelings under apprehension of duty,
 when silence would have been more consistent with a sound judgment,
 and more profitable to the body.
 
-All saints and children of the most high God,
-abide in the calling whereunto you are called:
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+All saints and children of the most high God:
+
+Abide in the calling whereunto you are called:
 which call is the measure of light given unto you,
 which witnesseth against all the deceitful twisting of the serpent within you,
 and seals up to your spirits the love of God,
@@ -72,8 +83,15 @@ that ye may receive the crown of eternal glory,
 which is laid up for you in the Lord Jesus Christ, and there you will fare well,
 and I shall remain with you forever in the Lord.
 
+[.signed-section-signature]
 William Dewsbury
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 Meet often together in the name and fear of the living God.
@@ -100,8 +118,15 @@ The God of power keep you all, his dear children, in his pure wisdom,
 to walk faithfully with him and one with another.
 And the blessing of the Lord be with you all forever, Amen!
 
+[.signed-section-signature]
 William Dewsbury
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dear Friends,
 
 This is the word of the Lord to you all,
@@ -138,7 +163,10 @@ to order you in his pure wisdom, to the praise and glory of his great name.
 Written from the Spirit of the Lord, to be sent abroad amongst Friends,
 to be read at their meetings.
 
+[.signed-section-signature]
 William Dewsbury
+
+--
 
 It was no slight proof of the reality of that power,
 which attended these witnesses for a true, entire, and glorious reform,
@@ -167,7 +195,7 @@ But their design coming to the knowledge of the parliament, it was arrested.
 
 The state of the prisons too,
 in which so many Friends passed a large portion of their time,
-as Clarkson informs us in his Portraiture of Quakerism, was not easily to be conceived;
+as Clarkson informs us in his [.book-title]#Portraiture of Quakerism,# was not easily to be conceived;
 some for filth and pestilential noisomeness,
 and others for exposure to the inclemency of the elements.
 Indeed, the condition of these prisons previous to the latter years of the last century,
@@ -217,6 +245,8 @@ and he will hardly believe that such dreadful cruelties
 and oppressions could even then have been practised in England,
 the boasted land of liberty and Christianity.
 
+[quote]
+____
 This place was so noisome, that according to common observation,
 few ever came out of it in health.
 It was over the shoes in mire of the most filthy description,
@@ -230,6 +260,7 @@ poured filth through the floor on the heads of those beneath.
 This dungeon was called Doomsdale, The head-jailer had been a thief,
 and was burnt both in the hand and shoulder, and his wife in the hand;
 and the same distinctions had also been conferred on the under-jailer and his wife.
+____
 
 Numerous other instances might be adduced of the woeful
 state of the prisons at the period we are now considering,
@@ -321,6 +352,8 @@ to show the encouragement he derived from such experience
 as tell within the sphere of his own labours.
 He says:--
 
+[quote]
+____
 Many great and wonderful things were wrought by the heavenly power in those days.
 For the Lord made bare his omnipotent arm,
 and manifested his power to the astonishment of many; by the healing virtue whereof,
@@ -332,6 +365,7 @@ But, blessed forever be the name of the Lord, and everlastingly honoured,
 and over all exalted and magnified be the arm of his glorious power,
 by which he hath wrought gloriously;
 and let the honour and praise of all his works be ascribed to him alone.
+____
 
 The preceding quotation is no enigma;
 it bears a faithful testimony to the facts of that day, although neither he,
@@ -415,6 +449,8 @@ it requires considerable caution how we suffer our preconceived notions,
 or our unsubjected wills and reasonings,
 to rise up in judgment against such a dispensation.
 
+[quote]
+____
 Thus +++[+++as Sewel informs us,]
 it may be seen, by what means the Quakers so called,
 grew so numerous in those early times.
@@ -447,7 +483,7 @@ but they levelled their aim chiefly against those who were rich in words only,
 without bringing forth Christian fruits and works of righteousness.
 Hence it was that Thomas Curtis, who was formerly a captain in the parliament army,
 but afterwards entered into the Society of the people called Quakers, wrote +++[+++as follows,]
-in a letter to Samuel Wells, priest of Banbury, and a persecutor:--
+in a letter to Samuel Wells, priest of Banbury, and a persecutor:
 
 "`To thy shame, remember, I know thee to be scandalous.
 How often hast thou sat evening after evening at cards, sometimes whole nights,
@@ -467,3 +503,4 @@ for this opened the eyes of many,
 who began to inquire into the doctrine of the despised Quakers,
 and saw that they had a more sure foundation,
 and that it was this that made them stand unshaken against the fury of persecution.
+____

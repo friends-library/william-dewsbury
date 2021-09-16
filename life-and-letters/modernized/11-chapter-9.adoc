@@ -195,8 +195,8 @@ and such was the malice of his persecutors, that they contemplated his destructi
 But their design coming to the knowledge of the parliament, it was arrested.
 The state of the prisons too,
 in which so many Friends passed a large portion of their time,
-as Clarkson informs us in his "`Portraiture of
-Quakerism,`" was not easily to be conceived;
+as Clarkson informs us in his [.book-title]#Portraiture of
+Quakerism,# was not easily to be conceived;
 some for filth and pestilential noisomeness,
 and others for exposure to the inclemency of the elements.
 Indeed, the condition of these prisons previous to the latter years of the last century,
@@ -246,7 +246,10 @@ Let any person read the account he gives of the dungeon wherein he lay at Launce
 and he will hardly believe that such dreadful cruelties and
 oppressions could even then have been practiced in England,
 the boasted land of liberty and Christianity.
-"`This place was so noisome, that according to common observation,
+
+[quote]
+____
+This place was so noisome, that according to common observation,
 few ever came out of it in health.
 It was over the shoes in mire of the most filthy description,
 and had not been cleaned for years.
@@ -258,7 +261,8 @@ but the prisoners lodging over head, encouraged by the jailer,
 poured filth through the floor on the heads of those beneath.
 This dungeon was called Doomsdale, The head jailer had been a thief,
 and was burnt both in the hand and shoulder, and his wife in the hand;
-and the same distinctions had also been conferred on the under-jailer and his wife.`"
+and the same distinctions had also been conferred on the under-jailer and his wife.
+____
 
 Numerous other instances might be adduced of the woful state
 of the prisons at the period we are now considering,
@@ -351,7 +355,10 @@ I introduce the following statement of facts from the pen of George Fox,
 to show the encouragement he derived from such
 experience as tell within the sphere of his own labors.
 He says,
-"`Many great and wonderful things were wrought by the heavenly power in those days.
+
+[quote]
+____
+Many great and wonderful things were wrought by the heavenly power in those days.
 For the Lord made bare his omnipotent arm,
 and manifested his power to the astonishment of many; by the healing virtue whereof,
 many have been delivered from great infirmities,
@@ -361,7 +368,9 @@ beyond what this unbelieving age is able to receive or hear.
 But, blessed forever be the name of the Lord, and everlastingly honored,
 and over all exalted and magnified be the arm of his glorious power,
 by which he has wrought gloriously;
-and let the honor and praise of all his works be ascribed to him alone.`"
+and let the honor and praise of all his works be ascribed to him alone.
+____
+
 The preceding quotation is no enigma;
 it bears a faithful testimony to the facts of that day, although neither he,
 his companions, nor their successors in belief,
@@ -444,7 +453,9 @@ it requires considerable caution how we permit our preconceived notions,
 or our unsubjected wills and reasonings,
 to rise up in judgment against such a dispensation.
 
-"`Thus,`" as Sewel informs us, "`it may be seen, by what means the Quakers so called,
+[quote]
+____
+Thus [as Sewel informs us,] it may be seen, by what means the Quakers so called,
 grew so numerous in those early times.
 As on one hand there were raised zealous preachers,
 so on the other there were abundance of people in England, who having searched all sects,
@@ -460,7 +471,7 @@ there were also many, who being pricked to the heart,
 and by the Christian patience of the despised Quakers brought over,
 became as zealous in doing good as formerly they had been in working evil.
 
-"`Perhaps some will think it was very indecent, that they, the Friends,
+Perhaps some will think it was very indecent, that they, the Friends,
 went so frequently to the steeple-houses, and there spoke to the priests:
 but whatsoever any may judge concerning this,
 it is certain that those teachers generally did not bring forth the fruits of godliness.
@@ -474,16 +485,19 @@ but they leveled their aim chiefly against those who were rich in words only,
 without bringing forth Christian fruits and works of righteousness.
 Hence it was that Thomas Curtis, who was formerly a captain in the parliament army,
 but afterwards entered into the Society of the people called Quakers, wrote +++[+++as follows,]
-in a letter to Samuel Wells, priest of Banbury, and a persecutor:--'`To your shame,
+in a letter to Samuel Wells, priest of Banbury, and a persecutor:
+
+"`To your shame,
 remember, I know you to be scandalous.
 How often have you sat evening after evening at cards, sometimes whole nights,
 playing and compelling me to play with you for money;
 yet then you were called of the world a minister; and now are you turned persecutor,
-etc.`'
+etc.`"
+
 None, therefore,
 need think it strange that those called Quakers looked upon such teachers as hirelings.
 And that there were not a few of that sort,
-appeared plainly when King Charles II. was restored.
+appeared plainly when King Charles II was restored.
 For, in many instances, those who had formerly cried out against Episcopacy,
 and its liturgy, as false and idolatrous, then became turncoats, and put on the surplice,
 to keep in possession of their livings and benefices.
@@ -491,4 +505,5 @@ But by so doing, these hypocrites lost not a few of their auditors;
 for this opened the eyes of many,
 who began to inquire into the doctrine of the despised Quakers,
 and saw that they had a more sure foundation,
-and that it was this that made them stand unshaken against the fury of persecution.`"
+and that it was this that made them stand unshaken against the fury of persecution.
+____

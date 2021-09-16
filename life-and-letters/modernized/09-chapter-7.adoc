@@ -266,6 +266,7 @@ whatever he allows you to do with us.
 [.offset]
 Thus far as relates to the present examination of William Dewsbury.
 
+[.offset]
 On the 12th of the same month, the Judges Wyndham and Hale being together upon the bench,
 they called for the prisoners
 Dewsbury, Storr, and Williamson.
@@ -509,8 +510,8 @@ for he looked on the Colonel`'s case to be like that of Pilate,
 who would wash his hands of the guilt of the measure,
 to which he was stirred up by the priests.
 George Fox further told him to remember what he had then said,
-when the day of his misery and trial should come
-upon him--a day little anticipated by Needham,
+"`when the day of his misery and trial should come
+upon him`"--a day little anticipated by Needham,
 when he made to his father the above-mentioned
 observation respecting George Fox`'s career.
 This is by no means a solitary instance of George Fox`'s foresight,
@@ -520,10 +521,10 @@ conducted himself so far courteously to his prisoner,
 as to allow him to visit William Dewsbury in the jail of Northampton,
 when he passed through that town.
 
-[.small-break]
+[.asterism]
 '''
 
-+++[+++The insertion, at the close of this chapter,
+__From the Editor.__--The insertion, at the close of this chapter,
 of parts of two original letters from William Dewsbury,
 besides conveying further information as to him and his colleagues,
 may tend to illustrate the foregoing sentiments of our author,
@@ -572,7 +573,7 @@ that the minister "`dared not come to preach any more,
 unless some course were taken with these Quakers;`" so
 an order was given to lock them down in the dungeon,
 which was done always after, during the hour of preaching.
-Dewsbury adds:
+Dewsbury adds:--
 
 [.embedded-content-document.letter]
 --
@@ -666,6 +667,6 @@ that have lived in great pleasures and honors in the world,
 who are now laying them down willingly at the feet of Jesus:
 I am moved to lay their case before you, that you may write to them.
 Justice Crook`'s wife is a precious woman, and many other of the handmaids of the Lord,
-who is carrying his work over all, where he sends his children.--Editor]
+who is carrying his work over all, where he sends his children.
 
 --

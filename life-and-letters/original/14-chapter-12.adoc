@@ -1,9 +1,10 @@
 == Chapter XII
 
-1660+++.+++ Epistles--William Dewsbury little known in,
-his domestic character--He is apprehended at an inn in Warwick,
-for giving thanks after supper, and imprisoned,
-but shortly after liberated--Arrives in London, and is imprisoned in Newgate.
+[.chapter-synopsis]
+* 1660+++.+++ Epistles
+* William Dewsbury little known in his domestic character
+* He is apprehended at an inn in Warwick for giving thanks after supper, and imprisoned, but shortly after liberated
+* Arrives in London, and is imprisoned in Newgate.
 
 It is thought, that as the four following epistles illustrate in a beautiful manner,
 the care William Dewsbury exercised over the flock,
@@ -29,8 +30,14 @@ The first in order,
 which bears chiefly on the subject of exercising spiritual gifts in the church,
 is dated the 10th of the twelfth month, 1660.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends and brethren, called and chosen of God,
-to wait upon him in his light:--every one in particular, feel the power and life of God,
+to wait upon him in his light:
+
+Every one in particular, feel the power and life of God,
 exercising you in his service, whatever he calls you unto.
 When the Lord fills the heart of any one of you with his presence,
 and his life moves in thee, quench not the spirit; I am commanded to lay it upon thee,
@@ -57,9 +64,18 @@ that praises may arise in and amongst you all, to the glory of God;
 that in him you may be a well-spring of life one to another, in the love of God,
 in which the Lord God keep you all.
 
+[.signed-section-signature]
 William Dewsbury
 
-Dear faithful Friends in God, who have known the day when nothing hath been dear to you,
+--
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear faithful Friends in God,
+
+Who have known the day when nothing hath been dear to you,
 not life itself, that you might enjoy the light of the countenance of God,
 which he hath now manifested in the everlasting covenant in Christ;
 and which now constraineth to stand over, and above all flattering tongues,
@@ -101,15 +117,23 @@ And be tenderly affectioned one to another in the love of God;
 and in unity in him who is blessed forever!
 Farewell.
 
+[.signed-section-closing]
 Your brother,
 
+[.signed-section-signature]
 William Dewsbury.
 
+[.signed-section-context-close]
 From the Tower in York, 25th of First month, 1661.
+
+--
 
 The third epistle above referred to,
 is thus superscribed:--"`Let this go abroad amongst
 all the afflicted and wounded in spirit:`"
+
+[.embedded-content-document.epistle]
+--
 
 Dear child, which criest, over all the world, and beyond all the pleasure, pomp,
 and vanity therein,
@@ -176,18 +200,24 @@ and establish thy heart in his counsel, steadfastly to wait for his power to lea
 in the cross, out of all unbelief,
 and cause thee to lie down at rest in obedience to his will:
 where thou shalt drink the cup of the salvation of God.
+
+[.signed-section-closing]
 Farewell!
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 York Castle, the 23d of Third month, 1661.
+
+--
 
 It would be gratifying to our natural feelings,
 to be able to contemplate the character of such a man as William Dewsbury,
 under other circumstances beside those in which we have hitherto found him.
 We have been incidentally informed, that his home was at Wakefield,
 that he was a married man, and was blessed with a family of children.^
-footnote:[The editor has since ascertained,
+footnote:[The Editor has since ascertained,
 by a copy of William Dewsbury`'s marriage certificate, in the possession of a Friend,
 that he was married a second time in the year 1667.
 He is described as "`of Dukes, in the county of York,`" and his wife as "`Alice Reeds,
@@ -222,6 +252,9 @@ they that had wives were as though they had none, they that wept as though they 
 they that rejoiced as though they rejoiced not, they that bought,
 as though they possessed not:--they used this world, as not abusing it.
 
+[.small-break]
+'''
+
 +++[+++A document has come to hand, since the above lines were penned,
 which affords in a few words a striking illustration
 of the above remarks as regards William Dewsbury.
@@ -230,10 +263,17 @@ he makes a request to his correspondent, Margaret Fell,
 "`a mother in Israel,`" to write to "`my tender children and family.`"
 He adds, "`In the life of my God, I have given them up,
 with my own life when he will call for it, a free sacrifice:
-in his will it is offered up, for him to do what is good in his eyes.`"--Editor.]
+in his will it is offered up, for him to do what is good in his eyes.`"--__Editor.__]
 
+[.small-break]
+'''
+
+[.offset]
 The following beautiful sentence, which closes one of his epistles about this period,
 may also be added:--
+
+[.embedded-content-document.epistle]
+--
 
 Watch over one another with a single eye, building up one another in the holy faith,
 opening your hearts in the free Spirit of God to them that are in need,
@@ -242,7 +282,11 @@ and easeth the burden, and maketh glad by refreshing his, in the time of need;
 giving liberally and upbraiding not.
 Even so be it with you, in the name of the Lord,
 saith your brother and companion in the Lord Jesus Christ.
+
+[.signed-section-closing]
 Farewell!
+
+--
 
 In such instances of devotedness as that of William Dewsbury and many of the early Friends,
 and others the servants of Christ,

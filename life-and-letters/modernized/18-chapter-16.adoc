@@ -55,7 +55,7 @@ which was written at the time when his detention was drawing towards a close.
 It is dated the 5th of the third mouth, 1671; and is as remarkable for its brevity,
 as for its fulness.
 
-[.embedded-content-document.epistle]
+[.embedded-content-document.address]
 --
 
 [.salutation]
@@ -103,7 +103,9 @@ lost by separating it from the narrative,
 and as it well illustrates some particulars peculiar to the early Friends,
 the reader will not object to my presenting him with the whole.
 
-"`In the year 1665, it pleased the Lord to send two women Friends out of the north,
+[quote]
+____
+In the year 1665, it pleased the Lord to send two women Friends out of the north,
 to Cirencester; who inquiring after such as feared God, were directed to my father,
 as the likeliest person to entertain them.
 They came to his house, and desired a meeting.
@@ -121,6 +123,7 @@ and therefore if they did go in, he would keep them there.
 But, upon my father`'s desire, they were admitted along with him,
 and conducted through several rooms to a dungeon,
 where Richard Farnsworth was preaching through the grating to the people in the street.
+
 Soon after they came in, he desisted; and after a little time of silence,
 turning to them, spoke to this purpose: "`That Zaccheus being a man of low stature,
 and having a mind to see Christ, ran before, and climbed up into a sycamore tree:
@@ -134,7 +137,10 @@ This, with more to the same purpose, was spoken with such authority, that,
 when my father came home, he told my mother, he had seen Richard Farnsworth,
 who had spoken to his condition as if he had known him from his youth.
 From this time, he patiently bore the cross.
-Afterwards, perhaps in the year 1673,
+
+Afterwards, perhaps in the year 1673,^
+footnote:[The year 1673 agrees with William Dewsbury`'s journey westward to Bristol,
+etc. after his discharge from his eight years`' imprisonment at Warwick.]
 when it pleased God to communicate to him a
 portion of the knowledge of his blessed truth,
 a necessity was laid upon him, one first-day morning,
@@ -148,14 +154,14 @@ staying at the door to keep him out.
 But after waiting a little in stillness, he found himself clear and passed away.
 As he passed the market-place, the tie of his shoe slackened;
 and while he stooped down to fasten it, a man came behind him,
-and struck him on the back a hard blow with a stone, '`There,
-take that for Jesus Christ`'s sake.`'
-He answered, '`So I do;`' not looking back to see who it was, but quietly going on his way.
+and struck him on the back a hard blow with a stone, "`There,
+take that for Jesus Christ`'s sake.`"
+He answered, "`So I do;`" not looking back to see who it was, but quietly going on his way.
 A few days after, a man came and asked his forgiveness; telling him,
 he was the unhappy man who gave him the blow on the back,
 and he could have no rest since he had done it.
 
-"`Not long after, three Friends came that way, who found the like concern, namely,
+Not long after, three Friends came that way, who found the like concern, namely,
 Robert Sylvester, Philip Grey, and Thomas Onyon.
 These, standing in the steeple house with their hats on, though they said nothing,
 the priest was silent: and being asked if he was not well, he answered,
@@ -168,71 +174,72 @@ and the priest had accused them, the bench, in a rage, without asking them any q
 ordered their court orders to be made out.
 This unjust and illegal proceeding kindled my father`'s zeal; insomuch that he,
 stepping forward, called to the justices, saying,
-'`Are those who sit on the bench sworn to do justice?
-Is there not a man among you that will do the thing that is right?`'
-Whereupon John Stephens, of Lypeat, then chairman, cried out, '`Who are you, sirrah?
-What is your name?`'
-My father telling him his name, he said, '`I am glad I have you here: I have heard of you:
-you deserve a stone doublet: there is many an honester man than you hanged.`'
-'`It may be so,`' answered my father,
-'`but what do you think becomes of those who hang honest men?`'
-The justice replied, '`I`'ll send you to prison:
+"`Are those who sit on the bench sworn to do justice?
+Is there not a man among you that will do the thing that is right?`"
+Whereupon John Stephens, of Lypeat, then chairman, cried out, "`Who are you, sirrah?
+What is your name?`"
+My father telling him his name, he said, "`I am glad I have you here: I have heard of you:
+you deserve a stone doublet: there is many an honester man than you hanged.`"
+"`It may be so,`" answered my father,
+"`but what do you think becomes of those who hang honest men?`"
+The justice replied, "`I`'ll send you to prison:
 and if any insurrection or tumult be in the land,
 I`'ll come and cut your throat first with my own sword; for I fear to sleep in my bed,
-lest such fanatics should come and cut my throat.`'
+lest such fanatics should come and cut my throat.`"
 And snatching up a ball of wax, he violently threw it at my father,
 who avoided the blow by stepping aside.
 Their court orders were then made out, and they were all sent to prison.
 
-"`The same evening my +++[+++great]
+The same evening my +++[+++great]
 uncle Solliss, who was one of the justices on the bench came to the prison,
 and calling for my father, asked him,
 If he was willing to have his liberty to go home to his wife and family:
-'`Upon what terms, uncle?`'
+"`Upon what terms, uncle?`"
 said my father.
 
 [.discourse-part]
-__Justice.__--'`Upon such terms, that the jailer open the doors and let you out.`'
+__Justice.__--Upon such terms, that the jailer open the doors and let you out.
 
 [.discourse-part]
-__John Roberts.__--'`What! without entering into any recognizances?`'
+__John Roberts.__--What! without entering into any recognizances?
 
 [.discourse-part]
-__Justice.__--'`Yes.`'
+__Justice.__--Yes.
 
 [.discourse-part]
-__John Roberts.__--'`Then I accept of my liberty; but I admire, uncle,
+__John Roberts.__--Then I accept of my liberty; but I admire, uncle,
 how you and several others could sit upon the bench, as with your thumbs in your mouths,
-when you should speak a word in behalf of the innocent.`'
+when you should speak a word in behalf of the innocent.
 
 [.discourse-part]
-__Justice.__--'`You must learn to live under a law, cousin;
+__Justice.__--You must learn to live under a law, cousin;
 and if you will accept of your liberty till next sessions, you may have it: if not,
-stay where you are.`'
+stay where you are.
 
 [.small-break]
 '''
 
+[.offset]
 So they parted; and on the morrow my father went home, having also the jailer`'s leave.
 
-"`In the night, a concern came upon him with such weight,
+In the night, a concern came upon him with such weight,
 that it made him tremble till the bed shook under him.
-My mother asking the reason of it, he answered, '`The Lord requires hard things of me:
+My mother asking the reason of it, he answered, "`The Lord requires hard things of me:
 if it would please him, I had rather lay down my life,
-than obey him in what he requires at my hands.`'
-To which my mother replied, '`If you are fully persuaded the Lord requires it of you,
+than obey him in what he requires at my hands.`"
+To which my mother replied, "`If you are fully persuaded the Lord requires it of you,
 I would not have you to disobey him:
 for he will require nothing of us but what he will enable us to go through:
-therefore we have good cause to trust in him.`'
-On which he said, '`I must go to this John Stephens, who is my great enemy,
+therefore we have good cause to trust in him.`"
+On which he said, "`I must go to this John Stephens, who is my great enemy,
 and sent me to prison, where he said he would secure me;
 and as my uncle Solliss in kindness has given me leave to come home,
 I can expect no more favor from him,
 if I now go and run myself into the mouth of my adversary.
-But I must go, whatever I suffer.`'
+But I must go, whatever I suffer.`"
 He arose and prepared for his journey; but dared eat or drink nothing.
-When he mounted his horse, the command of the Lord was to him, '`Remember Lot`'s wife;
-look not back.`'
+When he mounted his horse, the command of the Lord was to him, "`Remember Lot`'s wife;
+don`'t look back.`"
 So on he rode very cheerfully eight or nine miles,
 till he came within sight of the justice`'s house; and then he let in the reasoner,
 who reasoned him out of all his courage,
@@ -242,82 +249,83 @@ thus to push himself into the hands of his greatest enemy.
 This brought such a cloud over his mind, that he alighted off his horse,
 and sat down upon the ground to spread his cause before the Lord.
 After he had waited some time in silence, the Lord appeared and dissipated the cloud,
-and his word was to him.
-Go, and I will go with you, and I will give you a threshing instrument,
-and you shall thresh the mountains.`'
+and his word was to him,
+"`Go, and I will go with you, and I will give you a threshing instrument,
+and you shall thresh the mountains.`"
 Now he was exceedingly overcome by the love of God; and I have often heard him say,
 he was filled like a vessel that needed vent; and said in his heart,
-'`Your presence is enough.`'
+"`Your presence is enough.`"
 Proceeding to the house with great satisfaction, it being pretty early in the morning,
 and seeing the stable door open, he went to the groom,
 and desired him to put up his horse.
 While this was doing, the justice`'s son and his clerk came up, who roughly said,
-'`I thought you had been in Gloucester castle.`'
+"`I thought you had been in Gloucester castle.`"
 
 [.discourse-part]
-__John Roberts.__--'`So I was.`'
+__John Roberts.__--So I was.
 
 [.discourse-part]
-__Clerk.__--'`And how came you out?`'
+__Clerk.__--And how did you come out?
 
 [.discourse-part]
-__John Roberts.__--'`When you have authority to demand it, I can give you an answer.
-But my business is with your master, if I may speak with him.`'
+__John Roberts.__--When you have authority to demand it, I can give you an answer.
+But my business is with your master, if I may speak with him.
 
 [.discourse-part]
-__Clerk.__--'`You may, if you will promise to be civil.`'
+__Clerk.__--You may, if you will promise to be civil.
 
 [.discourse-part]
-__John Roberts.__--'`If you see me uncivil, I desire you to tell me of it.`'
+__John Roberts.__--If you see me uncivil, I desire you to tell me of it.
 
 [.small-break]
 '''
 
-"`They went in; and my father following them, they bid him take a turn in the hall,
+They went in; and my father following them, they bid him take a turn in the hall,
 and they would acquaint the justice with his being there.
 He was soon called in; and my father no sooner saw the justice,
 but he believed the Lord had been at work upon him:
 for as he behaved to him with the fierceness of a lion before,
 he now appeared like a lamb, meeting him with a pleasant countenance,
-and taking him by the hand, said, '`Friend John, how do you do?`'
-My father answered, '`Pretty well;`' and then proceeded thus:
-'`I am come in the fear and dread of heaven,
+and taking him by the hand, said, "`Friend John, how do you do?`"
+My father answered, "`Pretty well;`" and then proceeded thus:
+"`I am come in the fear and dread of heaven,
 to warn you to repent of your wickedness with speed,
 lest the Lord cut the thread of your life, and send you to the pit that is bottomless.
 I am come to warn you with great love, whether you will hear or forbear,
-and to preach the everlasting Gospel to you.`'
-The justice replied, '`You are a welcome messenger to me;
-that is what I have long desired to hear.`'--'`The everlasting Gospel,`' returned my father,
-'`is the same that God sent his servant John to declare,
+and to preach the everlasting Gospel to you.`"
+The justice replied, "`You are a welcome messenger to me;
+that is what I have long desired to hear.`"--"`The everlasting Gospel,`" returned my father,
+"`is the same that God sent his servant John to declare,
 when he saw an angel fly through the midst of heaven, saying with a loud voice.
 Fear God, and give glory to his name, and worship him who made heaven and earth,
-and the sea, and the fountains of water.`'
+and the sea, and the fountains of water.`"
 The justice then caused my father to sit down by him on the couch, and said,
-'`I believe your message is from God, and I receive it as such.
-I am sorry I have done you wrong: I will never wrong you more.`'
+"`I believe your message is from God, and I receive it as such.
+I am sorry I have done you wrong: I will never wrong you more.`"
 After much more discourse,
 he offered my father the best entertainment his house afforded;
 but my father excused himself from eating or drinking with him at that time,
 expressing his kind acceptance of his love; and so in much love they parted.
 
-"`The same day, William Dewsbury had appointed a meeting at Tedbury, where my mother went.
+The same day, William Dewsbury had appointed a meeting at Tedbury, where my mother went.
 But she was so concerned on account of my father`'s exercise,
 that she could receive little benefit from the meeting.
 After the meeting was ended, William Dewsbury walked to and fro in a long passage,
 groaning in spirit; and by and by came up to my mother;
-and though she was a stranger to him, he laid his hand upon her head, and said, '`Woman,
-your sorrow is great; I sorrow with you.`'
+and though she was a stranger to him, he laid his hand upon her head, and said, "`Woman,
+your sorrow is great; I sorrow with you.`"
 Then walking a little to and fro as before, he came to her again, and said,
-'`Now the time is come, that those who marry must be as though they married not,
+"`Now the time is come, that those who marry must be as though they married not,
 and those who have husbands as though they had none;
-for the Lord calls for all to be offered up.`'
+for the Lord calls for all to be offered up.`"
 By this she saw the Lord had given him a sense of her great burden;
 for she had not discovered her exercise to any.
 And it gave her such ease in her mind, that she went home rejoicing in the Lord.
 She no sooner got home, than she found my father returned from Lypeat,
 where his message was received in such love as was far from their expectation:
 the sense of which much broke them into tears, in consideration of the goodness of God,
-in so eminently making way for and helping them that day.`"
+in so eminently making way for and helping them that day.
+____
 
 The following letter addressed to George Fox, although there is no date attached to it,
 belongs to this period.
@@ -480,7 +488,10 @@ went to see William Dewsbury at Warwick; who, although not then a prisoner,
 had permanently removed his residence from Yorkshire to that town.
 I conclude that, previous to this time, his wife died,
 as no mention is made of her in the narrative given by John Whiting, which is as follows:
-"`William Dewsbury then dwelt in his own hired house,
+
+[quote]
+____
+William Dewsbury then dwelt in his own hired house,
 with whom I had pretty much discourse, in his garden,
 of many things to my great comfort and satisfaction:
 for he was very free and open to me beyond what I could expect, being a young man,
@@ -492,7 +503,8 @@ He gave me an epistle to carry to Friends, and coming to the door with me,
 when I came away the last time, told me, at taking leave of him,
 that the blessing of the Lord would be with me if I was faithful:
 which was an encouragement to me, and through the Lord`'s goodness, I have found it so,
-beyond my desert; blessed be his holy name forever!`"
+beyond my desert; blessed be his holy name forever!
+____
 
 We have already seen that the rising of the Fifth
 Monarchy men was made a pretext for exercising,

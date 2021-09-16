@@ -1,8 +1,10 @@
 == Chapter XIII
 
-1661+++.+++ Act against conventicles,
-under which Friends suffered banishment--Epistles of encouragement--William
-Dewsbury is imprisoned in York Castle--General Epistle to the Church.
+[.chapter-synopsis]
+* 1661+++.+++ Act against conventicles, under which Friends suffered banishment
+* Epistles of encouragement
+* William Dewsbury is imprisoned in York Castle
+* General Epistle to the Church.
 
 How, and under what particular circumstances,
 this meek and constant sufferer came to be cast into Newgate,
@@ -39,6 +41,9 @@ and of individuals under various circumstances,
 is the following; addressed to his dear suffering brethren and companions in tribulation,
 and in the kingdom and patience of Christ Jesus.
 
+[.embedded-content-document.letter]
+--
+
 In him watch and pray, and believe in his name,
 that you may keep the word of his patience, and in the will of God,
 quietly lie down in your present sufferings for the
@@ -57,18 +62,34 @@ unto the end,--the crown of glory shall rest upon you forever.
 
 God, in his everlasting power, keep you in the life of his Son, in unity,
 to finish your testimony to his glory.
+
+[.signed-section-closing]
 Farewell!
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 Given forth in Newgate prison, London, the 13th day of the Twelfth month, 1661.
+
+[.postscript]
+====
 
 P+++.+++ S.--Dear lambs, keep in the unity, in the life and power of God;
 and let your words be few.
 
+====
+
+--
+
+[.offset]
 We have also from his pen, during this imprisonment,
 the following animated address to his suffering Friends.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 All in their measure abide in God,
@@ -120,9 +141,13 @@ but known to you in the secret of God, where our joy and triumph are.
 Whatever becomes of the outward man, in the will of God, farewell!--yea, farewell,
 in the name of the Lord!
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 Given forth in Newgate prison, the 3rd day of the First month, 1661-2.
+
+--
 
 With a few exceptions as regards some insulated facts,
 all that is known of the last twenty-five years of the life
@@ -136,11 +161,17 @@ he was taken from his own house at Durteen, in the West Riding of Yorkshire,
 and committed to York Castle, his old residence,
 as a ringleader and preacher among the Quakers.
 
+[.small-break]
+'''
+
 +++[+++A letter under his hand, dated York Castle, the 3rd of the eighth month, states,
 that there are upwards of one hundred Friends his fellow-prisoners,
 that they meet daily for the purpose of waiting upon and worshipping Almighty God,
 and that his presence covers their assemblies,
-to their great comfort and the astonishment of their enemies.--Editor.]
+to their great comfort and the astonishment of their enemies.--__Editor.__]
+
+[.small-break]
+'''
 
 Here he was not idle, but still continued to visit the church by his epistles.
 Among those which he wrote during this confinement at York,
@@ -151,6 +182,9 @@ to all the mourners in Zion; and the afflicted, desolate people, who wait for hi
 as for the morning,
 and have no satisfaction in anything but in the enjoyment
 of his sweet and comfortable presence.`"
+
+[.embedded-content-document.epistle]
+--
 
 Oh, Jerusalem! who art become the beautiful bride,
 how did he seek thee in the day of thy divorcement,
@@ -340,6 +374,10 @@ for the Lord God giveth them light,
 and they do reign forever,--as the Lord hath spoken through your brother
 and companion in the tribulation and kingdom of patience in the Lord Jesus.
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 Given forth in York Castle, the 19th of First month, 1663.
+
+--

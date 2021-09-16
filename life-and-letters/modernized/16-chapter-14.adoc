@@ -28,7 +28,10 @@ under the stroke of that arbitrary instrument.
 William Crouch, a Friend, who lived through that terrible period,
 for it was so on more accounts than the one in question, writing of the year 1664-5,
 gives us the following information.
-"`Now the enemies and adversaries of the church, were in deep counsels and consultations,
+
+[quote]
+____
+Now the enemies and adversaries of the church, were in deep counsels and consultations,
 utterly to root the Quakers out of England, by banishing them into foreign plantations:
 and a law being made,
 many of the magistrates and rulers were very intent on executing it;
@@ -43,6 +46,7 @@ by those severe strokes of his hand upon the nation, in the years 1665 and 1666.
 footnote:[The plague which broke out in London,
 and the great fire which followed in the next year--signal tokens of
 the divine displeasure with the wickedness of that city.]
+____
 
 It appears from the same author,
 that the first proceedings under this act took place at the court sessions at Hertford,
@@ -51,7 +55,7 @@ where Orlando Bridgman presided as judge.
 He passed sentence of banishment against eight Friends, who were then brought to trial.
 Seven of these, namely, Nicholas Lucas, Henry Feast, Henry Marshall, Francis Pryor,
 John Blindell, Jeremiah Hearn, and Samuel Trahern, were brought up to London,
-and on the 14th of the month called September, put on board the Ann,
+and on the 14th of the month called September, put on board the __Ann,__
 a packet for Jamaica, Thomas May commander.
 But two months afterwards they were set on shore, for the following among other reasons,
 given under the commander`'s own hand, and duly witnessed.
@@ -64,7 +68,7 @@ This was certified and given to the sufferers,
 to show that they had not made their escape from the ship.
 
 After this, three other Friends, namely, Cannawell Briton, Bartholomew Croker,
-and Lewis Rogers, were put on board the ship Mary Fortune, bound for Barbados,
+and Lewis Rogers, were put on board the ship __Mary Fortune,__ bound for Barbados,
 John Lloyd, master: who also repented, and on that account refusing to carry them,
 set them on shore,
 giving them a certificate containing the following among other reasons for his doing so.
@@ -104,15 +108,16 @@ and the government agents, after much search and many refusals,
 having engaged with a man of infamous character to
 carry them to Jamaica--the prisoners were put on board,
 some of them being ill of the plague at that time.
-The ship, called the Black Eagle, the master`'s name Fudge,
+The ship, called the __Black Eagle,__ the master`'s name Fudge,
 was seven weeks before it got to the Downs, within which time twenty-seven Friends, died,
 many of whom were buried in the marshes below Gravesend.
 Fudge, who had run himself largely into debt in fitting out his ship,
 was arrested and cast into prison, and Peter Love was made master in his room.
+
 In the Downs, they were detained many weeks by contrary winds,
 as also between that and Plymouth.
 After considerable detention, clearing away from that harbor,
-the Black Eagle was captured by a Dutch privateer; they then encountered a storm,
+the __Black Eagle__ was captured by a Dutch privateer; they then encountered a storm,
 which separated the vessels, and carried one of them to the coast of Norway,
 but at length it succeeded in arriving at Holland, where all the Friends met.
 The Dutch,

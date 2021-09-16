@@ -1,7 +1,9 @@
 == Chapter XV
 
-Grounds on which Friends were willing to endure such sufferings--Statement
-of their principles--Additional testimony from Penington.
+[.chapter-synopsis]
+* Grounds on which Friends were willing to endure such sufferings
+* Statement of their principles
+* Additional testimony from Penington.
 
 In the last chapter we have seen,
 how the malice of the grand adversary of mankind was exercised towards those,
@@ -110,7 +112,7 @@ yea we believe it were damnable misbelief not to believe it, when so declared;
 but to resist that holy Seed, which, as minded,
 would lead and incline every one to believe it as it is offered unto them,
 though it revealeth not in every one the outward and explicit knowledge of it,
-nevertheless it always assenteth to it ubi declaratur, where it is declared.
+nevertheless it always assenteth to it __ubi declaratur,__ where it is declared.
 Nevertheless, as we firmly believe it was necessary that Christ should come,
 that by his death and sufferings he might offer up
 himself a sacrifice to God for our sins,
@@ -217,7 +219,7 @@ but their zealous and public reproof of what they justly esteemed to be evil,
 whether in the root or in the fruit,
 made them "`seem to be opposed to existing institutions and enemies
 to all sorts of men;`" but it was "`for the Lord`'s sake.`"^
-footnote:[Penington.]
+footnote:[Isaac Penington.]
 
 Having a testimony given them to bear against "`a hireling
 ministry,`" they found it to be their place to resist,
@@ -299,6 +301,8 @@ will serve to illustrate the depth of those feelings,
 under which they were made willing to become as signs and wonders in their day.
 He says:--
 
+[quote]
+____
 Our work in the world, is to hold forth the virtue of Him that hath called us;
 not to own anything in the world that God doth not own.
 To forget our country, our kindred, our father`'s house,
@@ -336,3 +340,4 @@ we shall find the same leadings where we meet with the same thing.
 For the Lord God will never be tender there, nor can that which comes from him,
 lives in him, is led by him, be tender there, where he is not.^
 footnote:[Penington`'s Works, vol. 1. p. 91, 92.]
+____

@@ -1,15 +1,18 @@
 == Chapter XVI
 
-1672+++.+++ William Dewsbury discharged from Warwick jail--Travels
-to Bristol--John Roberts--Anecdote respecting him,
-his wife,
-and William Dewsbury--Letter to George Fox from the
-north of England--George Fox in Worcester jail:
-tried before Judge Hale;
-his opinion of George Fox--Extract from an epistle--William
-Dewsbury visited by John Whiting--Popish plot,
-Friends suffer under a charge of being Jesuits--William
-Dewsbury confined six years at Warwick.
+[.chapter-synopsis]
+* 1672+++.+++ William Dewsbury discharged from Warwick jail
+* Travels to Bristol
+* John Roberts
+* Anecdote respecting him, his wife, and William Dewsbury
+* Letter to George Fox from the north of England
+* George Fox in Worcester jail
+* Tried before Judge Hale
+* His opinion of George Fox
+* Extract from an epistle
+* William Dewsbury visited by John Whiting
+* Popish plot, Friends suffer under a charge of being Jesuits
+* William Dewsbury confined six years at Warwick.
 
 William Dewsbury was released from his long confinement in Warwick jail in the year 1672.
 At that time,
@@ -53,6 +56,10 @@ which was written at the time when his detention was drawing towards a close.
 It is dated the 5th of the third mouth, 1671; and is as remarkable for its brevity,
 as for its fulness.
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 My dear Friends,
 
 In these trying days, be not afraid of what man can do, whose breath is in his nostrils;
@@ -65,9 +72,13 @@ is the breathing of my soul for you whom my soul loves.
 And keep your meetings in the authority and life of the meek and patient Spirit,
 which wears out, and overcomes all things that are not of its own nature.
 
+[.signed-section-closing]
 Read this in the fear of the Lord among Friends.
 
+[.signed-section-signature]
 William Dewsbury
+
+--
 
 During the interval of liberty which followed his deliverance from this imprisonment,
 John Whiting, who was personally acquainted with him, informs us,
@@ -92,6 +103,8 @@ yet as the point of the anecdote would have been lost by separating it from the 
 and as it well illustrates some particulars peculiar to the early Friends,
 the reader will not object to my presenting him with the whole.
 
+[quote]
+____
 In the year 1665, it pleased the Lord to send two women Friends out of the north,
 to Cirencester; who inquiring after such as feared God, were directed to my father,
 as the likeliest person to entertain them.
@@ -186,19 +199,27 @@ If he was willing to have his liberty to go home to his wife and family:
 "`Upon what terms, uncle?`"
 said my father.
 
-Justice.--Upon such terms, that the jailer open the doors and let you out.
+[.discourse-part]
+__Justice.__--Upon such terms, that the jailer open the doors and let you out.
 
-John Roberts.--What! without entering into any recognizances?
+[.discourse-part]
+__John Roberts.__--What! without entering into any recognizances?
 
-Justice.--Yes.
+[.discourse-part]
+__Justice.__--Yes.
 
-John Roberts.--Then I accept of my liberty; but I admire, uncle,
+[.discourse-part]
+__John Roberts.__--Then I accept of my liberty; but I admire, uncle,
 how thou and several others could sit upon the bench, as with your thumbs in your mouths,
 when you should speak a word in behalf of the innocent.
 
-Justice.--You must learn to live under a law, cousin;
+[.discourse-part]
+__Justice.__--You must learn to live under a law, cousin;
 and if you will accept of your liberty till next sessions, you may have it: if not,
 stay where you are.
+
+[.small-break]
+'''
 
 So they parted; and on the morrow my father went home, having also the jailer`'s leave.
 
@@ -241,16 +262,24 @@ and desired him to put up his horse.
 While this was doing, the justice`'s son and his clerk came up, who roughly said,
 "`I thought you had been in Gloucester castle.`"
 
-John Roberts.--So I was.
+[.discourse-part]
+__John Roberts.__--So I was.
 
-Clerk.--And how came you out?
+[.discourse-part]
+__Clerk.__--And how came you out?
 
-John Roberts.--When thou hast authority to demand it, I can give thee an answer.
+[.discourse-part]
+__John Roberts.__--When thou hast authority to demand it, I can give thee an answer.
 But my business is with thy master, if I may speak with him.
 
-Clerk.--You may, if you will promise to be civil.
+[.discourse-part]
+__Clerk.__--You may, if you will promise to be civil.
 
-John Roberts.--If thou seest me uncivil, I desire thee to tell me of it.
+[.discourse-part]
+__John Roberts.__--If thou seest me uncivil, I desire thee to tell me of it.
+
+[.small-break]
+'''
 
 They went in; and my father following them, they bid him take a turn in the hall,
 and they would acquaint the justice with his being there.
@@ -302,6 +331,7 @@ She no sooner got home, than she found my father returned from Lypeat,
 where his message was received in such love as was far from their expectation:
 the sense of which much broke them into tears, in consideration of the goodness of God,
 in so eminently making way for and helping them that day.
+____
 
 The following letter addressed to George Fox, although there is no date attached to it,
 belongs to this period.
@@ -313,7 +343,13 @@ both of them leading characters and eminent in their day.
 It also conveys a very pleasing testimony to the estimation
 in which George Fox was held among his brethren.
 
-Dear brother, in the covenant of life, in Christ our Head, my soul salutes thee,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear brother,
+
+In the covenant of life, in Christ our Head, my soul salutes thee,
 and sympathizes with thee in thy exercise in thy bonds;
 with breathings to the Lord to sweeten all our ways,--what
 he calleth us unto,--with his living presence,
@@ -339,9 +375,13 @@ to travel amongst them to their great comfort as in days of old and years past.
 But in the will of our God our souls rest with thee, in the pleasure of our God,
 in whom I remain,
 
+[.signed-section-closing]
 Thy dear brother,
 
+[.signed-section-signature]
 William Dewsbury
+
+--
 
 If the foregoing letter be correctly placed as to date,
 the "`bonds,`" to which it refers, and under which George Fox was then suffering,
@@ -367,7 +407,13 @@ is dated the 14th of the eleventh month, 1675;
 and the portion selected being very much of a general character,
 is thought to be too valuable to be excluded from this volume.
 
-Dear Friends, whom the Lord hath visited in this his glorious day,
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+Dear Friends,
+
+Whom the Lord hath visited in this his glorious day,
 and plucked as brands out of the fire to wait upon him, in his light,
 that his great work of regeneration may be perfected in you, to your eternal comfort,
 and the glory of the name of our God forever.
@@ -440,6 +486,8 @@ to be married unto him in that hidden life, which is hid with Christ in God.
 And, until you enjoy the marriage union, wait in deep humiliation, in the light,
 for the Lord to create you to a lively hope in Christ Jesus, the second Adam.
 
+--
+
 In the year 1676, John Whiting, who lived at Nailsey, in Somersetshire,
 in the course of a visit which he paid in some of the midland counties,
 went to see William Dewsbury at Warwick; who, although not then a prisoner,
@@ -447,6 +495,8 @@ had permanently removed his residence from Yorkshire to that town.
 I conclude that, previous to this time, his wife died,
 as no mention is made of her in the narrative given by John Whiting, which is as follows:
 
+[quote]
+____
 William Dewsbury then dwelt in his own hired house,
 with whom I had pretty much discourse, in his garden,
 of many things to my great comfort and satisfaction:
@@ -460,6 +510,7 @@ when I came away the last time, told me, at taking leave of him,
 that the blessing of the Lord would be with me if I was faithful:
 which was an encouragement to me, and through the Lord`'s goodness, I have found it so,
 beyond my desert; blessed be his holy name forever!
+____
 
 We have already seen that the rising of the Fifth
 Monarchy men was made a pretext for exercising,

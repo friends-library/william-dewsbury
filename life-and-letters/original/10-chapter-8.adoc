@@ -1,7 +1,12 @@
 == Chapter VIII
 
-1655+++.+++ Epistle--Assizes--Prisoners tried before Judge Atkins--Refuse
-to enter into bonds--Remanded to prison--Detained six months.
+[.chapter-synopsis]
+* 1655+++.+++ Epistle
+* Assizes
+* Prisoners tried before Judge Atkins
+* Refuse to enter into bonds
+* Remanded to prison
+* Detained six months.
 
 During William Dewsbury`'s confinement in Northampton jail,
 he did not spend his time in idleness; for besides several pieces,
@@ -15,6 +20,9 @@ The following extract from that which comes first in order,
 and is of a very general character, will, I trust,
 tend to edification,--bearing in mind that the point of
 the piece is levelled against a paid and lifeless ministry.
+
+[.embedded-content-document.epistle]
+--
 
 All people who desire to know the living God,
 let the time past suffice in which you have followed men who have deceived you,
@@ -106,14 +114,19 @@ to hunger and thirst after the righteousness of God in Christ Jesus,
 to prize and love him, and to judge and deny self with his light,
 and in it to wait for his power to guide you in every word and work.
 
+--
+
 +++[+++The following letter of advice to an individual, of some station, Judge Fell,
-of Swarthmore, the editor ventures to interpose between these two addresses.
+of Swarthmore, the Editor ventures to interpose between these two addresses.
 It is copied from the original manuscript.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Judge Fell
 
-From the common jail in Northampton, 7th of Third month, 1655.
-
+[.salutation]
 Friend,
 
 That which calls for purity in thee is dear to me, and with it I suffer,
@@ -160,7 +173,13 @@ to the praise and glory of the Father of lights, who is God over all, blessed fo
 In tender love to thy soul I write, who am often with thee in spirit,
 and am known by name,
 
+[.signed-section-signature]
 William Dewsbury
+
+[.signed-section-context-close]
+From the common jail in Northampton, 7th of Third month, 1655.
+
+--
 
 The other epistle bears evidence of having been addressed
 exclusively to the members of the newly gathered Society.
@@ -173,8 +192,14 @@ and thereby of introducing the body into suffering,
 and of bringing discredit on the cause itself.
 It is from the pen, not of a learned man, but of an experienced Christian.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends, servants and children of God,
-whom he hath called and chosen out of the world; be faithful, all of you, in his counsel.
+whom he hath called and chosen out of the world:
+
+Be faithful, all of you, in his counsel.
 Wait for his power, to guide you in all your thoughts, words, and works,
 in his pure fear and in obedience to his will.
 I charge you in his presence, be valiant for your freedom,
@@ -297,15 +322,24 @@ may witness you to be the righteous seed whom the Lord hath blessed.
 His power and presence keep you in the unity of the spirit and bond of peace,
 where I am with you in the unchangeable love and life.
 
+[.signed-section-signature]
 William Dewsbury
 
+[.signed-section-context-close]
 1655.
+
+[.postscript]
+====
 
 P+++.+++ S.--I desire you to let this be read in your meetings, with a good understanding,
 in the fear of the Lord;
 for this is the day in which "`I will make a separation between the wise and the foolish,
 between those that fear the Lord,
 and those that fear him not,`" saith the Lord God Almighty.
+
+====
+
+--
 
 At the time of the assizes, which were held the 21st of the fifth month,
 William Dewsbury was called to the bar, his name being associated with six others,
@@ -316,7 +350,6 @@ On being answered in the affirmative, the judge asked him,
 if it were his practice to bring prisoners before the court in that manner,
 and told him he deserved to be fined ten pounds,
 for bringing them before the court covered.
-
 The jailer replied, "`If you command me, I shall take off their hats.`"
 This being done, and having ascertained which of the prisoners was Dewsbury, for,
 it appears, both now and on the previous trial,
@@ -324,49 +357,65 @@ that his preaching had produced a great sensation
 in those parts of the country where he had travelled,
 the following examination took place.
 
-Judge.--What art thou here for?
+[.discourse-part]
+__Judge.__--What art thou here for?
 
-Prisoner.--The mittimus will express what I was committed for,
+[.discourse-part]
+__Prisoner.__--The mittimus will express what I was committed for,
 but I am denied a copy of it by the keeper of the jail.
 
-Judge.--What is thy name?
+[.discourse-part]
+__Judge.__--What is thy name?
 
-Prisoner.--Unknown to the world.
+[.discourse-part]
+__Prisoner.__--Unknown to the world.
 
-Judge.--Let us hear what that name is, that the world knows not.
+[.discourse-part]
+__Judge.__--Let us hear what that name is, that the world knows not.
 
-Prisoner.--It is known in the light, and not any can know it, but he that hath it:
+[.discourse-part]
+__Prisoner.__--It is known in the light, and not any can know it, but he that hath it:
 but the name the world knows me by, is William Dewsbury.
 
-Judge.--What countryman art thou?
+[.discourse-part]
+__Judge.__--What countryman art thou?
 
-Prisoner.--Of the land of Canaan.
+[.discourse-part]
+__Prisoner.__--Of the land of Canaan.
 
-Judge.--That is afar off.
+[.discourse-part]
+__Judge.__--That is afar off.
 
-Prisoner.--Nay, it is near.
+[.discourse-part]
+__Prisoner.__--Nay, it is near.
 For all that dwell in God, are in the holy city, the new Jerusalem,
 which comes down from heaven.
 There the soul is in rest, and enjoys the love of God in Christ Jesus,
 in whom the union is with the Father of light.
 
-Judge.--That is true.
+[.discourse-part]
+__Judge.__--That is true.
 But are you ashamed of your country?
 Is it any disparagement for you to be born in England?
 
-Prisoner.--Nay.
+[.discourse-part]
+__Prisoner.__--Nay.
 I am free to declare that my natural birth was in Yorkshire, nine miles from York,
 towards Hull.
 
-Judge.--You pretend to be extraordinary men,
+[.discourse-part]
+__Judge.__--You pretend to be extraordinary men,
 and to have an extraordinary knowledge of God.
 
-Prisoner.--We witness the work of regeneration to be an extraordinary work,
+[.discourse-part]
+__Prisoner.__--We witness the work of regeneration to be an extraordinary work,
 wrought in us by the Spirit of God.
 
-Judge.--But the apostles wrought with their hands in their callings.
+[.discourse-part]
+__Judge.__--But the apostles wrought with their hands in their callings.
 
-Prisoner.--They had callings in the world, some were fishermen, Paul a tentmaker;
+[.discourse-part]
+__Prisoner.__--They had callings in the world, some were fishermen, Paul a tentmaker;
 but when they were called to the ministry of Christ,
 they left their callings to follow Christ,
 where he led them by his spirit to preach the word.
@@ -374,38 +423,49 @@ I had a calling in the world, as they had, and in it did abide,
 until the Father revealed his Son in me, and called me from my calling in the world,
 to preach the eternal word he had made known to me, in the great work of regeneration.
 
-Judge.--Why didst thou not abide in thy own country, and teach people in those parts?
+[.discourse-part]
+__Judge.__--Why didst thou not abide in thy own country, and teach people in those parts?
 
-Prisoner.--I did stay there,
+[.discourse-part]
+__Prisoner.__--I did stay there,
 until I was called from thence to go where I was led by the Spirit of the Lord.
 And as many as are led by the Spirit of God, they are the sons and daughters of God,
 and they that have not the Spirit of Christ are none of his.
 
-Judge.--You say well;
+[.discourse-part]
+__Judge.__--You say well;
 for we must in charity conclude that every one in
 this place hath the Spirit of God in them;
 but how do you know that you are guided by the Spirit of God?
 
-Prisoner.--They that have the Spirit of God are known by their fruits.
+[.discourse-part]
+__Prisoner.__--They that have the Spirit of God are known by their fruits.
 And he that believeth in Jesus Christ and is guided by his spirit,
 hath the witness in himself.
 
-Judge.--That is true; yet, notwithstanding, I see by your carriage,
+[.discourse-part]
+__Judge.__--That is true; yet, notwithstanding, I see by your carriage,
 that what my brother Hale did at the last assizes,
 in requiring bonds for your good behaviour, he might justly do;
 for you are against magistrates and ministers.
 
-Prisoner.--Make manifest wherein we are against them.
+[.discourse-part]
+__Prisoner.__--Make manifest wherein we are against them.
 
-Judge.--(To Robert Grey, Clerk of the Peace,) What have you against these men?
+[.discourse-part]
+__Judge.__--(To Robert Grey, Clerk of the Peace,) What have you against these men?
 
-Grey.--Here is an information, given in upon oath by Mr. Robert Beeton,
+[.discourse-part]
+__Grey.__--Here is an information, given in upon oath by Mr. Robert Beeton,
 that William Dewsbury, on the 29th of December 1654,
 did go into the church at Wellingborough,
 and stood with his hat on in the time of sermon and prayer.
 And after the minister had done, he spake these words, "`The priests preach for hire,
 and the people love to have it so: but what will ye do in the end thereof?`"
 with other railing words, which made a disturbance among the people.
+
+[.small-break]
+'''
 
 The judge was then proceeding to examine some of the other prisoners,
 having first threatened what he would do before he left
@@ -421,13 +481,15 @@ which he told the judge had given occasion to his visit to the public meeting-pl
 asserting his conduct to have been no breach of any law of this nation.
 The conversation was then resumed as follows.
 
-Judge.--But in that you are found wandering in the country, you break the law;
+[.discourse-part]
+__Judge.__--But in that you are found wandering in the country, you break the law;
 for there is an old law,
 that if any did go from their dwellings to travel
 in the country without a certificate from some justice,
 they were to be taken as wandering persons.
 
-Prisoner.--If there be any such law, read it to us.
+[.discourse-part]
+__Prisoner.__--If there be any such law, read it to us.
 And if there be such a law,
 thou knowest in thy conscience it is contrary to the Scriptures.
 For the apostles and ministers of Christ went to and fro in the country,
@@ -438,10 +500,15 @@ And the law which is in force in this nation doth
 allow all who profess faith in Jesus Christ,
 to have free liberty to walk in the faith which is according to the Scripture.
 
-Judge.--Thou hast an eloquent tongue, and thou art proud of it.
+[.discourse-part]
+__Judge.__--Thou hast an eloquent tongue, and thou art proud of it.
 
-Prisoner.--Pride I deny; but the truth I witness, which will judge pride,
+[.discourse-part]
+__Prisoner.__--Pride I deny; but the truth I witness, which will judge pride,
 and torment all who live in it, until it be destroyed.
+
+[.small-break]
+'''
 
 To this the judge made no answer, but proceeded to examine the other prisoners; who,
 without any accuser appearing against them, and without proof of the breach of any law,

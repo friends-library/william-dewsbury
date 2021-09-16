@@ -126,10 +126,10 @@ by brackets enclosing such fresh matter.
 
 With regard to the old work,
 from which the epistles and some other papers are now reprinted,
-the title thus stood:--"`The faithful testimony of that ancient servant of the Lord,
-and minister of the everlasting Gospel, William Dewsbury, in his books, epistles,
-and writings, collected and printed for future service.
-London, 1689.`"
+the title thus stood:--[.book-title]#The Faithful Testimony of that Ancient Servant of the Lord,
+and Minister of the Everlasting Gospel, William Dewsbury, in his Books, Epistles,
+and Writings, Collected and Printed for Future Service.
+London, 1689.#
 Like many of the works of that day, it is so indifferently got up,
 that the correct import of some passages is not very plain,
 and even admits of misinterpretation;

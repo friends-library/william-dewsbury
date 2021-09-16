@@ -17,13 +17,15 @@ Soon after his arrival in the metropolis, namely, on the 6th of the third month,
 he attended a meeting for worship at Gracechurch street,
 where he preached the following powerful and impressive Sermon,
 the only one of his which has been preserved.
-It is given in Sewel`'s History, 8vo. vol.
-ii. p. 456.
+It is given in [.book-title]#Sewel`'s History.#
 
-[.centered]
-=== You Must Be Born Again
+[.embedded-content-document.address]
+--
 
-My Friends, Except you be regenerated and born again,
+[.salutation]
+My Friends,
+
+Except you be regenerated and born again,
 you cannot inherit the kingdom of God.
 This is the word of the Lord God to all people this day.
 This lies not in airy profession, and in vain imagination,
@@ -55,12 +57,13 @@ until the life of the first Adam be taken away.
 So now, let every one of you deal plainly with your own hearts, +++[+++and inquire]
 how you came to be slain to the life of the first Adam,
 in which life there was a working of the mystery of iniquity in every part of man.
-One cries '`Lo, here is Christ;`' another, '`Lo,
-there is Christ;`' and every one is following his own
+One cries "`Lo, here is Christ;`" another, "`Lo,
+there is Christ;`" and every one is following his own
 imagination about the letter of the Scripture;
 this is still but the vain spirit of man, running and striving to recover himself;
 and this is the cause there is so much profession of God,
 and so little of his nature appearing among the sons and daughters of men.
+
 Now, all that come to be regenerated, must come to the light of Christ;
 there is no other way to it.
 He will search your hearts, and try your reins, and set your sins in order before you,
@@ -76,12 +79,12 @@ and abide the sentence of condemnation.
 If you save your lives, you lose them; if you will lose your lives for Christ`'s sake,
 there is no danger of your eternal life.
 John the Baptist, Christ`'s forerunner declared,
-'`I indeed baptize you with water unto repentance,
+"`I indeed baptize you with water unto repentance,
 but he that comes after me is mightier than I,
 the latchet of whose shoes I am not worthy to unloose,
 he shall baptize you with the Holy Ghost and with fire; whose fan is in his hand,
 and he will thoroughly purge his floor, and will gather his wheat into his garner,
-but the chaff he will burn with unquenchable fire.`'
+but the chaff he will burn with unquenchable fire.`"
 Are you the better for reading the Scriptures, if you know not this fiery baptism,
 which all must know who are regenerated?
 Deceive not yourselves: Christ will appear in flaming fire,
@@ -101,6 +104,7 @@ and will not be willing to lose your life for Christ, if you are called to it;
 and if you will not have Christ to wash you, some for shyness,
 and some for self-love will refuse this--if Christ does not wash you,
 you have no part in him.
+
 You must come to Christ, to purify you in the fiery furnace:
 the day of the Lord shall burn as an oven, as the prophet speaks.
 This is a dreadful day, a day of vengeance, the day of the Lord Jesus Christ,
@@ -114,6 +118,7 @@ come along with me; I am come to declare what I have heard and seen of the Fathe
 Come and examine your conscience: have you brought your deeds to the light?
 Then you have received condemnation upon yourself, and your haughtiness is bowed down,
 and laid low, and you see yourself a poor miserable wretch, before the eternal God.
+
 Whatsoever you know of the mind of God, have you reformed your ways?
 Come along with me, and tell me what is the ground of your faith and your confidence.
 Is it your obedience and qualifications?
@@ -155,6 +160,7 @@ God will make short work in the earth.
 He will set your sins in order before you, and make you watchful unto prayer,
 and lead you to holiness of life and conduct, and make you abhor yourself,
 and despise all the pomps and pleasures and vanities of this world.
+
 When he has adorned you with his graces, then watch,
 and in the light of Christ you shall see light, and that all you have done, and can do,
 is but your duty.
@@ -163,11 +169,11 @@ and all this will not justify you in order to your eternal salvation,
 for these services you owe unto God.
 If you diligently wait you shall see more light;
 then the sword that proceeds out of the mouth of Christ,
-who is called '`the Word of God,`' will cut you off from
+who is called "`the Word of God,`" will cut you off from
 all hopes of salvation from anything you have done,
 from any of your qualifications, from anything that you can do;
 so that you will be a hopeless soul, nothing in your own sense and apprehension.
-The power of the first Adam must die before him, and you will cry out, '`I am a dead,
+The power of the first Adam must die before him, and you will cry out, "`I am a dead,
 lost, and undone creature: yet there is a life hid with Christ in God for me,
 but I can never have it, till I be slain into the will of God,
 and become as a little child, stripped of all my own excellency that I have attained.
@@ -176,27 +182,28 @@ When I am become as a little child,
 humbled and slain as to my own will and confidence in my own righteousness,
 I will not then question but I shall live a holy life,
 but I will give all that life I had,
-for that life which is hid with Christ in God:`' O! there are none come so far,
+for that life which is hid with Christ in God:`" O! there are none come so far,
 that ever miss of eternal life.
+
 All shuffling people, that would have salvation by Christ,
 and yet will not let him exercise his heavenly power, his princely,
 glorious power to baptize them into his death, come short of salvation:
 but all those who yield themselves up to Christ to be redeemed through judgment,
 and are become as little children, these are in a happy state.
 You know that our Lord Jesus Christ took a little child in his arms, and said,
-'`Whosoever becomes not as a little child, cannot enter into the kingdom of heaven.
+"`Whosoever becomes not as a little child, cannot enter into the kingdom of heaven.`"
 You must all become as little children, and depend upon the mercy and free grace of God;
 you must all come to a holy resignation of your wills to God`'s disposal.
 If you come to Christ as little children, and depend upon him,
 you cannot miss of salvation; it is entailed upon such souls as hear the voice of Christ,
-'`they that hear the voice of the Son of God shall live.`'
+"`they that hear the voice of the Son of God shall live.`"
 
 I stand here as a witness for the God of heaven,
 I never heard the voice of Christ as his follower, until I was slain and baptized,
 and lay as a little child under his heavenly chastisement.
 As soon as ever my soul was brought to this, O! then,
 the dreadful judgment was taken away, and the book of life was opened unto me,
-and the Lord spoke comfortably to me, '`I have loved you with an everlasting love.`'
+and the Lord spoke comfortably to me, "`I have loved you with an everlasting love.`"
 I was made a Christian through a day of vengeance, and of burning as an oven;
 and the haughtiness and pride of man in me was brought low.
 Now in this conformity to Christ`'s death, people may die into life,
@@ -209,8 +216,8 @@ To those that will die with Christ, and be willing to die for him,
 he is revealed as a Savior.
 He was before us in the days of his flesh, and complied with his Father`'s will;
 he was nailed to the cross.
-The Son of God, when he was come to the depth of his sufferings, cried out, '`My God,
-my God, why have you forsaken me!`' This was for your sake, and my sake,
+The Son of God, when he was come to the depth of his sufferings, cried out, "`My God,
+my God, why have you forsaken me!`" This was for your sake, and my sake,
 and every man`'s and woman`'s sake that do believe in him;
 he drank the cup which his Father gave him to drink.
 If it was done thus to the green tree, what shall be done unto the dry?
@@ -224,15 +231,15 @@ and all selfishness: you must have God to burn it up in you.
 The Holy Ghost will destroy, and burn up nothing in you,
 but that which will bring an eternal fire upon your soul.
 
-Show me, you whom my soul loves, where is the path of life,
+"`Show me, you whom my soul loves, where is the path of life,
 the footsteps of the flock of your companions?
-Why should I be as one that goes aside?
+Why should I be as one that goes aside?`"
 Every one that lives at home in the bosom of self, take this with you,
 though you profess the truth, and live in an outward conformity thereunto,
 yet if you secretly indulge your corrupt wills, and live a flesh-pleasing life,
 and consult with flesh and blood, and are not rent off from your lusts,
-you cannot enjoy the Lord of life: '`while I am at home in the body,
-I am absent from the Lord.`'
+you cannot enjoy the Lord of life: "`while I am at home in the body,
+I am absent from the Lord.`"
 
 The body of sin is a loadstone to draw you from the life of God,
 and from glorying in the cross of Christ: this is flesh and blood,
@@ -242,11 +249,11 @@ put not off this work, but pursue it, and it will be perfected.
 See how Christ is revealed in you by the Holy Ghost, and with fire.
 God will redeem you by the spirit of judgment and burning:
 it is not ranging abroad in your minds +++[+++will do]
-but you must '`know that Christ is in you except you be reprobates.`'
+but you must "`know that Christ is in you except you be reprobates.`"
 If he has set your eyes and hearts upon himself,
 and made you to water your couch with your tears; if he has broken your sleep,
-so as you have cried out, '`I shall be damned,
-and never come to salvation;`' this will be your cry, it was once my cry;
+so as you have cried out, "`I shall be damned,
+and never come to salvation;`" this will be your cry, it was once my cry;
 O let not your eyes slumber, nor your eyelids take any rest,
 till you be sure the Lord is your God.
 If you find these qualifications, you are on your way,
@@ -260,6 +267,7 @@ Salvation shall be brought to us, and eternal life be bestowed upon us;
 even that life which is hid with Christ in God he will give to
 every poor mournful soul that submits to his blessed will,
 and believes in the Lord Jesus Christ.
+
 This is not a faith of our own making, nor a garment of our own embroidery,
 but that which the Lord has given to us.
 O happy man or woman, that obtain this gift of God!
@@ -272,11 +280,11 @@ and paint and deck cursed self: and take not the members of Christ,
 and make them the members of a harlot.
 If you be dead to your own wills, you are risen with Christ,
 and shall receive a resurrection to eternal life.
+
 Crucify self, and set the world at naught, and trample upon it, and all the things of it,
 and count them as dross and dung in comparison of Christ,
 whom the Father has revealed to be our life, in the days of our sorrow and mourning,
-in the day of our calamity, in the day when we cried, '`Our hope is lost!`'
-
+in the day of our calamity, in the day when we cried, "`Our hope is lost!`"
 Thus it has been with the holiest people on earth.
 It is not by works of righteousness of your own that you can be saved.
 Christ comes to cut all these down, that you may be ingrafted into him,
@@ -286,15 +294,16 @@ but look into your own hearts, and see what heavenly workings are there;
 what there is of the power of the Lord Jesus, that has made you to loathe this world,
 and the inordinate love of the creature,
 that you may enjoy all these things as if you enjoyed them not.
-When we are slain and crucified to this world, we cannot but say, '`My life is in Christ.`'
+When we are slain and crucified to this world, we cannot but say, "`My life is in Christ.`"
 Then we come to ascribe nothing to ourselves, and all to Christ.
 Here is a blessed harmony, broken hearts, melted spirits, and yet joyful souls;
 poor creatures, who were mourning, and sighing,
 and crying before the Lord in retired places, and yet rejoicing in Christ Jesus.
-'`I am risen with Christ.`'
-I said, '`My hope is cut off, I will lie down in your will, O God;
+"`I am risen with Christ.`"
+I said, "`My hope is cut off, I will lie down in your will, O God;
 do what you will with me, it is in your sovereign pleasure and free gift,
-whether you give me life or deny it to me.`'
+whether you give me life or deny it to me.`"
+
 There must be a resignation of ourselves to the will of God;
 it was so with the Lord Jesus and it is so with every true saint of God.
 You must be humbled as little children, before the judgment be taken away,
@@ -323,13 +332,14 @@ when they are called to such an exercise.
 If they are not called to that,
 then they set their hearts to glorify God in their several places and stations;
 they have full content in a blessed resignation.
-Here their wills are slain, but they praise God they have no desire but, '`Lord,
-your will be done!`' always praising God,
+Here their wills are slain, but they praise God they have no desire but, "`Lord,
+your will be done!`" always praising God,
 always having the fear and the glory of God before their eyes.
+
 All the mischief is hatched in pleasing men`'s own wills; this
 is the counsel of every heart that Christ does not govern.
 Will you live as the Quakers?
-Then you must live contemptibly, the mistress and the maid are '`hail fellows well met.`'
+Then you must live contemptibly, the mistress and the maid are "`hail fellows well met.`"
 Every one must walk in humility, and live in acquaintance with the God of heaven.
 She that is wrought upon by the same Spirit,
 must with all diligence behave herself as becomes a servant of the Lord.
@@ -401,24 +411,30 @@ press forward in the heavenly work, in the power of Christ Jesus,
 even through judgment into death,
 and then he will give you eternal life. The Lord confirm this,
 that it may rest upon your hearts, that you may be dead to the things of the world.
-We are not come to Mount Sinai, that genders to bondage, but '`we are come to Mount Zion,
+We are not come to Mount Sinai, that genders to bondage, but "`we are come to Mount Zion,
 the city of the living God, the heavenly Jerusalem,
 and to an innumerable company of angels,
 to the general assembly and church of the first born which are written in heaven,
 and to God the judge of all, and to the spirits of just men made perfect,
 and to Jesus the Mediator of the new covenant, and to the blood of sprinkling,
-that speaks better things than that of Abel.`'
+that speaks better things than that of Abel.`"
+
 This is the inheritance of the redeemed of the Most High; blessed be the name of the Lord!
 Let us rest in hope, till he bring us to humility and lowliness of mind,
 that he may clothe us with heavenly glory, according to his promise,
-'`I will beautify my house with glory,`' says the Lord.
+"`I will beautify my house with glory,`" says the Lord.
 This is the portion of a poor people, who cast themselves down before the Lord,
 that he may lift them up and be all in all to them,
 in whose blessed presence they shall have joy,
 and rivers of pleasures at his right hand forevermore!
 
+--
+
 [.offset]
 +++[+++The following is the prayer, which he offered up after the preceding testimony.+++]+++
+
+[.embedded-content-document.prayer]
+--
 
 Blessed and glorious God! Your presence and power is with your people everywhere,
 and you are stretching forth your almighty arm, for the salvation of your chosen ones.
@@ -434,6 +450,7 @@ Crown all your chosen ones with your lovingkindness and tender mercy;
 rend the cloud of darkness that hangs over us and take away the veil: bow the heavens,
 and visit us with your salvation, and reveal the mysteries of your Truth unto us,
 and in all our ways let us acknowledge you, and do you lead us in the way everlasting.
+
 Righteous God of love! while we live on earth, let our citizenship be in heaven,
 where Christ our Mediator sits at your right hand; let us follow his example,
 who was holy, harmless, and undefiled, that we may sit in heavenly places with him.
@@ -453,4 +470,45 @@ mercies and spiritual blessings in Christ Jesus,
 for whom we bless you, and in whom we desire to be found,
 not having our own righteousness.
 To Him, with yourself, and your holy eternal Spirit, be glory forever.
-Amen!
+Amen!^
+footnote:[The Editor may be singular in the remark he is about to make,
+or carry his view of the subject beyond what others can follow him in,
+even among the religious Society of which he is a member.
+But he is not satisfied without observing,
+with regard to the practice of taking down sermons
+or prayers delivered in assemblies for divine worship,
+that, in his opinion, the thing is improper.
+{footnote-paragraph-split}
+It may be pleaded,
+that such declarations are recorded in the New Testament;
+and also perhaps that ministers among Friends,
+have even thought it right to set forth in their journals or writings,
+some sketch of what they have had on particular occasions to communicate to the people.
+But in these cases, the analogy is not by any means complete;
+nor can these exceptions be safely held up as any precedent or rule.
+{footnote-paragraph-split}
+The Editor apprehends he sees in the practice,
+a branch of that departure from primitive purity and simplicity,
+which very early enveloped the church in a veil of dimness and delusion.
+If Christian ministers and hearers, when met for divine worship,
+are to know Christ to be in the midst of them by his Spirit, their President and Leader,
+without whose fresh springs of help they can do nothing acceptably towards
+God or towards one another,--how can any be engaged in endeavouring to
+treasure up a stock of instruction against another time,
+or for other circumstances than those,
+under which they had been supplied according to the very hour of need?
+As soon as we leave the sure ground of the immediate
+extension of divine grace and favour to the mind,
+as furnishing the sole impulse and qualification for instrumental labour,
+the transition becomes very easy to recited sermons and forms of prayer.
+Indeed the Editor cannot doubt,
+but that some of those ancient and beautiful compositions,
+which form parts of the service of the [.book-title]#Book of Common Prayer,#
+were actually brought forth under a precious degree of divine influence;
+but the old enemy has contrived, by extolling these productions,
+to lead away the minds of people from that inwardly searching exercise,
+that individual labour, in which such words might have been rightly breathed forth,
+and to settle them down in the use of a form, by way of helping their infirmities,
+to the neglect of feeling after that strength which is "`made perfect in weakness.`"]
+
+--
